@@ -1,1933 +1,443 @@
 #EXTM3U
-#EXTINF:0 CUID="1" tvg-name="HU: 1 Music" group-title="Magyar-v0",HU: 1 Music
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpArVfXQtkDAcu-HHM3U9rETM/ts
-#EXTINF:0 CUID="2" tvg-name="HU: DOQ TV" group-title="Magyar-v0",HU: DOQ TV
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAu6NUJHSwKmMZfSi7FCGYvI/ts
-#EXTINF:0 CUID="3" tvg-name="HU: AMC" group-title="Magyar-v0",HU: AMC
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAmXhLeNw5vNWZ0auFFVno9c/ts
-#EXTINF:0 CUID="4" tvg-name="HU: ATV" group-title="Magyar-v0",HU: ATV
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAmTQAuypxD6GN9MTVOSXS-Y/ts
-#EXTINF:0 CUID="5" tvg-name="HU: AXN" group-title="Magyar-v0",HU: AXN
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAlxdNEmPdjawXukJW3k4swo/ts
-#EXTINF:0 CUID="6" tvg-name="HU: Bonum TV" group-title="Magyar-v0",HU: Bonum TV
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAryu9dwfE5RJnbkIMitegnE/ts
-#EXTINF:0 CUID="7" tvg-name="HU: Boomerang" group-title="Magyar-v0",HU: Boomerang
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAoZmK3OXpNh0zxVcYLcW6ik/ts
-#EXTINF:0 CUID="8" tvg-name="HU: Cartoon Network" group-title="Magyar-v0",HU: Cartoon Network
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAmt9uufLOr8oe8flBUShdNM/ts
-#EXTINF:0 CUID="9" tvg-name="HU: CBS Reality" group-title="Magyar-v0",HU: CBS Reality
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAup9pzAF79IJihO7I6L-jFE/ts
-#EXTINF:0 CUID="10" tvg-name="HU: Comedy Central" group-title="Magyar-v0",HU: Comedy Central
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAmXaqthHwxastWAW3bSwh_c/ts
-#EXTINF:0 CUID="11" tvg-name="HU: Cool TV" group-title="Magyar-v0",HU: Cool TV
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAnOoCcOVekSL_4g1p31nYtQ/ts
-#EXTINF:0 CUID="12" tvg-name="HU: Da Vinci Learning" group-title="Magyar-v0",HU: Da Vinci Learning
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAoEFQEK5csR3CXZqKxbEhsI/ts
-#EXTINF:0 CUID="13" tvg-name="HU: Disney Channel" group-title="Magyar-v0",HU: Disney Channel
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAj1n-GpKJ8MsqQYIqL-qsgM/ts
-#EXTINF:0 CUID="14" tvg-name="HU: Duck TV" group-title="Magyar-v0",HU: Duck TV
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAjqeQfw1_JyDpK8MluN_aUo/ts
-#EXTINF:0 CUID="15" tvg-name="HU: Eurosport 1" group-title="Magyar-v0",HU: Eurosport 1
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAt3ST3DyeNssTisaB1dhHRI/ts
-#EXTINF:0 CUID="16" tvg-name="HU: FEM3" group-title="Magyar-v0",HU: FEM3
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAqliTIo9nON72bOuLdpLttE/ts
-#EXTINF:0 CUID="17" tvg-name="HU: Film+" group-title="Magyar-v0",HU: Film+
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAomKPed9mT9AM0IFaKdqCdw/ts
-#EXTINF:0 CUID="18" tvg-name="HU: FilmBox Cafe" group-title="Magyar-v0",HU: FilmBox Cafe
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAnKIKQpo0Ve32EmTzBFM7zk/ts
-#EXTINF:0 CUID="19" tvg-name="HU: FilmBox Family" group-title="Magyar-v0",HU: FilmBox Family
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAjHHDDNKS63BDFoRSf9xzlM/ts
-#EXTINF:0 CUID="20" tvg-name="HU: Galaxy" group-title="Magyar-v0",HU: Galaxy
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpApXz8o1E9w-gnM-BU9l_PD0/ts
-#EXTINF:0 CUID="21" tvg-name="HU: HBO 3" group-title="Magyar-v0",HU: HBO 3
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpArpS2PT6YYqbGYN_MyRUE6U/ts
-#EXTINF:0 CUID="22" tvg-name="HU: History" group-title="Magyar-v0",HU: History
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAiKYaboOGAF4gTlmrrifKEc/ts
-#EXTINF:0 CUID="23" tvg-name="HU: ID Xtra" group-title="Magyar-v0",HU: ID Xtra
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAnPDfkI1thtmZBUwUIc4ueI/ts
-#EXTINF:0 CUID="24" tvg-name="HU: M1" group-title="Magyar-v0",HU: M1
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAkBLi9lO3h4wMu5OZwqy9Wo/ts
-#EXTINF:0 CUID="25" tvg-name="HU: M2 HD" group-title="Magyar-v0",HU: M2 HD
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAmuYtt3jcUPcDKri9b-1W-k/ts
-#EXTINF:0 CUID="26" tvg-name="HU: M4 Sport FHD" group-title="Magyar-v0",HU: M4 Sport FHD
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAlDn1voecImh4EO-acLCQpQ/ts
-#EXTINF:0 CUID="27" tvg-name="HU: M5 FHD" group-title="Magyar-v0",HU: M5 FHD
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAiFRSo3ME2gDuWlR1zZu7lo/ts
-#EXTINF:0 CUID="28" tvg-name="HU: Minimax" group-title="Magyar-v0",HU: Minimax
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAloD1Lk34e1OtEz5BcSF0Uk/ts
-#EXTINF:0 CUID="29" tvg-name="HU: Mozi+" group-title="Magyar-v0",HU: Mozi+
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpArCa4xOqW586HXLCzFzFhfI/ts
-#EXTINF:0 CUID="30" tvg-name="HU: Nickelodeon" group-title="Magyar-v0",HU: Nickelodeon
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAoRd141959wZSnc17ehmZHw/ts
-#EXTINF:0 CUID="31" tvg-name="HU: RTL 2" group-title="Magyar-v0",HU: RTL 2
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAgVRA37TuUst7aZHHMHZRII/ts
-#EXTINF:0 CUID="32" tvg-name="HU: Slager TV" group-title="Magyar-v0",HU: Slager TV
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAvxUqVkX0GMW-ly3HKVUbZI/ts
-#EXTINF:0 CUID="33" tvg-name="HU: Spektrum" group-title="Magyar-v0",HU: Spektrum
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAlMv4BvIfDMYX3ZtgYPQQ1w/ts
-#EXTINF:0 CUID="34" tvg-name="HU: Spiler TV" group-title="Magyar-v0",HU: Spiler TV
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAsy4i1Gez5lypSU7pLOf7LE/ts
-#EXTINF:0 CUID="35" tvg-name="HU: Sport 2" group-title="Magyar-v0",HU: Sport 2
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAnnn0JKZe5pXTC666KDXTbU/ts
-#EXTINF:0 CUID="36" tvg-name="HU: Sport M" group-title="Magyar-v0",HU: Sport M
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpApFUs-u1j_TDhShaq7xwDug/ts
-#EXTINF:0 CUID="37" tvg-name="HU: Super TV 2 HD" group-title="Magyar-v0",HU: Super TV 2 HD
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAseBbvdxNMXue01qajcTftA/ts
-#EXTINF:0 CUID="38" tvg-name="HU: TLC" group-title="Magyar-v0",HU: TLC
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAkhm91W_x5apEXirR43K9RQ/ts
-#EXTINF:0 CUID="39" tvg-name="HU: TV2" group-title="Magyar-v0",HU: TV2
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAj_M2VBvgcyJtdnbDyXQSyo/ts
-#EXTINF:0 CUID="40" tvg-name="HU: Viasat 3" group-title="Magyar-v0",HU: Viasat 3
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAtsDNfJQFw3P7dVgHuj_azc/ts
-#EXTINF:0 CUID="41" tvg-name="HU: Viasat 6" group-title="Magyar-v0",HU: Viasat 6
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAjDDikj-XwLY7jYor9SmQpo/ts
-#EXTINF:0 CUID="42" tvg-name="HU: Viasat History" group-title="Magyar-v0",HU: Viasat History
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAtYyZhABDzvKW_EYzWc-umw/ts
-#EXTINF:0 CUID="43" tvg-name="AMC" group-title="Magyar-v4",AMC
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAur0xk-Ts6_6OhlOBZFleTw/ts
-#EXTINF:0 CUID="44" tvg-name="Animal Planet" group-title="Magyar-v4",Animal Planet
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpApawZZXmOrUfi4I7ZmZMZvQ/ts
-#EXTINF:0 CUID="45" tvg-name="ARENA 4" group-title="Magyar-v4",ARENA 4
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAjcuzgLVoQESCQSotnCrPYw/ts
-#EXTINF:0 CUID="46" tvg-name="ATV" group-title="Magyar-v4",ATV
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAmRpa3DfX9kFTLeGFHC1jgM/ts
-#EXTINF:0 CUID="47" tvg-name="ATV SPIRIT" group-title="Magyar-v4",ATV SPIRIT
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAuUGQk5nfHEtkON88OUJrr0/ts
-#EXTINF:0 CUID="48" tvg-name="AXN" group-title="Magyar-v4",AXN
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAl8XWqLTxI1teqd_YJSpB0E/ts
-#EXTINF:0 CUID="49" tvg-name="AXN White" group-title="Magyar-v4",AXN White
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAlxXplfCEOAwb9RphSQUdco/ts
-#EXTINF:0 CUID="50" tvg-name="BBC EARTH" group-title="Magyar-v4",BBC EARTH
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAgYhgl5rJwR3bghb_j8ivf0/ts
-#EXTINF:0 CUID="51" tvg-name="Bonum TV" group-title="Magyar-v4",Bonum TV
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAl8l8MNyF29MP6cXQGHDApE/ts
-#EXTINF:0 CUID="52" tvg-name="Cartoon Network" group-title="Magyar-v4",Cartoon Network
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAuJUdpeuoQKk5xaP9kCP780/ts
-#EXTINF:0 CUID="53" tvg-name="CBS Reality" group-title="Magyar-v4",CBS Reality
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAsPz_GkOnrpgIlxOhgUBU_M/ts
-#EXTINF:0 CUID="54" tvg-name="Chili TV" group-title="Magyar-v4",Chili TV
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAvzTjtKpIWMKLw8qf27cT_s/ts
-#EXTINF:0 CUID="55" tvg-name="Cinemax 1" group-title="Magyar-v4",Cinemax 1
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAiWocla2ez9kOimBEzSY7Ps/ts
-#EXTINF:0 CUID="56" tvg-name="Cinemax 2" group-title="Magyar-v4",Cinemax 2
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAgZ_zTACzSARSd9CAES_AhI/ts
-#EXTINF:0 CUID="57" tvg-name="Comedy Central" group-title="Magyar-v4",Comedy Central
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAs7Ko9B1GNwLpfl_KHf727Q/ts
-#EXTINF:0 CUID="58" tvg-name="Cool" group-title="Magyar-v4",Cool
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAqaftUaL6pWd6bwhwqtlWTw/ts
-#EXTINF:0 CUID="59" tvg-name="DIGI Animal World" group-title="Magyar-v4",DIGI Animal World
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAqT3f-RAOHCRIzjTzeVpHos/ts
-#EXTINF:0 CUID="60" tvg-name="DIGI Film" group-title="Magyar-v4",DIGI Film
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAsag35ElnrYw0YXgoIe-sjw/ts
-#EXTINF:0 CUID="61" tvg-name="Digi Life" group-title="Magyar-v4",Digi Life
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAqaedl_IIMbyGNmjeHq3L40/ts
-#EXTINF:0 CUID="62" tvg-name="Digi Sport 1" group-title="Magyar-v4",Digi Sport 1
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAhbWUN32Y1imCaQa0aCKDr0/ts
-#EXTINF:0 CUID="63" tvg-name="Digi Sport 2" group-title="Magyar-v4",Digi Sport 2
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAipaCZiodVOQfcKJPkMCumc/ts
-#EXTINF:0 CUID="64" tvg-name="Digi Sport 3" group-title="Magyar-v4",Digi Sport 3
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAk4Gn5s_h9uQwNnGqG9aGws/ts
-#EXTINF:0 CUID="65" tvg-name="DIGI World" group-title="Magyar-v4",DIGI World
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAtO1IthanJnSHkDAgzhG9a0/ts
-#EXTINF:0 CUID="66" tvg-name="Discovery Channel" group-title="Magyar-v4",Discovery Channel
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAmshvAYM158HcAbtnIflnQk/ts
-#EXTINF:0 CUID="67" tvg-name="Disney Channel" group-title="Magyar-v4",Disney Channel
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAiMoQjze6iIrHUAZUDaG60U/ts
-#EXTINF:0 CUID="68" tvg-name="DTX" group-title="Magyar-v4",DTX
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAukMwr7jbI_4F_WVu3THFk8/ts
-#EXTINF:0 CUID="69" tvg-name="Duck TV" group-title="Magyar-v4",Duck TV
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAviZeSCRu4CtKZzXJ1SMiPM/ts
-#EXTINF:0 CUID="70" tvg-name="Duna" group-title="Magyar-v4",Duna
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAimuxRwsEidoOI-S1a79_3I/ts
-#EXTINF:0 CUID="71" tvg-name="Duna World" group-title="Magyar-v4",Duna World
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAqcIJHCItnLg1mAWWIi1iN8/ts
-#EXTINF:0 CUID="72" tvg-name="Epic Drama" group-title="Magyar-v4",Epic Drama
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAg83B4-PYUqTwbGEWyfXysE/ts
-#EXTINF:0 CUID="73" tvg-name="EUROSPORT 1" group-title="Magyar-v4",EUROSPORT 1
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAtaVoSsQ4E6doEvcz0KolOg/ts
-#EXTINF:0 CUID="74" tvg-name="EUROSPORT 2" group-title="Magyar-v4",EUROSPORT 2
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAkueLGkTmEqQZRe4t6sBSd8/ts
-#EXTINF:0 CUID="75" tvg-name="Extreme Sports" group-title="Magyar-v4",Extreme Sports
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAlCUjGUpkwNB_6CGuv5lui8/ts
-#EXTINF:0 CUID="76" tvg-name="FEM 3" group-title="Magyar-v4",FEM 3
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpArHbCx9D8eYUwCje32_vEM0/ts
-#EXTINF:0 CUID="77" tvg-name="Film Cafe" group-title="Magyar-v4",Film Cafe
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAqKFKrIs-6nrlUo94r7WZ4g/ts
-#EXTINF:0 CUID="78" tvg-name="Film Mania" group-title="Magyar-v4",Film Mania
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpArIJwk455_wsRlozlP-FZ4c/ts
-#EXTINF:0 CUID="79" tvg-name="Film+" group-title="Magyar-v4",Film+
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAp-ZY4S8KBDnpeqrWbrdBjI/ts
-#EXTINF:0 CUID="80" tvg-name="Filmbox" group-title="Magyar-v4",Filmbox
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAvVkTOw3C3pXmiTBeJ3RsjE/ts
-#EXTINF:0 CUID="81" tvg-name="Filmbox Extra" group-title="Magyar-v4",Filmbox Extra
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAssaqwo0LRm97dCEe_I49cY/ts
-#EXTINF:0 CUID="82" tvg-name="FilmBox Family" group-title="Magyar-v4",FilmBox Family
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAuTCRJOZT9Ypm93DkVyE3HE/ts
-#EXTINF:0 CUID="83" tvg-name="FilmBox PLUS" group-title="Magyar-v4",FilmBox PLUS
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAq3xJvyv2YBJigqKVKNWmOo/ts
-#EXTINF:0 CUID="84" tvg-name="FilmBox Premium" group-title="Magyar-v4",FilmBox Premium
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAq604HJts4mGIpdiK4SlqCI/ts
-#EXTINF:0 CUID="85" tvg-name="Fishing & Hunting" group-title="Magyar-v4",Fishing & Hunting
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAkk_p_tmszDE_GqfSTtbXkM/ts
-#EXTINF:0 CUID="86" tvg-name="Fix TV" group-title="Magyar-v4",Fix TV
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAmG-aI0UvB9_piiDay2pASg/ts
-#EXTINF:0 CUID="87" tvg-name="Food Network" group-title="Magyar-v4",Food Network
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAuPOz2qW5Zxk-037kNMMjYM/ts
-#EXTINF:0 CUID="88" tvg-name="HBO 1" group-title="Magyar-v4",HBO 1
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAn9eH-_chpmlFUydmqPIlMg/ts
-#EXTINF:0 CUID="89" tvg-name="HBO 2" group-title="Magyar-v4",HBO 2
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAvHKxpyoKijgQH2chUaZD2k/ts
-#EXTINF:0 CUID="90" tvg-name="HBO 3" group-title="Magyar-v4",HBO 3
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAiJ_bFCHWGUEcmj51_GUcUk/ts
-#EXTINF:0 CUID="91" tvg-name="Heti TV" group-title="Magyar-v4",Heti TV
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAkkjRlQ8_1NdcbcjMV7UGqo/ts
-#EXTINF:0 CUID="92" tvg-name="Hir TV" group-title="Magyar-v4",Hir TV
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAoDRBQAOiTahG3fZ6n6uQVA/ts
-#EXTINF:0 CUID="93" tvg-name="History" group-title="Magyar-v4",History
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAoqyi37nCfe40v_lXC7gLjo/ts
-#EXTINF:0 CUID="94" tvg-name="Izaura TV" group-title="Magyar-v4",Izaura TV
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAhRh550YB7KoDuXhczSYTXo/ts
-#EXTINF:0 CUID="95" tvg-name="JimJam" group-title="Magyar-v4",JimJam
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAj2C0tZswnovkTL6wmwI1v4/ts
-#EXTINF:0 CUID="96" tvg-name="Jocky TV" group-title="Magyar-v4",Jocky TV
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAiu5wApqu5S_iTw21FUQ_Ms/ts
-#EXTINF:0 CUID="97" tvg-name="LIFE" group-title="Magyar-v4",LIFE
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAmtRI1FmRq3u_7JrNUn-7vw/ts
-#EXTINF:0 CUID="98" tvg-name="M 1" group-title="Magyar-v4",M 1
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAtlU-EBsM0Rs3RPHt5Y8ymw/ts
-#EXTINF:0 CUID="99" tvg-name="M 2" group-title="Magyar-v4",M 2
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAknxh91v66mbTacGPIdeyek/ts
-#EXTINF:0 CUID="100" tvg-name="M 5" group-title="Magyar-v4",M 5
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAtEKlW4JiXFZ6Edc4Elc32M/ts
-#EXTINF:0 CUID="101" tvg-name="Minimax" group-title="Magyar-v4",Minimax
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAqDdi2IQlLq3d4CFQ5-CPb8/ts
-#EXTINF:0 CUID="102" tvg-name="Moziverzum" group-title="Magyar-v4",Moziverzum
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAr6gID2AXux2yXsyFpcU43Q/ts
-#EXTINF:0 CUID="103" tvg-name="Nat Geo Wild" group-title="Magyar-v4",Nat Geo Wild
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpApVQRb5JSpIjZifV4dDUVVE/ts
-#EXTINF:0 CUID="104" tvg-name="Nick Jr" group-title="Magyar-v4",Nick Jr
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpArNIhNd1m-u5wSHPwW9pynA/ts
-#EXTINF:0 CUID="105" tvg-name="Ozone TV" group-title="Magyar-v4",Ozone TV
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAu_vcDiaDa7WSwMCm5osUYQ/ts
-#EXTINF:0 CUID="106" tvg-name="Paramount Channel" group-title="Magyar-v4",Paramount Channel
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpApzyxilKINHAL6ToghnLz3Q/ts
-#EXTINF:0 CUID="107" tvg-name="Prime" group-title="Magyar-v4",Prime
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpArUo7xcbXaGkRxe9bknCDeQ/ts
-#EXTINF:0 CUID="108" tvg-name="RTL 2 Kettő" group-title="Magyar-v4",RTL 2 Kettő
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAmOzRc9XxprFG7pfMI1csgU/ts
-#EXTINF:0 CUID="109" tvg-name="RTL Gold" group-title="Magyar-v4",RTL Gold
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAvPoGuHR9mZY3b22s_tlcD4/ts
-#EXTINF:0 CUID="110" tvg-name="RTL Klub" group-title="Magyar-v4",RTL Klub
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAofXIhAnToN6-EXJ5uR1LaM/ts
-#EXTINF:0 CUID="111" tvg-name="RTL+" group-title="Magyar-v4",RTL+
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAs7hKhxLRJZ4l8h1Z5o1pcU/ts
-#EXTINF:0 CUID="112" tvg-name="Slager TV" group-title="Magyar-v4",Slager TV
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAtO41i_wBb8mX2z2YDKRHdQ/ts
-#EXTINF:0 CUID="113" tvg-name="SONY MOVIE" group-title="Magyar-v4",SONY MOVIE
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAhGuF_CjdnLdMEwzjLAzUwI/ts
-#EXTINF:0 CUID="114" tvg-name="SOROZAT+" group-title="Magyar-v4",SOROZAT+
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAtLHsm5l_4WbrNieUpgQ4GE/ts
-#EXTINF:0 CUID="115" tvg-name="Spektrum" group-title="Magyar-v4",Spektrum
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAuDBbybVEPgTG-iQE2s-0w4/ts
-#EXTINF:0 CUID="116" tvg-name="Spektrum Home" group-title="Magyar-v4",Spektrum Home
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAp3rtnxa3N_KlnXpiKuXfyM/ts
-#EXTINF:0 CUID="117" tvg-name="Spiler 2" group-title="Magyar-v4",Spiler 2
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAqQ2L4AZmM82TNVQDR2sr_M/ts
-#EXTINF:0 CUID="118" tvg-name="Sport 1" group-title="Magyar-v4",Sport 1
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAmgAqyrRyZSs8ayU8Nj4UAg/ts
-#EXTINF:0 CUID="119" tvg-name="Sport 2" group-title="Magyar-v4",Sport 2
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAie-NSLyA9wvJWATQs3BScA/ts
-#EXTINF:0 CUID="120" tvg-name="Story 4" group-title="Magyar-v4",Story 4
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAnulAeSF5N6PuNDYcOZqKx0/ts
-#EXTINF:0 CUID="121" tvg-name="Super TV 2" group-title="Magyar-v4",Super TV 2
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAgzB9pWaGgdH8RBH7J4QhdM/ts
-#EXTINF:0 CUID="122" tvg-name="TV2" group-title="Magyar-v4",TV2
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAmkCzo2u7TpuN3alVQzkxa8/ts
-#EXTINF:0 CUID="123" tvg-name="TV4" group-title="Magyar-v4",TV4
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAjpi-7iLLys_nXwsFlez_1A/ts
-#EXTINF:0 CUID="124" tvg-name="Viasat 3" group-title="Magyar-v4",Viasat 3
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAua_17gbKKGRoViECNX9PaU/ts
-#EXTINF:0 CUID="125" tvg-name="Viasat 6" group-title="Magyar-v4",Viasat 6
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpApEMt21G5LaAlpdGZk25UqA/ts
-#EXTINF:0 CUID="126" tvg-name="VIASAT NATURE" group-title="Magyar-v4",VIASAT NATURE
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAgDxeJ_PRxxSjVxwMZU2pmw/ts
-#EXTINF:0 CUID="127" tvg-name="|HU| HBO 3" group-title="Magyar-v1",|HU| HBO 3
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAnYs4VSy8LaN5B2mAhgl1jw/ts
-#EXTINF:0 CUID="128" tvg-name="|HU| Cartoon Network" group-title="Magyar-v1",|HU| Cartoon Network
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAleJ3-AmXYMxaQH9pAp3Qyw/ts
-#EXTINF:0 CUID="129" tvg-name="|HU| AXN Black" group-title="Magyar-v1",|HU| AXN Black
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpApAPD956k71MfMjW0CN4Ahc/ts
-#EXTINF:0 CUID="130" tvg-name="|HU| Cool TV" group-title="Magyar-v1",|HU| Cool TV
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAuPTsVVGlUvcaN1mkrjbaeE/ts
-#EXTINF:0 CUID="131" tvg-name="|HU| RTL Klub mHD" group-title="Magyar-v1",|HU| RTL Klub mHD
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAu_1Bo-IF4aHRmMpdRoAaWg/ts
-#EXTINF:0 CUID="132" tvg-name="|HU| 1 Music" group-title="Magyar-v1",|HU| 1 Music
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAhUWBSJgdg9SZsPX9opIU8g/ts
-#EXTINF:0 CUID="133" tvg-name="|HU| ATV" group-title="Magyar-v1",|HU| ATV
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAr7KllDvX5WtO-IkHxgNcAQ/ts
-#EXTINF:0 CUID="134" tvg-name="|HU| Digi Sport 1 mHD" group-title="Magyar-v1",|HU| Digi Sport 1 mHD
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAoSQicYEwFvmLzhZ9-lkohQ/ts
-#EXTINF:0 CUID="135" tvg-name="|HU| FilmBox Premium" group-title="Magyar-v1",|HU| FilmBox Premium
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAqTjVpLiz7Q2CNiftyEQt-w/ts
-#EXTINF:0 CUID="136" tvg-name="|HU| M2 mHD" group-title="Magyar-v1",|HU| M2 mHD
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAjTNojHsnXxQHr-pHwo_tGo/ts
-#EXTINF:0 CUID="137" tvg-name="|HU| Minimax" group-title="Magyar-v1",|HU| Minimax
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAlcHxAFTUspid9-4xJejx34/ts
-#EXTINF:0 CUID="138" tvg-name="|HU| Sport 1 mHD" group-title="Magyar-v1",|HU| Sport 1 mHD
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpApDjlEyV6B7x52GhU30ir2g/ts
-#EXTINF:0 CUID="139" tvg-name="|HU| Sport 2 mHD" group-title="Magyar-v1",|HU| Sport 2 mHD
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAlBksXtJsYtCZvE30lfFrbg/ts
-#EXTINF:0 CUID="140" tvg-name="|HU| HBO 2" group-title="Magyar-v1",|HU| HBO 2
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAjZW6I4gPf6d9wJMc1pS-H8/ts
-#EXTINF:0 CUID="141" tvg-name="|HU| Disney Channel" group-title="Magyar-v1",|HU| Disney Channel
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAgwXXG2dCHU_Tvos6rtwVpc/ts
-#EXTINF:0 CUID="142" tvg-name="|HU| RTL+" group-title="Magyar-v1",|HU| RTL+
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAjDG2ajFpdIQlY1dGOoTCFM/ts
-#EXTINF:0 CUID="143" tvg-name="|HU| RTL II mHD" group-title="Magyar-v1",|HU| RTL II mHD
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAmFrFcrYNZxSJFXjNPKRjec/ts
-#EXTINF:0 CUID="144" tvg-name="1 Music" group-title="Magyar-v2",1 Music
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAr3dSDvJGHcBK8g_aMwkjs8/ts
-#EXTINF:0 CUID="145" tvg-name="DOQ TV" group-title="Magyar-v2",DOQ TV
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpArzC8UHgr_78uz4Of7Od3Io/ts
-#EXTINF:0 CUID="146" tvg-name="AMC" group-title="Magyar-v2",AMC
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAu4d0YmlSvwjCVPUClz4ivc/ts
-#EXTINF:0 CUID="147" tvg-name="ATV" group-title="Magyar-v2",ATV
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAlwz9y-VdgUptu3qYDg1aRE/ts
-#EXTINF:0 CUID="148" tvg-name="AXN" group-title="Magyar-v2",AXN
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAqbckFjztPsy1NJMVvl-bhw/ts
-#EXTINF:0 CUID="149" tvg-name="Bonum TV" group-title="Magyar-v2",Bonum TV
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAiYs6qcKVoh_JiHxXhy5Jds/ts
-#EXTINF:0 CUID="150" tvg-name="Boomerang" group-title="Magyar-v2",Boomerang
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAkykjPKH7aKmfaoablqeSHc/ts
-#EXTINF:0 CUID="151" tvg-name="Cartoon Network" group-title="Magyar-v2",Cartoon Network
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAlxT2t07hPlu_KqicIYLnqI/ts
-#EXTINF:0 CUID="152" tvg-name="CBS Reality" group-title="Magyar-v2",CBS Reality
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAi0VXGKgBJx5cYVeWHllhuM/ts
-#EXTINF:0 CUID="153" tvg-name="Comedy Central" group-title="Magyar-v2",Comedy Central
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAjLeoocLQx1N3sWvQSvoG-E/ts
-#EXTINF:0 CUID="154" tvg-name="Cool TV" group-title="Magyar-v2",Cool TV
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAiQeruD-ba1_drJVk5IjFD8/ts
-#EXTINF:0 CUID="155" tvg-name="Da Vinci Learning" group-title="Magyar-v2",Da Vinci Learning
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAlBOtihQQVw4VGZDcJQ3IFU/ts
-#EXTINF:0 CUID="156" tvg-name="Digi Sport 1" group-title="Magyar-v2",Digi Sport 1
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAvdBJWjypw5yrJQq4xToqY4/ts
-#EXTINF:0 CUID="157" tvg-name="Digi Sport 3" group-title="Magyar-v2",Digi Sport 3
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAgCXsUxxlwOazlCQsbitEHA/ts
-#EXTINF:0 CUID="158" tvg-name="Digi World" group-title="Magyar-v2",Digi World
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAiE74SW-z6y6nLU5IyRMVPk/ts
-#EXTINF:0 CUID="159" tvg-name="Disney Channel" group-title="Magyar-v2",Disney Channel
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAiOhCAeQpOKCK5RyyUkFMjE/ts
-#EXTINF:0 CUID="160" tvg-name="Duck TV" group-title="Magyar-v2",Duck TV
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAjfskC7MNl8DHFzZxsjasNI/ts
-#EXTINF:0 CUID="161" tvg-name="Eurosport 1" group-title="Magyar-v2",Eurosport 1
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAox8b1DO58xBLb_H5BCLjGc/ts
-#EXTINF:0 CUID="162" tvg-name="FEM3" group-title="Magyar-v2",FEM3
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAoVYxYTAwLedaF01QTaoTKQ/ts
-#EXTINF:0 CUID="163" tvg-name="Film+" group-title="Magyar-v2",Film+
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAptIkw332WXoOuCXbmMK85g/ts
-#EXTINF:0 CUID="164" tvg-name="Film Mania" group-title="Magyar-v2",Film Mania
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAnWBkHdn6Iig1ZTMsY6MfMI/ts
-#EXTINF:0 CUID="165" tvg-name="FilmBox Cafe" group-title="Magyar-v2",FilmBox Cafe
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAmTr5UfX4k_uCF0BuAqu2bY/ts
-#EXTINF:0 CUID="166" tvg-name="FilmBox Family" group-title="Magyar-v2",FilmBox Family
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAl5AU7E5VWcx66J800QgVMo/ts
-#EXTINF:0 CUID="167" tvg-name="Fix TV HD" group-title="Magyar-v2",Fix TV HD
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAvrLdEZd7WQxSr9DRvWiaDc/ts
-#EXTINF:0 CUID="168" tvg-name="FOX" group-title="Magyar-v2",FOX
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAp-pXO7LatR4-HRO6hBi5UA/ts
-#EXTINF:0 CUID="169" tvg-name="Galaxy" group-title="Magyar-v2",Galaxy
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAv_O_EgmB_gl54kYeePLJ0U/ts
-#EXTINF:0 CUID="170" tvg-name="HBO 2" group-title="Magyar-v2",HBO 2
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAvVc4RBJIEEc1AcKRSfg1hA/ts
-#EXTINF:0 CUID="171" tvg-name="HBO 3" group-title="Magyar-v2",HBO 3
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAqKWHUuNfTkllcEx3ocjfFE/ts
-#EXTINF:0 CUID="172" tvg-name="History" group-title="Magyar-v2",History
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAgoGMvvr6fLp2ksG-a573AA/ts
-#EXTINF:0 CUID="173" tvg-name="ID Xtra" group-title="Magyar-v2",ID Xtra
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAioDhLH4w5NrfbId0G9c0gI/ts
-#EXTINF:0 CUID="174" tvg-name="Izaura TV" group-title="Magyar-v2",Izaura TV
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAmUobb4i2UCiqLW0EyMJ_2E/ts
-#EXTINF:0 CUID="175" tvg-name="M1" group-title="Magyar-v2",M1
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAjHf-HJHCDaCon0GTYYff0o/ts
-#EXTINF:0 CUID="176" tvg-name="M2 HD" group-title="Magyar-v2",M2 HD
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAgtWAjzij-OrL_-Gxemousk/ts
-#EXTINF:0 CUID="177" tvg-name="M4 Sport FHD" group-title="Magyar-v2",M4 Sport FHD
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAtc1Glfxu5yn4FseTWD6Ke8/ts
-#EXTINF:0 CUID="178" tvg-name="M5 FHD" group-title="Magyar-v2",M5 FHD
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAn_Z545_OK4B1YDuIC_cKpE/ts
-#EXTINF:0 CUID="179" tvg-name="Markiza" group-title="Magyar-v2",Markiza
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAqPbdzc1fYXW71bhD9NbGI8/ts
-#EXTINF:0 CUID="180" tvg-name="Minimax" group-title="Magyar-v2",Minimax
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAtEC8HiG___jIZumaWJ-0_4/ts
-#EXTINF:0 CUID="181" tvg-name="Mozi+" group-title="Magyar-v2",Mozi+
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAhL4fIAuhcwzSuJst-Qtf6E/ts
-#EXTINF:0 CUID="182" tvg-name="Nickelodeon" group-title="Magyar-v2",Nickelodeon
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAmjTjqWRYsf1_6pbhodDk98/ts
-#EXTINF:0 CUID="183" tvg-name="PAX TV" group-title="Magyar-v2",PAX TV
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAq-nzZkUFUDqMOjTLzZTjlA/ts
-#EXTINF:0 CUID="184" tvg-name="RTL 2" group-title="Magyar-v2",RTL 2
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAivmzpcKDUC_KsLTF2wxFSI/ts
-#EXTINF:0 CUID="185" tvg-name="Slager TV" group-title="Magyar-v2",Slager TV
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAiKFDxjVDla-rwyRl9Khvg4/ts
-#EXTINF:0 CUID="186" tvg-name="Sorozat+" group-title="Magyar-v2",Sorozat+
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAtj-M_6fMT-_bzGnZQScwjg/ts
-#EXTINF:0 CUID="187" tvg-name="Spektrum" group-title="Magyar-v2",Spektrum
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAtFRkmFI9ny9_uuxfqu6Vgs/ts
-#EXTINF:0 CUID="188" tvg-name="Spektrum Home" group-title="Magyar-v2",Spektrum Home
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAkCa2bOxRZSPSA1wN4Csew0/ts
-#EXTINF:0 CUID="189" tvg-name="Spiler TV" group-title="Magyar-v2",Spiler TV
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAtgQQX7HvusUhRrjRb3cneI/ts
-#EXTINF:0 CUID="190" tvg-name="Sport 2" group-title="Magyar-v2",Sport 2
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAmoH5ToCPjgWKnCJ4o02KJY/ts
-#EXTINF:0 CUID="191" tvg-name="Sport M" group-title="Magyar-v2",Sport M
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAqTjSsUI6lL8avjQrL1pSt8/ts
-#EXTINF:0 CUID="192" tvg-name="Super TV 2 HD" group-title="Magyar-v2",Super TV 2 HD
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAjWBD7nty63MTG590Dop8fc/ts
-#EXTINF:0 CUID="193" tvg-name="TLC" group-title="Magyar-v2",TLC
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAlhjcQbXk5-qOrjjxedVLTo/ts
-#EXTINF:0 CUID="194" tvg-name="TV2" group-title="Magyar-v2",TV2
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAs-ozyAQl5-3cJ0Zd3iZw0E/ts
-#EXTINF:0 CUID="195" tvg-name="Viasat 3" group-title="Magyar-v2",Viasat 3
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAuPoHBwIKr3jjFal2xXpOrg/ts
-#EXTINF:0 CUID="196" tvg-name="Viasat 6" group-title="Magyar-v2",Viasat 6
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAhnD8mi3vwBEzzizKmFcIjg/ts
-#EXTINF:0 CUID="197" tvg-name="Viasat History" group-title="Magyar-v2",Viasat History
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAqfPubFkBcJ5xASTPIzktL8/ts
-#EXTINF:0 CUID="198" tvg-name="AMC" group-title="Magyar",AMC
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAk4NM7B4GENWUSYRiPNZ7-k/ts
-#EXTINF:0 CUID="199" tvg-name="ANIMAL PLANET" group-title="Magyar",ANIMAL PLANET
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAvOebJzaTSw5GSzgmKzCClA/ts
-#EXTINF:0 CUID="200" tvg-name="Apostol TV" group-title="Magyar",Apostol TV
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAphsoiYQ3YLIiM2ojVyKWZg/ts
-#EXTINF:0 CUID="201" tvg-name="Arena 4" group-title="Magyar",Arena 4
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAhrZtNJYOYhG8MejZ_Q4lYg/ts
-#EXTINF:0 CUID="202" tvg-name="ATV" group-title="Magyar",ATV
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAgJFv7E0rZntczePZUji8YM/ts
-#EXTINF:0 CUID="203" tvg-name="Auto Motor Sport" group-title="Magyar",Auto Motor Sport
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAgonskr_9e8MNlBVoP0PGr4/ts
-#EXTINF:0 CUID="204" tvg-name="AXN" group-title="Magyar",AXN
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAksOk44gNLQZyljX9q-wx0M/ts
-#EXTINF:0 CUID="205" tvg-name="AXN Black" group-title="Magyar",AXN Black
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAtXEu6GvKrAs2W-ey6vhlzM/ts
-#EXTINF:0 CUID="206" tvg-name="AXN White" group-title="Magyar",AXN White
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAiWWi1-NUlUcCe_EyAYWF2M/ts
-#EXTINF:0 CUID="207" tvg-name="Balaton Televizio" group-title="Magyar",Balaton Televizio
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAslaGWVynq36ZqOiIjWY-N8/ts
-#EXTINF:0 CUID="208" tvg-name="Boomerang" group-title="Magyar",Boomerang
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAsaiNX4jJ4vho2b5ukdQLr8/ts
-#EXTINF:0 CUID="209" tvg-name="Cartoon Network" group-title="Magyar",Cartoon Network
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAhtFNxSogdPOWrraK8OTB9o/ts
-#EXTINF:0 CUID="210" tvg-name="CBS Reality" group-title="Magyar",CBS Reality
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpArpw9bnEbuUmbmOQzA68_V0/ts
-#EXTINF:0 CUID="211" tvg-name="Cinemax" group-title="Magyar",Cinemax
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAglAaWhuy_qHVuJl2xWaofM/ts
-#EXTINF:0 CUID="212" tvg-name="Cinemax 2" group-title="Magyar",Cinemax 2
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAltaxQ4YgSDtBmshogH-byo/ts
-#EXTINF:0 CUID="213" tvg-name="Comedy Central" group-title="Magyar",Comedy Central
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAlGYrlmfFk64SkOQQk7DSp0/ts
-#EXTINF:0 CUID="214" tvg-name="Comedy Central Family" group-title="Magyar",Comedy Central Family
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAh8fZuEqBlMOXM88617QunM/ts
-#EXTINF:0 CUID="215" tvg-name="Cool TV" group-title="Magyar",Cool TV
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAhanvlhOf2WDZjgxlp12W0U/ts
-#EXTINF:0 CUID="216" tvg-name="Da Vinci" group-title="Magyar",Da Vinci
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAkOooHArZ8jTyE6HYmn-HVI/ts
-#EXTINF:0 CUID="217" tvg-name="Digi World" group-title="Magyar",Digi World
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAusjQap2lbLvZ7VkJeHjbw8/ts
-#EXTINF:0 CUID="218" tvg-name="Dikh TV" group-title="Magyar",Dikh TV
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAiTGTpTpsuJ9w0TdESOK558/ts
-#EXTINF:0 CUID="219" tvg-name="Discovery Science" group-title="Magyar",Discovery Science
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAjNDsN-RDKvPsTXoYzKX7WA/ts
-#EXTINF:0 CUID="220" tvg-name="Discovery World" group-title="Magyar",Discovery World
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAoZTikss6TwT7Coo6veZGv8/ts
-#EXTINF:0 CUID="221" tvg-name="Disney Channel" group-title="Magyar",Disney Channel
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAmAhAcQSKZ4VWNNn0GuhobU/ts
-#EXTINF:0 CUID="222" tvg-name="Duck TV" group-title="Magyar",Duck TV
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAr88v3oDVSm3hTeicXAxlj8/ts
-#EXTINF:0 CUID="223" tvg-name="Duna TV" group-title="Magyar",Duna TV
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAoq3hAIns7lPaDzLz-4AR4g/ts
-#EXTINF:0 CUID="224" tvg-name="Duna World" group-title="Magyar",Duna World
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAnV-MQ5yD1UZQlOKEt_3KoA/ts
-#EXTINF:0 CUID="225" tvg-name="Epic Drama" group-title="Magyar",Epic Drama
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAva9gn4ajFqJaEJh7vFQvy8/ts
-#EXTINF:0 CUID="226" tvg-name="EUROSPORT 1" group-title="Magyar",EUROSPORT 1
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAt1fEnsel3DUgbt09vDXuEU/ts
-#EXTINF:0 CUID="227" tvg-name="EUROSPORT 2" group-title="Magyar",EUROSPORT 2
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAnUm2Njo61VELql3J32NLGE/ts
-#EXTINF:0 CUID="228" tvg-name="EWTN" group-title="Magyar",EWTN
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAi6rN9haeIAtkRA5fUMH28U/ts
-#EXTINF:0 CUID="229" tvg-name="Fem 3" group-title="Magyar",Fem 3
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAutVjSHJRXPiDnm85MQ_Jg0/ts
-#EXTINF:0 CUID="230" tvg-name="Film 4" group-title="Magyar",Film 4
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAnZbdM0nS02hLfp09W8xzZk/ts
-#EXTINF:0 CUID="231" tvg-name="Film Cafe" group-title="Magyar",Film Cafe
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAushhKlM4pNT8wm4rD8z2qc/ts
-#EXTINF:0 CUID="232" tvg-name="Film Mania" group-title="Magyar",Film Mania
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAkq2Yq0EaVJ8-TNRbxbkyOw/ts
-#EXTINF:0 CUID="233" tvg-name="Film Now" group-title="Magyar",Film Now
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAiQKxmNsnScG-GlTU-C5OT0/ts
-#EXTINF:0 CUID="234" tvg-name="Film+" group-title="Magyar",Film+
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAscpvSvPBVGWFf_iq-_l6iQ/ts
-#EXTINF:0 CUID="235" tvg-name="Filmbox Arthouse" group-title="Magyar",Filmbox Arthouse
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpApNjnhijlkWKLtg1J6XspHs/ts
-#EXTINF:0 CUID="236" tvg-name="FilmBox Stars" group-title="Magyar",FilmBox Stars
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAtI64dFuuYh8CztvxOdPsZY/ts
-#EXTINF:0 CUID="237" tvg-name="Galaxy 4" group-title="Magyar",Galaxy 4
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAp5p3fKJgcUtsLxbQ9cqMtM/ts
-#EXTINF:0 CUID="238" tvg-name="Halom TV" group-title="Magyar",Halom TV
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpArCLL-gTInpPXwcVixdth2s/ts
-#EXTINF:0 CUID="239" tvg-name="Hatoscsatorna" group-title="Magyar",Hatoscsatorna
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAo7pFV9vM4ILDBffXA_oCvo/ts
-#EXTINF:0 CUID="240" tvg-name="HBO" group-title="Magyar",HBO
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAipBMo1qm5d1EM8wYdZU3BU/ts
-#EXTINF:0 CUID="241" tvg-name="HBO 2" group-title="Magyar",HBO 2
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAjLorcItQ5cpwViDpQG_m-0/ts
-#EXTINF:0 CUID="242" tvg-name="HBO 3" group-title="Magyar",HBO 3
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAgYfBlWzeffAlWmQ6yaJYHc/ts
-#EXTINF:0 CUID="243" tvg-name="Hegyvidek TV" group-title="Magyar",Hegyvidek TV
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAqri_Qt1NQGyk7JE_SnPLzY/ts
-#EXTINF:0 CUID="244" tvg-name="Hir TV" group-title="Magyar",Hir TV
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAoBaHLaV9pqfaprcgeuFZXE/ts
-#EXTINF:0 CUID="245" tvg-name="History" group-title="Magyar",History
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAi8NQ047C5kZyr6GF8wMyns/ts
-#EXTINF:0 CUID="246" tvg-name="Hit Music" group-title="Magyar",Hit Music
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAp9vRDQE4ui1QAHHHwNrDVY/ts
-#EXTINF:0 CUID="247" tvg-name="Investigation Discovery" group-title="Magyar",Investigation Discovery
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAq-fq2tzanot40cQUmgo5SI/ts
-#EXTINF:0 CUID="248" tvg-name="Izaura TV" group-title="Magyar",Izaura TV
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAkSNeXgUTbjD36XuVyRl7OE/ts
-#EXTINF:0 CUID="249" tvg-name="JimJam" group-title="Magyar",JimJam
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAnZ1agCJZQyW_ZXq1EghErU/ts
-#EXTINF:0 CUID="250" tvg-name="Jocky TV" group-title="Magyar",Jocky TV
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAoMBm7hKt2so85e6mGANXSw/ts
-#EXTINF:0 CUID="251" tvg-name="Kecskemeti TV" group-title="Magyar",Kecskemeti TV
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAjg7Uh3X_iRFCci0rfiwnqQ/ts
-#EXTINF:0 CUID="252" tvg-name="Komlos TV" group-title="Magyar",Komlos TV
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAsetrI6-JKJAo7Jg3QMMwLY/ts
-#EXTINF:0 CUID="253" tvg-name="Life TV" group-title="Magyar",Life TV
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAtMpw_5-i2wMdfSo7GUhfGs/ts
-#EXTINF:0 CUID="254" tvg-name="Light Channel TV" group-title="Magyar",Light Channel TV
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAiSFH-DAdj8mvmpq_WQEFFI/ts
-#EXTINF:0 CUID="255" tvg-name="M1" group-title="Magyar",M1
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAoNTjHiO1xNW9MMxpt1h8ws/ts
-#EXTINF:0 CUID="256" tvg-name="M2" group-title="Magyar",M2
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAq9eHic1fJljnmzK8i3P8vg/ts
-#EXTINF:0 CUID="257" tvg-name="M3" group-title="Magyar",M3
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAl12xBSa1Pxb_9-h8xE8vG0/ts
-#EXTINF:0 CUID="258" tvg-name="M4 Sport" group-title="Magyar",M4 Sport
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAj_LtGQvX2kuSEmFLldP63g/ts
-#EXTINF:0 CUID="259" tvg-name="M5" group-title="Magyar",M5
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAgf7FHJSFktER_Pn2WxWNjQ/ts
-#EXTINF:0 CUID="260" tvg-name="Match 4" group-title="Magyar",Match 4
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAs47x5Hj-hI4_cTyYKdrAFY/ts
-#EXTINF:0 CUID="261" tvg-name="Minimax" group-title="Magyar",Minimax
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAm8f20mGBtIVesA0HQGLEz4/ts
-#EXTINF:0 CUID="262" tvg-name="Mozi+" group-title="Magyar",Mozi+
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAqGYdz7XdOYlL7IqUifmWvU/ts
-#EXTINF:0 CUID="263" tvg-name="Moziverzum" group-title="Magyar",Moziverzum
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAr3xzCZy3SamADBaoboDooU/ts
-#EXTINF:0 CUID="264" tvg-name="Music Channel" group-title="Magyar",Music Channel
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAlsW80OeFC0ZPJLxvZ054g0/ts
-#EXTINF:0 CUID="265" tvg-name="Music Plus" group-title="Magyar",Music Plus
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAqf6eK_QoYSLrnar5ELvDM4/ts
-#EXTINF:0 CUID="266" tvg-name="NAT GEO" group-title="Magyar",NAT GEO
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAtP7engsjW-jG-jl7K_MkeE/ts
-#EXTINF:0 CUID="267" tvg-name="NAT GEO Wild" group-title="Magyar",NAT GEO Wild
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAjVVEYqOdqZ29vzH3S2DBKs/ts
-#EXTINF:0 CUID="268" tvg-name="nickelodeon" group-title="Magyar",nickelodeon
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAhxPC3tLzbBWQq41vIUkdTQ/ts
-#EXTINF:0 CUID="269" tvg-name="Ozone TV" group-title="Magyar",Ozone TV
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAvQu0eUQk8pFjzOB8UKFxW4/ts
-#EXTINF:0 CUID="270" tvg-name="Paramount Network" group-title="Magyar",Paramount Network
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAikPLtroxTXlJXBdZEBlWhM/ts
-#EXTINF:0 CUID="271" tvg-name="PAX TV" group-title="Magyar",PAX TV
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAq8iXWOdm9Zk_psbRSXUFz0/ts
-#EXTINF:0 CUID="272" tvg-name="Prime" group-title="Magyar",Prime
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpApVNhLumjBdG8L4bHtmxg5I/ts
-#EXTINF:0 CUID="273" tvg-name="RTL Gold" group-title="Magyar",RTL Gold
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAu37wnJ1Sgtn2-2pKnqEKoA/ts
-#EXTINF:0 CUID="274" tvg-name="RTL II" group-title="Magyar",RTL II
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAjhQUKJnZhp4quSc92MYvys/ts
-#EXTINF:0 CUID="275" tvg-name="RTL Klub" group-title="Magyar",RTL Klub
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAvq7eumwguefqKk96j8rTAM/ts
-#EXTINF:0 CUID="276" tvg-name="Slager TV" group-title="Magyar",Slager TV
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAjfdn_tR1u8hIZhTvCRYbO4/ts
-#EXTINF:0 CUID="277" tvg-name="Sorozat+" group-title="Magyar",Sorozat+
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpArkb-Wx3dxZ6YFaKLY8CIIw/ts
-#EXTINF:0 CUID="278" tvg-name="Spektrum" group-title="Magyar",Spektrum
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAohddTHWzdJ-vAhObr9vw1Y/ts
-#EXTINF:0 CUID="279" tvg-name="Spiler 1" group-title="Magyar",Spiler 1
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAtpiS6Vf0Vlk9GR0VOKcnbs/ts
-#EXTINF:0 CUID="280" tvg-name="Spiler 2" group-title="Magyar",Spiler 2
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAnG8wb7OxVQHVGcvxG44anc/ts
-#EXTINF:0 CUID="281" tvg-name="Sport 1" group-title="Magyar",Sport 1
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAomuAxfA8PoMiDkk4nEXFKY/ts
-#EXTINF:0 CUID="282" tvg-name="Sport 2" group-title="Magyar",Sport 2
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAiWbKvF5i1ZeqyCQaLYRaQ8/ts
-#EXTINF:0 CUID="283" tvg-name="Story 4" group-title="Magyar",Story 4
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAsYGodGI9uLIvr_j9ihIzmc/ts
-#EXTINF:0 CUID="284" tvg-name="Super TV 2" group-title="Magyar",Super TV 2
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAutnNgCUtmqEuQYvmcKL5xo/ts
-#EXTINF:0 CUID="285" tvg-name="The Fishing & Hunting Channel" group-title="Magyar",The Fishing & Hunting Channel
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAvLSWfqBklwKT9ZTvNjnKnM/ts
-#EXTINF:0 CUID="286" tvg-name="Tisza TV" group-title="Magyar",Tisza TV
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAgVjjFXKY27IScIUZuPGrUc/ts
-#EXTINF:0 CUID="287" tvg-name="TLC" group-title="Magyar",TLC
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAkxHWp2hIiQNLopZ4Zx797A/ts
-#EXTINF:0 CUID="288" tvg-name="Travel Channel" group-title="Magyar",Travel Channel
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAu6aiAVh2DSdKBXmCvbOPVg/ts
-#EXTINF:0 CUID="289" tvg-name="TV 2" group-title="Magyar",TV 2
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAmnZsX1ZIxskzHCZVXCXjpA/ts
-#EXTINF:0 CUID="290" tvg-name="TV 2 Comedy" group-title="Magyar",TV 2 Comedy
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpArUF_a-yjC0Q70MfU-4Qvrk/ts
-#EXTINF:0 CUID="291" tvg-name="TV 2 Kids" group-title="Magyar",TV 2 Kids
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAms4qy_IKfCKQVD4qPaDUwI/ts
-#EXTINF:0 CUID="292" tvg-name="TV Paprika" group-title="Magyar",TV Paprika
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAjQT8nuI2shN6xbNi1DDR4E/ts
-#EXTINF:0 CUID="293" tvg-name="TV7 Bekescsaba" group-title="Magyar",TV7 Bekescsaba
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAoJ2VBdqfCRAbiY1Mg_TgNA/ts
-#EXTINF:0 CUID="294" tvg-name="Viasat 2" group-title="Magyar",Viasat 2
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAu5o2CXaAPgiuu75Tm_IL0k/ts
-#EXTINF:0 CUID="295" tvg-name="Viasat 3" group-title="Magyar",Viasat 3
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpApaevgHnlHq2hep6YeNGavY/ts
-#EXTINF:0 CUID="296" tvg-name="Viasat Explore" group-title="Magyar",Viasat Explore
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAn4OVfZVAwNB65ZCt-fmAlg/ts
-#EXTINF:0 CUID="297" tvg-name="Viasat History" group-title="Magyar",Viasat History
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAuFryvoBmyKA3p6r1j0h148/ts
-#EXTINF:0 CUID="298" tvg-name=": AMC" group-title="Magyar-v5",: AMC
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAthsbGHXStTm5cwIUU9EXtQ/ts
-#EXTINF:0 CUID="299" tvg-name=": ANIMAL PLANET" group-title="Magyar-v5",: ANIMAL PLANET
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAt2faO5FBV5pB8BtmM3IrWk/ts
-#EXTINF:0 CUID="300" tvg-name=": APOSTOL TV" group-title="Magyar-v5",: APOSTOL TV
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAnAKblbsKJKEM47VaPxSF9U/ts
-#EXTINF:0 CUID="301" tvg-name=": ATV" group-title="Magyar-v5",: ATV
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAruOo7emiRuL5o7mpKE8h0M/ts
-#EXTINF:0 CUID="302" tvg-name=": AXN" group-title="Magyar-v5",: AXN
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAhpKZ1YR3eIuBWMSNml1NnY/ts
-#EXTINF:0 CUID="303" tvg-name=": BONUM TV" group-title="Magyar-v5",: BONUM TV
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAmI04JX30rISJfeF9EPEFAo/ts
-#EXTINF:0 CUID="304" tvg-name=": BOOMERANG" group-title="Magyar-v5",: BOOMERANG
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAikG21opdXrfO04--J9duy0/ts
-#EXTINF:0 CUID="305" tvg-name=": CARTOON NETWORK" group-title="Magyar-v5",: CARTOON NETWORK
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAjbJ_EtcgOoYVgiO2Ve0Ms8/ts
-#EXTINF:0 CUID="306" tvg-name=": CBS REALITY" group-title="Magyar-v5",: CBS REALITY
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAgIjWomxJlJ-tBOZzWCi7DM/ts
-#EXTINF:0 CUID="307" tvg-name=": CINEMAX 2" group-title="Magyar-v5",: CINEMAX 2
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAsc_Ls76FsEXPyI1pUSi-Rw/ts
-#EXTINF:0 CUID="308" tvg-name=": COMEDY CENTRAL" group-title="Magyar-v5",: COMEDY CENTRAL
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAlnaUtdOycbG3FhRRI-83xk/ts
-#EXTINF:0 CUID="309" tvg-name=": COOL" group-title="Magyar-v5",: COOL
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAkrr1m-YN5b3qCdNMLAUPKw/ts
-#EXTINF:0 CUID="310" tvg-name=": DIGI ANIMAL WORLD" group-title="Magyar-v5",: DIGI ANIMAL WORLD
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAvz2BbzJBuY4VEZ0NwXtW6U/ts
-#EXTINF:0 CUID="311" tvg-name=": DIGI LIFE" group-title="Magyar-v5",: DIGI LIFE
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAtf8Nsm5-NJ2N65hYXMTmtA/ts
-#EXTINF:0 CUID="312" tvg-name=": DIGI SPORT 1" group-title="Magyar-v5",: DIGI SPORT 1
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAtEvwUMZQVEEh90EDOWCS14/ts
-#EXTINF:0 CUID="313" tvg-name=": DIGI SPORT 2" group-title="Magyar-v5",: DIGI SPORT 2
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAnmWfZsVxmPz5LTkxCiKdlY/ts
-#EXTINF:0 CUID="314" tvg-name=": DIGI SPORT 3" group-title="Magyar-v5",: DIGI SPORT 3
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAuH-GdoPHBQsXfjuZgJdVB0/ts
-#EXTINF:0 CUID="315" tvg-name=": DIGI WORLD" group-title="Magyar-v5",: DIGI WORLD
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAokBUXpDyNWUp64gK2Bc2tY/ts
-#EXTINF:0 CUID="316" tvg-name=": DIKH TV" group-title="Magyar-v5",: DIKH TV
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAmt-hUQwGeIPn5LOQqnh2FM/ts
-#EXTINF:0 CUID="317" tvg-name=": DISCOVERY CHANNEL" group-title="Magyar-v5",: DISCOVERY CHANNEL
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAk7Wc6Oa7AZx1-Pbj2wa00E/ts
-#EXTINF:0 CUID="318" tvg-name=": DISCOVERY SCIENCE" group-title="Magyar-v5",: DISCOVERY SCIENCE
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAtUICjL3npwoaGMgiIr-YEs/ts
-#EXTINF:0 CUID="319" tvg-name=": DISNEY CHANNEL" group-title="Magyar-v5",: DISNEY CHANNEL
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAgwhhm1WKnwlmbMTn44BaaA/ts
-#EXTINF:0 CUID="320" tvg-name=": DTX" group-title="Magyar-v5",: DTX
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAhQulqlQnDqQz9niW7dbdH8/ts
-#EXTINF:0 CUID="321" tvg-name=": DUCK TV" group-title="Magyar-v5",: DUCK TV
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAvc6JDcXj-3EsY4FjZTky_w/ts
-#EXTINF:0 CUID="322" tvg-name=": DUNA" group-title="Magyar-v5",: DUNA
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAsFBcBcOtG7N-VU5NI5TKUE/ts
-#EXTINF:0 CUID="323" tvg-name=": DUNA WORLD" group-title="Magyar-v5",: DUNA WORLD
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAoSweQE8CuNB_cbGND55L8s/ts
-#EXTINF:0 CUID="324" tvg-name=": EUROSPORT 1" group-title="Magyar-v5",: EUROSPORT 1
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAubsndkAEHuiJOwLBfPLfjI/ts
-#EXTINF:0 CUID="325" tvg-name=": EUROSPORT 2" group-title="Magyar-v5",: EUROSPORT 2
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAmwaKM54Gk4lv2ZXNPy406Y/ts
-#EXTINF:0 CUID="326" tvg-name=": EXTREME SPORTS" group-title="Magyar-v5",: EXTREME SPORTS
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpApCsiBvrG-K-rN26lEj7hGE/ts
-#EXTINF:0 CUID="327" tvg-name=": FEM 3" group-title="Magyar-v5",: FEM 3
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAtyCu8wDWjNwK3-mciAGzW4/ts
-#EXTINF:0 CUID="328" tvg-name=": FILM" group-title="Magyar-v5",: FILM
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAgfmHBIOuZJqJNRbVlrTon0/ts
-#EXTINF:0 CUID="329" tvg-name=": FILM 4" group-title="Magyar-v5",: FILM 4
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAme0QZUJ51aTS-FDzVommSc/ts
-#EXTINF:0 CUID="330" tvg-name=": FILM CAFE" group-title="Magyar-v5",: FILM CAFE
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAn6cbBt0E7Fl-f-n-iPq0Gk/ts
-#EXTINF:0 CUID="331" tvg-name=": FILM MANIA" group-title="Magyar-v5",: FILM MANIA
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAodP3Ur2CUiMikDe7cOhH8c/ts
-#EXTINF:0 CUID="332" tvg-name=": FILM NOW" group-title="Magyar-v5",: FILM NOW
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAm-6o2XuPlQ3hVi-At94cX4/ts
-#EXTINF:0 CUID="333" tvg-name=": FILMBOX ARTHOUSE" group-title="Magyar-v5",: FILMBOX ARTHOUSE
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAlZOf2gv8nTE5Vlu7OS0lFY/ts
-#EXTINF:0 CUID="334" tvg-name=": FILMBOX PREMIUM" group-title="Magyar-v5",: FILMBOX PREMIUM
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAuLCe-NGy87YICd7XbOfQlc/ts
-#EXTINF:0 CUID="335" tvg-name=": FILMBOX STARS" group-title="Magyar-v5",: FILMBOX STARS
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAkS0baLV8ybIMOdXVjN650Y/ts
-#EXTINF:0 CUID="336" tvg-name=": FIX" group-title="Magyar-v5",: FIX
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAnY_422FuYeBjWjRBkT1pgQ/ts
-#EXTINF:0 CUID="337" tvg-name=": FOOD NETWORK" group-title="Magyar-v5",: FOOD NETWORK
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAgU3iJMKAX1aeFrhu3a-FAE/ts
-#EXTINF:0 CUID="338" tvg-name=": HBO" group-title="Magyar-v5",: HBO
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAuYkRAV2kPOsorRopxPUoq4/ts
-#EXTINF:0 CUID="339" tvg-name=": HBO 2" group-title="Magyar-v5",: HBO 2
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpArxVRTq6MBiaCIHvk79aaM4/ts
-#EXTINF:0 CUID="340" tvg-name=": HBO 3" group-title="Magyar-v5",: HBO 3
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAjMF3IrOZiwjksp11soBPAo/ts
-#EXTINF:0 CUID="341" tvg-name=": HISTORY" group-title="Magyar-v5",: HISTORY
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAjp-jZW_LRpH5unT7r4tBdg/ts
-#EXTINF:0 CUID="342" tvg-name=": IZAURA TV" group-title="Magyar-v5",: IZAURA TV
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAldSmwPRu3UfAuUO51wHA_Y/ts
-#EXTINF:0 CUID="343" tvg-name=": JIMJAM" group-title="Magyar-v5",: JIMJAM
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAhZDhd4YzveV0PlY_n8ka-s/ts
-#EXTINF:0 CUID="344" tvg-name=": JOCKY TV" group-title="Magyar-v5",: JOCKY TV
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAsv_ryjBa7K0-GJN-YMQBMg/ts
-#EXTINF:0 CUID="345" tvg-name=": LIFE NETWORK" group-title="Magyar-v5",: LIFE NETWORK
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAhmd44ZeA_u5IUbf_Ev7et0/ts
-#EXTINF:0 CUID="346" tvg-name=": M1" group-title="Magyar-v5",: M1
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAn17q81NqPwq6DPmsIpgJas/ts
-#EXTINF:0 CUID="347" tvg-name=": M2" group-title="Magyar-v5",: M2
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAhmd6Eu6v-Te0QeBipDRMEo/ts
-#EXTINF:0 CUID="348" tvg-name=": M4" group-title="Magyar-v5",: M4
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAvzk-GUzKeG_fEFJU9ZfsFE/ts
-#EXTINF:0 CUID="349" tvg-name=": M5" group-title="Magyar-v5",: M5
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAi2U2tWIPrqZMCsUTmdl5oE/ts
-#EXTINF:0 CUID="350" tvg-name=": MEGAMAX" group-title="Magyar-v5",: MEGAMAX
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAq_RTCQ9-worzZVMeOo5O3M/ts
-#EXTINF:0 CUID="351" tvg-name=": MINIMAX" group-title="Magyar-v5",: MINIMAX
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpArxE0jUPEvMZWrUCocXicAA/ts
-#EXTINF:0 CUID="352" tvg-name=": MOZI" group-title="Magyar-v5",: MOZI
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAgDo7j3yNaeI2uSFDlcLfl4/ts
-#EXTINF:0 CUID="353" tvg-name=": NAT GEO" group-title="Magyar-v5",: NAT GEO
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAsFSoVYoeLPfcawImp-5kKo/ts
-#EXTINF:0 CUID="354" tvg-name=": NAT GEO WILD" group-title="Magyar-v5",: NAT GEO WILD
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAjxB8FHa-y781DgkQiLFlBc/ts
-#EXTINF:0 CUID="355" tvg-name=": NICKELODEON" group-title="Magyar-v5",: NICKELODEON
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAnOezRCuCZFMXmmPO5yGNhE/ts
-#EXTINF:0 CUID="356" tvg-name=": OZONE NETWORK" group-title="Magyar-v5",: OZONE NETWORK
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpArbP7moP6R7i0zTaIFsrTjE/ts
-#EXTINF:0 CUID="357" tvg-name=": PARAMOUNT CHANNEL NGARY" group-title="Magyar-v5",: PARAMOUNT CHANNEL NGARY
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAkpuP04EMagnl7BH3z0F9sI/ts
-#EXTINF:0 CUID="358" tvg-name=": PRIME" group-title="Magyar-v5",: PRIME
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAq68ungJtT4bWjvXfC_tuM4/ts
-#EXTINF:0 CUID="359" tvg-name=": RTL GOLD" group-title="Magyar-v5",: RTL GOLD
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAvc6fEFyY00dFyZm13GkEN4/ts
-#EXTINF:0 CUID="360" tvg-name=": RTL II" group-title="Magyar-v5",: RTL II
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAvKrL5MWz2pf6VbyZiP45Jc/ts
-#EXTINF:0 CUID="361" tvg-name=": RTL KLUB" group-title="Magyar-v5",: RTL KLUB
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAmoyK2liDIq3-OSq7FEHMbE/ts
-#EXTINF:0 CUID="362" tvg-name=": RTL SPIKE" group-title="Magyar-v5",: RTL SPIKE
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAgKN8tMQWacxexGDUaeaIEY/ts
-#EXTINF:0 CUID="363" tvg-name=": RTL+" group-title="Magyar-v5",: RTL+
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAlMh0HVx73PD1MfAalZIGjg/ts
-#EXTINF:0 CUID="364" tvg-name=": SONY MAX" group-title="Magyar-v5",: SONY MAX
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAgHMePwDDr4cc__Ro2DD6Ok/ts
-#EXTINF:0 CUID="365" tvg-name=": SOROZAT" group-title="Magyar-v5",: SOROZAT
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAm0guOXj6g3I2zs--jqV7zc/ts
-#EXTINF:0 CUID="366" tvg-name=": SOROZAT+" group-title="Magyar-v5",: SOROZAT+
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAueonDbhC-AgS8A0zllndMA/ts
-#EXTINF:0 CUID="367" tvg-name=": SPEKTRUM" group-title="Magyar-v5",: SPEKTRUM
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAlqfandDiboMHcegDoajOV4/ts
-#EXTINF:0 CUID="368" tvg-name=": SPEKTRUM HOME" group-title="Magyar-v5",: SPEKTRUM HOME
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAu1Ki_42Etv4B1Ftn1yvgpg/ts
-#EXTINF:0 CUID="369" tvg-name=": SPILER 2" group-title="Magyar-v5",: SPILER 2
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAlbCVxSklzar5LW3GThGfbo/ts
-#EXTINF:0 CUID="370" tvg-name=": SPILER TV" group-title="Magyar-v5",: SPILER TV
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAjENVeH_5Kxb3CT_rP0_MnQ/ts
-#EXTINF:0 CUID="371" tvg-name=": SPORT 1" group-title="Magyar-v5",: SPORT 1
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpApcYrqw_cZ8Wk1ARpvPXejg/ts
-#EXTINF:0 CUID="372" tvg-name=": SPORT 2" group-title="Magyar-v5",: SPORT 2
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAn2dPBoFO5fAU_sEyozQjnE/ts
-#EXTINF:0 CUID="373" tvg-name=": STORY 4" group-title="Magyar-v5",: STORY 4
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAvdNMMFll3GHerIYjwVvl5s/ts
-#EXTINF:0 CUID="374" tvg-name=": THE FISHING & NTING" group-title="Magyar-v5",: THE FISHING & NTING
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAvurVMEgeZOCmtDekM0MQms/ts
-#EXTINF:0 CUID="375" tvg-name=": TLC" group-title="Magyar-v5",: TLC
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpApwSYlRwKMEH6XbzpbweQRs/ts
-#EXTINF:0 CUID="376" tvg-name=": TRAVEL CHANNEL" group-title="Magyar-v5",: TRAVEL CHANNEL
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAuwiJNJ3aZnt-vBgshL-Cpw/ts
-#EXTINF:0 CUID="377" tvg-name=": TV PAPRIKA" group-title="Magyar-v5",: TV PAPRIKA
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAr540QxwBAcGaHbwQ81g3c4/ts
-#EXTINF:0 CUID="378" tvg-name=": TV2" group-title="Magyar-v5",: TV2
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAsUrpN-QaTwJcA-4_QENu-o/ts
-#EXTINF:0 CUID="379" tvg-name=": TV2 COMEDY" group-title="Magyar-v5",: TV2 COMEDY
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpArW9uMrLnjXyPUo-FlSnmRU/ts
-#EXTINF:0 CUID="380" tvg-name=": TV2 KIDS" group-title="Magyar-v5",: TV2 KIDS
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAqxk7eagpTeV88BUjVe1WRM/ts
-#EXTINF:0 CUID="381" tvg-name=": TV2 SEF" group-title="Magyar-v5",: TV2 SEF
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAuFr2fOdDRbggBBJXn-0Py0/ts
-#EXTINF:0 CUID="382" tvg-name=": VIASAT 3" group-title="Magyar-v5",: VIASAT 3
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAvNW0024JHeghylTe_Uocrw/ts
-#EXTINF:0 CUID="383" tvg-name=": VIASAT 6" group-title="Magyar-v5",: VIASAT 6
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpArEq62EJY3q6WlXYkZndtT0/ts
-#EXTINF:0 CUID="384" tvg-name=": VIASAT EXPLORE" group-title="Magyar-v5",: VIASAT EXPLORE
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAj85iJrVw8LuVrUkxWmsSZ8/ts
-#EXTINF:0 CUID="385" tvg-name=": VIASAT HISTORY" group-title="Magyar-v5",: VIASAT HISTORY
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAobl-RC_Xm895KlUzWcen0s/ts
-#EXTINF:0 CUID="386" tvg-name=": VIASAT NATURE" group-title="Magyar-v5",: VIASAT NATURE
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAp0jipjgxQJklqBcY_ZS2pc/ts
-#EXTINF:0 CUID="387" tvg-name="TV4 .:by prémium:." group-title="Prémium",TV4 .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpArxOkOANCNWPABTGcnqK7FQ/ts
-#EXTINF:0 CUID="388" tvg-name="TV2 Sef .:by prémium:." group-title="Prémium",TV2 Sef .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAkAT5Tj8BauPflz_SO3AxeM/ts
-#EXTINF:0 CUID="389" tvg-name="TV2 HD  .:by prémium:." group-title="Prémium",TV2 HD  .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAkkIc2za_QoSl_9wIOLRTZM/ts
-#EXTINF:0 CUID="390" tvg-name="TV Paprika HU .:by prémium:." group-title="Prémium",TV Paprika HU .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAgpGs5fzE6lA6PIpauix8DA/ts
-#EXTINF:0 CUID="391" tvg-name="TV Paprika .:by prémium:." group-title="Prémium",TV Paprika .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAkGMOJdz2XmHemwovMs7HtU/ts
-#EXTINF:0 CUID="392" tvg-name="Spiler2. .:by prémium:." group-title="Prémium",Spiler2. .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAklNJjd0S7SzAwYE6eid-BI/ts
-#EXTINF:0 CUID="393" tvg-name="Spiler2 .:by prémium:." group-title="Prémium",Spiler2 .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAoJh_WiFWvF-ivvkYtwq8SE/ts
-#EXTINF:0 CUID="394" tvg-name="Spektrum Home .:by prémium:." group-title="Prémium",Spektrum Home .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAiAjiDwRii7SsnI9ZOb4x2U/ts
-#EXTINF:0 CUID="395" tvg-name="Spektrum .:by prémium:." group-title="Prémium",Spektrum .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAoxOl_9SR4hIWQuKBTqYX8M/ts
-#EXTINF:0 CUID="396" tvg-name="Spektrum .:by prémium:." group-title="Prémium",Spektrum .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAoAVzXnvnJ9lWJeB1dYQu48/ts
-#EXTINF:0 CUID="397" tvg-name="STORY 4 .:by prémium:." group-title="Prémium",STORY 4 .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpArIQIWsOiTy_u1TEdA4zdOI/ts
-#EXTINF:0 CUID="398" tvg-name="RTL HD .:by prémium:." group-title="Prémium",RTL HD .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAiez8vioyeuvxOcqI8L9bk4/ts
-#EXTINF:0 CUID="399" tvg-name="RTL HAROM HD .:by prémium:." group-title="Prémium",RTL HAROM HD .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAhjV0MxJjTtH_1py2ByDsac/ts
-#EXTINF:0 CUID="400" tvg-name="HBO HD .:by prémium:." group-title="Prémium",HBO HD .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAg46-SQJA6-glIIQO7jTI8g/ts
-#EXTINF:0 CUID="401" tvg-name="HBO .:by prémium:." group-title="Prémium",HBO .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAg1cLjkSTdhTa4Dj25ZNPRQ/ts
-#EXTINF:0 CUID="402" tvg-name="HBO HU .:by prémium:." group-title="Prémium",HBO HU .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAk5uLr-_gOruDnQzEM4Sitc/ts
-#EXTINF:0 CUID="403" tvg-name="HBO2 .:by prémium:." group-title="Prémium",HBO2 .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAoJEf0WsS7ch4Cqu-ZniLFc/ts
-#EXTINF:0 CUID="404" tvg-name="HBO 2 .:by prémium:." group-title="Prémium",HBO 2 .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAqtlsWgedy685ajerlXxDDE/ts
-#EXTINF:0 CUID="405" tvg-name="Filmbox Premium .:by prémium:." group-title="Prémium",Filmbox Premium .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAtIgJl4DVlGmX6PO1hsoNEM/ts
-#EXTINF:0 CUID="406" tvg-name="Filmbox (basic) HU/RO .:by prémium:." group-title="Prémium",Filmbox (basic) HU/RO .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAkuiJRocK4emm5OchYHh8p4/ts
-#EXTINF:0 CUID="407" tvg-name="FilmBox Extra HD .:by prémium:." group-title="Prémium",FilmBox Extra HD .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAnrkd3qPURK3Y_A1gyqckMU/ts
-#EXTINF:0 CUID="408" tvg-name="Viasat Film .:by prémium:." group-title="Prémium",Viasat Film .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAoNOYTAx2PPkdTXR8OpGZZk/ts
-#EXTINF:0 CUID="409" tvg-name="TV2 Comedy. .:by prémium:." group-title="Prémium",TV2 Comedy. .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAm5at5c7aiLUi_g_E3vAL-o/ts
-#EXTINF:0 CUID="410" tvg-name="TV2 Comedy .:by prémium:." group-title="Prémium",TV2 Comedy .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAuDIvLtBOInclrj-M_spXd8/ts
-#EXTINF:0 CUID="411" tvg-name="Cinemax .:by prémium:." group-title="Prémium",Cinemax .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAi7EiDz8crhzEbeRUu2NlVM/ts
-#EXTINF:0 CUID="412" tvg-name="AXN White .:by prémium:." group-title="Prémium",AXN White .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpApJLU66C5tuJihLusOKWA1o/ts
-#EXTINF:0 CUID="413" tvg-name="AXN CE .:by prémium:." group-title="Prémium",AXN CE .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAmCSbJNjP2Si_bP3SJyeVWU/ts
-#EXTINF:0 CUID="414" tvg-name="AXN Black .:by prémium:." group-title="Prémium",AXN Black .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAgm55UecWJZTPKnZdtLkD10/ts
-#EXTINF:0 CUID="415" tvg-name="AMC HU .:by prémium:." group-title="Prémium",AMC HU .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpApTDLA81TApnxve5cOj8cIY/ts
-#EXTINF:0 CUID="416" tvg-name="AMC CE CZECH .:by prémium:." group-title="Prémium",AMC CE CZECH .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpApJpG-WRiR7v0t9B8-GFfAE/ts
-#EXTINF:0 CUID="417" tvg-name="Minimax .:by prémium:." group-title="Prémium",Minimax .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAoJRgPoOARjL4gghvwz7x3A/ts
-#EXTINF:0 CUID="418" tvg-name="JimJam HU. .:by prémium:." group-title="Prémium",JimJam HU. .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAsZyL8tHTFYc2tZlQbNcMW4/ts
-#EXTINF:0 CUID="419" tvg-name="JimJam HU .:by prémium:." group-title="Prémium",JimJam HU .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAjSyIFxv_ZpuuVIR3zQh2Ow/ts
-#EXTINF:0 CUID="420" tvg-name="Docubox .:by prémium:." group-title="Prémium",Docubox .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAiklOOKiv0CHgiHE6Dhnqbg/ts
-#EXTINF:0 CUID="421" tvg-name="Disney Channel .:by prémium:." group-title="Prémium",Disney Channel .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAn4xOEUNrN61hqvHz75hc6o/ts
-#EXTINF:0 CUID="422" tvg-name="Cartoon Network .:by prémium:." group-title="Prémium",Cartoon Network .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAkdzXGwbvrDnGXmXzTc0SLQ/ts
-#EXTINF:0 CUID="423" tvg-name="Boomerang .:by prémium:." group-title="Prémium",Boomerang .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAjpvsdsjjifsEeIEoLfCAB8/ts
-#EXTINF:0 CUID="424" tvg-name="TV2 Kids. .:by prémium:." group-title="Prémium",TV2 Kids. .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAkRul0h9IJ3CdknXUqHIYEg/ts
-#EXTINF:0 CUID="425" tvg-name="TV2 Kids .:by prémium:." group-title="Prémium",TV2 Kids .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAnKlUPJP3Jx6XC9VQPMbOYM/ts
-#EXTINF:0 CUID="426" tvg-name="Viasat Explore HD .:by prémium:." group-title="Prémium",Viasat Explore HD .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAtfTq8k4saICReq5peGiHUk/ts
-#EXTINF:0 CUID="427" tvg-name="National Geographic HD .:by prémium:." group-title="Prémium",National Geographic HD .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAsJKDL_wYAjHamraMnSal-s/ts
-#EXTINF:0 CUID="428" tvg-name="Nat Geo. .:by prémium:." group-title="Prémium",Nat Geo. .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAiPTWhatha8_DOUYt2cLqfc/ts
-#EXTINF:0 CUID="429" tvg-name="Nat Geo Wild .:by prémium:." group-title="Prémium",Nat Geo Wild .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAiivl1Bdxh6iwunPmZoLiH4/ts
-#EXTINF:0 CUID="430" tvg-name="Nat Geo HD (HUN) .:by prémium:." group-title="Prémium",Nat Geo HD (HUN) .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAtWrZ7bz_Wc1pWlXm3YWhMc/ts
-#EXTINF:0 CUID="431" tvg-name="Nat Geo .:by prémium:." group-title="Prémium",Nat Geo .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAppLmRoduMHahqzhGtJdKFU/ts
-#EXTINF:0 CUID="432" tvg-name="Love Nature HD .:by prémium:." group-title="Prémium",Love Nature HD .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAn9ovkmDK_YdzNHC6CXZqqU/ts
-#EXTINF:0 CUID="433" tvg-name="Life TV .:by prémium:." group-title="Prémium",Life TV .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAtrDQUKSJclBqSn9zW_PPmc/ts
-#EXTINF:0 CUID="434" tvg-name="Viasat History .:by prémium:." group-title="Prémium",Viasat History .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAge2m16NrPpOBhJAuECTBnA/ts
-#EXTINF:0 CUID="435" tvg-name="ID Investigation Discovery .:by prémium:." group-title="Prémium",ID Investigation Discovery .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAtoSn4MuABAeQG2i1RI_CTs/ts
-#EXTINF:0 CUID="436" tvg-name="History HD .:by prémium:." group-title="Prémium",History HD .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpArU6puiKzztRxDa--QjUqM4/ts
-#EXTINF:0 CUID="437" tvg-name="Fishing and Hunting .:by prémium:." group-title="Prémium",Fishing and Hunting .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAsLjPEG2p1AfqK4ueWfHTrw/ts
-#EXTINF:0 CUID="438" tvg-name="Discovery HU .:by prémium:." group-title="Prémium",Discovery HU .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAq2XN1FH8Fg5K89sukPPkEE/ts
-#EXTINF:0 CUID="439" tvg-name="DIGI Sport 1 HD RO .:by prémium:." group-title="Prémium",DIGI Sport 1 HD RO .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAi5QAAF2P6Bo_MWegCmVhNE/ts
-#EXTINF:0 CUID="440" tvg-name="DIGI Sport 2 HD RO .:by prémium:." group-title="Prémium",DIGI Sport 2 HD RO .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAl1nEGElpVz5eFRLa8X_l84/ts
-#EXTINF:0 CUID="441" tvg-name="Sport1 .:by prémium:." group-title="Prémium",Sport1 .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAi063A3BqZHOIe8J_HJAwMQ/ts
-#EXTINF:0 CUID="442" tvg-name="SPORT 1 .:by prémium:." group-title="Prémium",SPORT 1 .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAnyYcG6TXQLGLZH6XXyLxro/ts
-#EXTINF:0 CUID="443" tvg-name="Sport 1 HD .:by prémium:." group-title="Prémium",Sport 1 HD .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAl7GCPsaTQvyJiyVRHza7_Y/ts
-#EXTINF:0 CUID="444" tvg-name="SPORT 2 .:by prémium:." group-title="Prémium",SPORT 2 .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAgW_lKnA25zDUq-DBb--lhY/ts
-#EXTINF:0 CUID="445" tvg-name="Sport2 HD .:by prémium:." group-title="Prémium",Sport2 HD .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAiMXlFGx872mo8g_hdir9-4/ts
-#EXTINF:0 CUID="446" tvg-name="m4 HD .:by prémium:." group-title="Prémium",m4 HD .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAkQ4ooHS3WwF5k36S_3wEdE/ts
-#EXTINF:0 CUID="447" tvg-name="Fightbox .:by prémium:." group-title="Prémium",Fightbox .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAv61AA2psSm1R-C45wV-fT0/ts
-#EXTINF:0 CUID="448" tvg-name="Extreme Sports Channel .:by prémium:." group-title="Prémium",Extreme Sports Channel .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAjy6l92PSk69Rp0VMs-B_2Q/ts
-#EXTINF:0 CUID="449" tvg-name="MATCH4 HD .:by prémium:." group-title="Prémium",MATCH4 HD .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAsUjbtVgTxVO36eub1uIIhU/ts
-#EXTINF:0 CUID="450" tvg-name="m5 HD .:by prémium:." group-title="Prémium",m5 HD .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAvvf2roc9_d8y1Ixh6hv0Fc/ts
-#EXTINF:0 CUID="451" tvg-name="m5 .:by prémium:." group-title="Prémium",m5 .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAtNtJB2_w7G-Lf7bz7iuOIY/ts
-#EXTINF:0 CUID="452" tvg-name="m2 HD .:by prémium:." group-title="Prémium",m2 HD .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAgodO6i38dcUV2v5hCKZBFE/ts
-#EXTINF:0 CUID="453" tvg-name="m2 / Petofi .:by prémium:." group-title="Prémium",m2 / Petofi .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpArD7pMnQkoBsf00O5Fvc9wI/ts
-#EXTINF:0 CUID="454" tvg-name="m1 .:by prémium:." group-title="Prémium",m1 .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpArFItPXyT6fo7fCAmjVyHfI/ts
-#EXTINF:0 CUID="455" tvg-name="Zenebutik .:by prémium:." group-title="Prémium",Zenebutik .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAimunyC6ztoPG4GVBu6dVjE/ts
-#EXTINF:0 CUID="456" tvg-name="Viasat 2 .:by prémium:." group-title="Prémium",Viasat 2 .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAoTg2m3NdXn0e_IyvLgiFlE/ts
-#EXTINF:0 CUID="457" tvg-name="VIASAT 6 .:by prémium:." group-title="Prémium",VIASAT 6 .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAh5r8kTGitkNDI9Ee_I5WVc/ts
-#EXTINF:0 CUID="458" tvg-name="VIASAT 3 .:by prémium:." group-title="Prémium",VIASAT 3 .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAtyn4RrL6qbKJ1TAfbS5b6I/ts
-#EXTINF:0 CUID="459" tvg-name="TVR 1 HD .:by prémium:." group-title="Prémium",TVR 1 HD .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAuyjW0MrII59T6EDawHIEo8/ts
-#EXTINF:0 CUID="460" tvg-name="PRO TV HD .:by prémium:." group-title="Prémium",PRO TV HD .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAvqpO_bXDzzwcpR6yLqgoD8/ts
-#EXTINF:0 CUID="461" tvg-name="Moziverzum. .:by prémium:." group-title="Prémium",Moziverzum. .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAqye1IUfVlJVDTp21syTOiY/ts
-#EXTINF:0 CUID="462" tvg-name="Moziverzum .:by prémium:." group-title="Prémium",Moziverzum .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAu1vjtYtszgBtw1YuUsAd_0/ts
-#EXTINF:0 CUID="463" tvg-name="Mozi+ .:by prémium:." group-title="Prémium",Mozi+ .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAlxZKgeYxF6FMblW-_ukxgI/ts
-#EXTINF:0 CUID="464" tvg-name="M2 .:by prémium:." group-title="Prémium",M2 .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAt6p1Gt9VyuFSiooaqy07Mc/ts
-#EXTINF:0 CUID="465" tvg-name="M1 HD .:by prémium:." group-title="Prémium",M1 HD .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAmNQSzJjGUpxmCKFtcOqo48/ts
-#EXTINF:0 CUID="466" tvg-name="M1 .:by prémium:." group-title="Prémium",M1 .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAqZqxFiOvJytZLYm0OvPM-Y/ts
-#EXTINF:0 CUID="467" tvg-name="Jocky TV. .:by prémium:." group-title="Prémium",Jocky TV. .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAh_4WeKF6xBhIYIxqloJSis/ts
-#EXTINF:0 CUID="468" tvg-name="Jocky TV .:by prémium:." group-title="Prémium",Jocky TV .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAg5NnTz09vBH9ygxZTjreoU/ts
-#EXTINF:0 CUID="469" tvg-name="HirTV .:by prémium:." group-title="Prémium",HirTV .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpApL_gP-B3tZ0ktZVcE2dYRI/ts
-#EXTINF:0 CUID="470" tvg-name="Duna HD .:by prémium:." group-title="Prémium",Duna HD .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAvN_bNINPycBnyF1oyxnLIo/ts
-#EXTINF:0 CUID="471" tvg-name="Duna .:by prémium:." group-title="Prémium",Duna .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAte0I-ByEmb1IlLlFKIi6oA/ts
-#EXTINF:0 CUID="472" tvg-name="HU: AXN Black .:by prémium:." group-title="Prémium",HU: AXN Black .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAnxVFSvUd7tk2NOQBzpLNGE/ts
-#EXTINF:0 CUID="473" tvg-name="HU: AXN .:by prémium:." group-title="Prémium",HU: AXN .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAnm3KF8vuPRkZjZU5uBb7TM/ts
-#EXTINF:0 CUID="474" tvg-name="HU: AXN White .:by prémium:." group-title="Prémium",HU: AXN White .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAg18I6DappTx-ehjnv2gWBc/ts
-#EXTINF:0 CUID="475" tvg-name="HU: Animal Planet .:by prémium:." group-title="Prémium",HU: Animal Planet .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAoqd6CALHcdVQsRt7uOQm_0/ts
-#EXTINF:0 CUID="476" tvg-name="HU: Boomerang .:by prémium:." group-title="Prémium",HU: Boomerang .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAgdJny7LS66fx-45mKfgxnw/ts
-#EXTINF:0 CUID="477" tvg-name="HU: CBS Reality .:by prémium:." group-title="Prémium",HU: CBS Reality .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAoHK05LSgRDIjYj2aSru3dE/ts
-#EXTINF:0 CUID="478" tvg-name="HU: Chili TV .:by prémium:." group-title="Prémium",HU: Chili TV .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAuVQFvZi4dq2Q94p5GZwwNg/ts
-#EXTINF:0 CUID="479" tvg-name="HU: Cinemax 1 .:by prémium:." group-title="Prémium",HU: Cinemax 1 .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAhtun3RvQRmTtAUjiqbHzX4/ts
-#EXTINF:0 CUID="480" tvg-name="HU: Cinemax 2 .:by prémium:." group-title="Prémium",HU: Cinemax 2 .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAlyc0ldKrs1U2LIDDyNfwGU/ts
-#EXTINF:0 CUID="481" tvg-name="HU: DIGI Animal World HD .:by prémium:." group-title="Prémium",HU: DIGI Animal World HD .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAjqcpr9qD04zaoFJTlJs-EI/ts
-#EXTINF:0 CUID="482" tvg-name="HU: DIGI Film .:by prémium:." group-title="Prémium",HU: DIGI Film .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAu_Hak5O53u3lNs4AOO9BEo/ts
-#EXTINF:0 CUID="483" tvg-name="HU: DIGI World HD .:by prémium:." group-title="Prémium",HU: DIGI World HD .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAro8q1vTB13hyM9MJ2-vmos/ts
-#EXTINF:0 CUID="484" tvg-name="HU: DOQ .:by prémium:." group-title="Prémium",HU: DOQ .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAsUzafmeaZxq8xaX4Nw_-IQ/ts
-#EXTINF:0 CUID="485" tvg-name="HU: Da Vinci Learning .:by prémium:." group-title="Prémium",HU: Da Vinci Learning .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAtP3egjkDskuWfDtiwtYFxU/ts
-#EXTINF:0 CUID="486" tvg-name="HU: Digi Animal World .:by prémium:." group-title="Prémium",HU: Digi Animal World .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAiEzELcZt2mZBpU4pHxMR7M/ts
-#EXTINF:0 CUID="487" tvg-name="HU: Digi Life .:by prémium:." group-title="Prémium",HU: Digi Life .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAodEY0sEobMpApaIgZFGMwQ/ts
-#EXTINF:0 CUID="488" tvg-name="HU: Digi Sport 1 HD .:by prémium:." group-title="Prémium",HU: Digi Sport 1 HD .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAuVgoulDNt2y1493I2Bh1eE/ts
-#EXTINF:0 CUID="489" tvg-name="HU: Digi Sport 2 HD .:by prémium:." group-title="Prémium",HU: Digi Sport 2 HD .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAvk7X0NhKHyvW9b1RyNFlKg/ts
-#EXTINF:0 CUID="490" tvg-name="HU: Discovery Channel .:by prémium:." group-title="Prémium",HU: Discovery Channel .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAqCq4GvW-snqFlCDrXYlujA/ts
-#EXTINF:0 CUID="491" tvg-name="HU: Discovery HD Showcase .:by prémium:." group-title="Prémium",HU: Discovery HD Showcase .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAv1vadTSJYXREgokmF0RkU0/ts
-#EXTINF:0 CUID="492" tvg-name="HU: Duck TV .:by prémium:." group-title="Prémium",HU: Duck TV .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAp4UmVnmFqnFhO_j-SQrw5U/ts
-#EXTINF:0 CUID="493" tvg-name="HU: Duna HD .:by prémium:." group-title="Prémium",HU: Duna HD .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAmXeQyZCEYhmLMw3rSmTKdQ/ts
-#EXTINF:0 CUID="494" tvg-name="HU: Duna Televizio .:by prémium:." group-title="Prémium",HU: Duna Televizio .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAvQbSA8RRVG1z60YApbji4s/ts
-#EXTINF:0 CUID="495" tvg-name="HU: Duna World .:by prémium:." group-title="Prémium",HU: Duna World .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAgH1XNLivHjQ00aqLIkdZqM/ts
-#EXTINF:0 CUID="496" tvg-name="HU: Extreme Sports .:by prémium:." group-title="Prémium",HU: Extreme Sports .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAq73UP3uveeff6uOwh1g3M8/ts
-#EXTINF:0 CUID="497" tvg-name="HU: Film 1 .:by prémium:." group-title="Prémium",HU: Film 1 .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAjKwgFIG2kh0P9XreKCOBLQ/ts
-#EXTINF:0 CUID="498" tvg-name="HU: Film Now .:by prémium:." group-title="Prémium",HU: Film Now .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAndvnAl3HbkWaMVB7hWAc-w/ts
-#EXTINF:0 CUID="499" tvg-name="HU: Film Mania .:by prémium:." group-title="Prémium",HU: Film Mania .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAnbuubI2Led9KZA7U9mLuHE/ts
-#EXTINF:0 CUID="500" tvg-name="HU: Film+ .:by prémium:." group-title="Prémium",HU: Film+ .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAufgR0KWIQY6PMHUwc6P4kM/ts
-#EXTINF:0 CUID="501" tvg-name="HU: FilmBox Premium .:by prémium:." group-title="Prémium",HU: FilmBox Premium .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAnPJQ0tR0lKm8WHJckE_PW4/ts
-#EXTINF:0 CUID="502" tvg-name="HU: Filmbox Family .:by prémium:." group-title="Prémium",HU: Filmbox Family .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAvuODJlAVYQBgqm_MReNpeM/ts
-#EXTINF:0 CUID="503" tvg-name="HU: FilmBox Extra HD .:by prémium:." group-title="Prémium",HU: FilmBox Extra HD .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAoq8dV6uM_v_dFtN03JS9vo/ts
-#EXTINF:0 CUID="504" tvg-name="HU: Film Box .:by prémium:." group-title="Prémium",HU: Film Box .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAmocgybd4MTH3oFKcmZ-LsM/ts
-#EXTINF:0 CUID="505" tvg-name="HU: Fix HD .:by prémium:." group-title="Prémium",HU: Fix HD .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAsRgzsvb0rHhVaoTii9hDw8/ts
-#EXTINF:0 CUID="506" tvg-name="HU: Fix TV HD .:by prémium:." group-title="Prémium",HU: Fix TV HD .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAuPw6fkSE8DyWPO4giVcXI0/ts
-#EXTINF:0 CUID="507" tvg-name="HU: Food Network .:by prémium:." group-title="Prémium",HU: Food Network .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAvDFQWkh-bEZ7c3oOCjYMWU/ts
-#EXTINF:0 CUID="508" tvg-name="HU: Galaxy .:by prémium:." group-title="Prémium",HU: Galaxy .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAkOZWWJ8vi0Z4JvQ4YeyQr0/ts
-#EXTINF:0 CUID="509" tvg-name="HU: HBO 1 .:by prémium:." group-title="Prémium",HU: HBO 1 .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAubF-GsbwwzUzMXDblOeRik/ts
-#EXTINF:0 CUID="510" tvg-name="HU: HBO 2 .:by prémium:." group-title="Prémium",HU: HBO 2 .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpApMT2IyTKLMy4Idam5X_uMs/ts
-#EXTINF:0 CUID="511" tvg-name="HU: HBO 3 .:by prémium:." group-title="Prémium",HU: HBO 3 .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAhOjiat-p5Nqdo_qD7IX0gM/ts
-#EXTINF:0 CUID="512" tvg-name="HU: Heti TV .:by prémium:." group-title="Prémium",HU: Heti TV .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAm_qZb6wb4sJN8gseNSo5is/ts
-#EXTINF:0 CUID="513" tvg-name="HU: History .:by prémium:." group-title="Prémium",HU: History .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAh0lu0jf4kZx3XbeL-OR-jw/ts
-#EXTINF:0 CUID="514" tvg-name="HU: Humor .:by prémium:." group-title="Prémium",HU: Humor .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAiCkMXY35XXu_rh3effGWTg/ts
-#EXTINF:0 CUID="515" tvg-name="HU: ID Xtra .:by prémium:." group-title="Prémium",HU: ID Xtra .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAnIV5H43Kst5IKI7hEht5dc/ts
-#EXTINF:0 CUID="516" tvg-name="HU: JimJam .:by prémium:." group-title="Prémium",HU: JimJam .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpApx56Q4hB8aaBLvYuehjYks/ts
-#EXTINF:0 CUID="517" tvg-name="HU: Kiwi TV .:by prémium:." group-title="Prémium",HU: Kiwi TV .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAt1XFxPdggHhEhacCUMzjpI/ts
-#EXTINF:0 CUID="518" tvg-name="HU: Life TV .:by prémium:." group-title="Prémium",HU: Life TV .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAjPmz7bBNKBL0dbDNicl5kA/ts
-#EXTINF:0 CUID="519" tvg-name="HU: Light Channel .:by prémium:." group-title="Prémium",HU: Light Channel .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAnivSQB-FptUwDNOXLyxn7E/ts
-#EXTINF:0 CUID="520" tvg-name="HU: M1 .:by prémium:." group-title="Prémium",HU: M1 .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAqd9rfH1xllefftjnyh3vGw/ts
-#EXTINF:0 CUID="521" tvg-name="HU: M2 HD .:by prémium:." group-title="Prémium",HU: M2 HD .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAjL3quUrwvWHCcKUmuP-PbM/ts
-#EXTINF:0 CUID="522" tvg-name="HU: M4 .:by prémium:." group-title="Prémium",HU: M4 .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAgTpVE-4DE8JXSY6TIScOFI/ts
-#EXTINF:0 CUID="523" tvg-name="HU: MTV DANCE .:by prémium:." group-title="Prémium",HU: MTV DANCE .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpArSCruFUHOJVm2YI5dVlUTE/ts
-#EXTINF:0 CUID="524" tvg-name="HU: MTV EU .:by prémium:." group-title="Prémium",HU: MTV EU .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAhe6dOqwJDqxldMgz1BptVY/ts
-#EXTINF:0 CUID="525" tvg-name="HU: Minimax .:by prémium:." group-title="Prémium",HU: Minimax .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpApK-Ce9qmwUFvtu2OT8tZto/ts
-#EXTINF:0 CUID="526" tvg-name="HU: Music Channel .:by prémium:." group-title="Prémium",HU: Music Channel .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAtBYym1vJq8kF0x7TU_U-lg/ts
-#EXTINF:0 CUID="527" tvg-name="HU: Music TV .:by prémium:." group-title="Prémium",HU: Music TV .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAsAptk1HzWr-mVp3hKqDEhM/ts
-#EXTINF:0 CUID="528" tvg-name="HU: Muzsika TV .:by prémium:." group-title="Prémium",HU: Muzsika TV .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAid3I22fgBNjP081Ay2hyYA/ts
-#EXTINF:0 CUID="529" tvg-name="HU: Nat Geo Wild .:by prémium:." group-title="Prémium",HU: Nat Geo Wild .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpArlsWqy4vum2mr5FPiRleXw/ts
-#EXTINF:0 CUID="530" tvg-name="HU: National Geographic .:by prémium:." group-title="Prémium",HU: National Geographic .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAnKAILSnJEWXXfZH8FbqnV8/ts
-#EXTINF:0 CUID="531" tvg-name="HU: Nickelodeon .:by prémium:." group-title="Prémium",HU: Nickelodeon .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAsXgDEXXo6JwUW6q6HxqUOY/ts
-#EXTINF:0 CUID="532" tvg-name="HU: Ozone Network .:by prémium:." group-title="Prémium",HU: Ozone Network .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpApGiMZJK-afB_4hFzLOtRqs/ts
-#EXTINF:0 CUID="533" tvg-name="HU: Paprika TV .:by prémium:." group-title="Prémium",HU: Paprika TV .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAlBea07R4PV6wjqKi908UiM/ts
-#EXTINF:0 CUID="534" tvg-name="HU: Paramount Channel .:by prémium:." group-title="Prémium",HU: Paramount Channel .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAk03e2mGWKu0cWtsIIJRiBY/ts
-#EXTINF:0 CUID="535" tvg-name="HU: RTL Gold .:by prémium:." group-title="Prémium",HU: RTL Gold .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAgIadmEULDKnRw8-9IK7L1o/ts
-#EXTINF:0 CUID="536" tvg-name="HU: RTL2 .:by prémium:." group-title="Prémium",HU: RTL2 .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAuWmW8i4-smGPW3cRnUAo8E/ts
-#EXTINF:0 CUID="537" tvg-name="HU: RTL Spike .:by prémium:." group-title="Prémium",HU: RTL Spike .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAniw7BK367YImdhfc5DJ5Ww/ts
-#EXTINF:0 CUID="538" tvg-name="HU: RTL Klub .:by prémium:." group-title="Prémium",HU: RTL Klub .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpApBCQP9b33M2VXv7qcmG81I/ts
-#EXTINF:0 CUID="539" tvg-name="HU: RTL GOLD .:by prémium:." group-title="Prémium",HU: RTL GOLD .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAqpyGVOXgJj-Fx5cClo4g9g/ts
-#EXTINF:0 CUID="540" tvg-name="HU: Retro TV .:by prémium:." group-title="Prémium",HU: Retro TV .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAr51gK0ynrM43xMjYLyEj9s/ts
-#EXTINF:0 CUID="541" tvg-name="HU: Slager TV .:by prémium:." group-title="Prémium",HU: Slager TV .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAhDqJxWDCtNuI1KMYNFaiUY/ts
-#EXTINF:0 CUID="542" tvg-name="HU: Sorozat .:by prémium:." group-title="Prémium",HU: Sorozat .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAreqCKxobeC1RG992yz87X8/ts
-#EXTINF:0 CUID="543" tvg-name="HU: Spektrum HD .:by prémium:." group-title="Prémium",HU: Spektrum HD .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAm8p5W7cGhdYgwyqWQdZBsk/ts
-#EXTINF:0 CUID="544" tvg-name="HU: Spektrum Home .:by prémium:." group-title="Prémium",HU: Spektrum Home .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAvMlmVRanUA8xWKVk0Zpdow/ts
-#EXTINF:0 CUID="545" tvg-name="HU: Spiler 1 .:by prémium:." group-title="Prémium",HU: Spiler 1 .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAqXKY5LeMsiIt8MbOptt_To/ts
-#EXTINF:0 CUID="546" tvg-name="HU: Sport 2 .:by prémium:." group-title="Prémium",HU: Sport 2 .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAs8eANcGsk691RnJIZ9ld4w/ts
-#EXTINF:0 CUID="547" tvg-name="HU: Sport 1 .:by prémium:." group-title="Prémium",HU: Sport 1 .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAt-ZauQG3V7z4CQaS-X0PeY/ts
-#EXTINF:0 CUID="548" tvg-name="HU: Story 4 .:by prémium:." group-title="Prémium",HU: Story 4 .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAmQujdelQcWxi1T1WBm5hP0/ts
-#EXTINF:0 CUID="549" tvg-name="HU: TLC .:by prémium:." group-title="Prémium",HU: TLC .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAu-aC0TNSrLRmj-pitNpKvc/ts
-#EXTINF:0 CUID="550" tvg-name="HU: TV2 HD .:by prémium:." group-title="Prémium",HU: TV2 HD .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAiHuQZndBlawgppNazlwAJo/ts
-#EXTINF:0 CUID="551" tvg-name="HU: TV2 .:by prémium:." group-title="Prémium",HU: TV2 .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAgmDWPAT9PtIGNTb2dPhkyY/ts
-#EXTINF:0 CUID="552" tvg-name="HU: TV8 .:by prémium:." group-title="Prémium",HU: TV8 .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAg_k97zC4bsi5zlgolKxrjQ/ts
-#EXTINF:0 CUID="553" tvg-name="HU: TVNZ .:by prémium:." group-title="Prémium",HU: TVNZ .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAl5S0wUtYq8uDnM0U3jfkGQ/ts
-#EXTINF:0 CUID="554" tvg-name="HU: Tisza TV .:by prémium:." group-title="Prémium",HU: Tisza TV .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAhdRas_Y1yC_4GcM2SG4xko/ts
-#EXTINF:0 CUID="555" tvg-name="HU: Travel Channel .:by prémium:." group-title="Prémium",HU: Travel Channel .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAhjt9MPtd1RsX1Ufvsld8ys/ts
-#EXTINF:0 CUID="556" tvg-name="HU: Viasat 3 .:by prémium:." group-title="Prémium",HU: Viasat 3 .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAsqB6tTs8BxEgvXw5Ki1n00/ts
-#EXTINF:0 CUID="557" tvg-name="HU: Viasat History .:by prémium:." group-title="Prémium",HU: Viasat History .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAgoJaSmcCkaF26zoce0kVYQ/ts
-#EXTINF:0 CUID="558" tvg-name="HU: Spiler 2 .:by prémium:." group-title="Prémium",HU: Spiler 2 .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAkUUi8QXn4iwarctZ-KOIck/ts
-#EXTINF:0 CUID="559" tvg-name="HU: Moziverzum .:by prémium:." group-title="Prémium",HU: Moziverzum .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpApmfckDqoqy1CU57u13lsyc/ts
-#EXTINF:0 CUID="560" tvg-name="HU: AMC .:by prémium:." group-title="Prémium",HU: AMC .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAjK3JYdtvCUzPqubpD_lqKA/ts
-#EXTINF:0 CUID="561" tvg-name="HU: ATV Hungary .:by prémium:." group-title="Prémium",HU: ATV Hungary .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAid0u9eJHCQIKcAo2gbecWU/ts
-#EXTINF:0 CUID="562" tvg-name="HU: Disney Channel .:by prémium:." group-title="Prémium",HU: Disney Channel .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpApOFGbKW1tcV5Zu6uGX03lQ/ts
-#EXTINF:0 CUID="563" tvg-name="HU: Eurosport 1 .:by prémium:." group-title="Prémium",HU: Eurosport 1 .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAjQJk7Abjake3w25-UVfTBE/ts
-#EXTINF:0 CUID="564" tvg-name="HU: Eurosport 2 .:by prémium:." group-title="Prémium",HU: Eurosport 2 .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAl1qGNajpSV7GdpFylTWKdA/ts
-#EXTINF:0 CUID="565" tvg-name="HU: Hir TV .:by prémium:." group-title="Prémium",HU: Hir TV .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAjyfCWAjF29IAgKHiAz9fLM/ts
-#EXTINF:0 CUID="566" tvg-name="HU: Izaura TV .:by prémium:." group-title="Prémium",HU: Izaura TV .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAnxYaJpYct11U_j4MWjhREA/ts
-#EXTINF:0 CUID="567" tvg-name="HU: Sorozat + .:by prémium:." group-title="Prémium",HU: Sorozat + .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAh2h0ynzxxdzWmDIkraeoiI/ts
-#EXTINF:0 CUID="568" tvg-name="HU: Spektrum .:by prémium:." group-title="Prémium",HU: Spektrum .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAgoYlD4YYy31YxMTMpJTzAU/ts
-#EXTINF:0 CUID="569" tvg-name="HU: Sport 1 .:by prémium:." group-title="Prémium",HU: Sport 1 .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAgEmFXI8BS28kYlyzsZfL2s/ts
-#EXTINF:0 CUID="570" tvg-name="HU: 1 Music Channel .:by prémium:." group-title="Prémium",HU: 1 Music Channel .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAt-p7opXaZ-FtOVmYGoKE08/ts
-#EXTINF:0 CUID="571" tvg-name="HU: JOJ PLUS HD .:by prémium:." group-title="Prémium",HU: JOJ PLUS HD .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAjBEw9StDRosikMrPyCvm2E/ts
-#EXTINF:0 CUID="572" tvg-name="HU: Cartoon Network .:by prémium:." group-title="Prémium",HU: Cartoon Network .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAmZk5igO-gf5ZfQSkdVXkyc/ts
-#EXTINF:0 CUID="573" tvg-name="HU: Comedy Central .:by prémium:." group-title="Prémium",HU: Comedy Central .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAu4AAN65I37ut-mhyVvM5AQ/ts
-#EXTINF:0 CUID="574" tvg-name="HU: Comedy Central Family .:by prémium:." group-title="Prémium",HU: Comedy Central Family .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpArHOAZ78Nit33zC6qiH0I-A/ts
-#EXTINF:0 CUID="575" tvg-name="HU: Cool .:by prémium:." group-title="Prémium",HU: Cool .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpApPc_imb7VehXD3HpMYRjHs/ts
-#EXTINF:0 CUID="576" tvg-name="HU: Duna Tv .:by prémium:." group-title="Prémium",HU: Duna Tv .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAshFDjDgkdoyE-Gs_iNG-es/ts
-#EXTINF:0 CUID="577" tvg-name="HU: FEM3 Hu .:by prémium:." group-title="Prémium",HU: FEM3 Hu .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAjthF1S3bFFvYlJbvqnJdzU/ts
-#EXTINF:0 CUID="578" tvg-name="HU: M5 .:by prémium:." group-title="Prémium",HU: M5 .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAn-TIDXYHUU56FRB8ad0EPY/ts
-#EXTINF:0 CUID="579" tvg-name="HU: MTV Hungary .:by prémium:." group-title="Prémium",HU: MTV Hungary .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAmdcJ6fMet8kZdKDDLxwY4w/ts
-#EXTINF:0 CUID="580" tvg-name="HU: Nick Jr .:by prémium:." group-title="Prémium",HU: Nick Jr .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAlLrGgEtYNtkJWpkarOHjXU/ts
-#EXTINF:0 CUID="581" tvg-name="HU: Paramount Channel .:by prémium:." group-title="Prémium",HU: Paramount Channel .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAtgDaCfiD2Dvz-KiaD3OxlY/ts
-#EXTINF:0 CUID="582" tvg-name="HU: Sony Max .:by prémium:." group-title="Prémium",HU: Sony Max .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAoiUfaHuDSl5EjbiudDyqjs/ts
-#EXTINF:0 CUID="583" tvg-name="HU: Sony Movie Channel .:by prémium:." group-title="Prémium",HU: Sony Movie Channel .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAsWdfaRvS2Ht0zbvJLUk2Hk/ts
-#EXTINF:0 CUID="584" tvg-name="HU: TV JOJ .:by prémium:." group-title="Prémium",HU: TV JOJ .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAuILTjdlcLDPD3WypMyUtns/ts
-#EXTINF:0 CUID="585" tvg-name="HU: Viasat 6 .:by prémium:." group-title="Prémium",HU: Viasat 6 .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAk9hArg21sImhGnUliwcy9A/ts
-#EXTINF:0 CUID="586" tvg-name="HU: Prime .:by prémium:." group-title="Prémium",HU: Prime .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAv9ezG0ycd_llowW0Tww-yY/ts
-#EXTINF:0 CUID="587" tvg-name="HU: Film 4 .:by prémium:." group-title="Prémium",HU: Film 4 .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAjaPhRx9JDrwOEr4unC7ei0/ts
-#EXTINF:0 CUID="588" tvg-name="HU: HBO HD .:by prémium:." group-title="Prémium",HU: HBO HD .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAo_OrHTX8fuIrHLWY3Ff56Y/ts
-#EXTINF:0 CUID="760" tvg-name="HU: Paprika TV .:by prémium:." group-title="Prémium",HU: Paprika TV .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAlBea07R4PV6wjqKi908UiM/ts
-#EXTINF:0 CUID="761" tvg-name="HU: Paramount Channel .:by prémium:." group-title="Prémium",HU: Paramount Channel .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAk03e2mGWKu0cWtsIIJRiBY/ts
-#EXTINF:0 CUID="762" tvg-name="HU: RTL Gold .:by prémium:." group-title="Prémium",HU: RTL Gold .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAgIadmEULDKnRw8-9IK7L1o/ts
-#EXTINF:0 CUID="763" tvg-name="HU: RTL2 .:by prémium:." group-title="Prémium",HU: RTL2 .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAuWmW8i4-smGPW3cRnUAo8E/ts
-#EXTINF:0 CUID="764" tvg-name="HU: RTL Spike .:by prémium:." group-title="Prémium",HU: RTL Spike .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAniw7BK367YImdhfc5DJ5Ww/ts
-#EXTINF:0 CUID="765" tvg-name="HU: RTL Klub .:by prémium:." group-title="Prémium",HU: RTL Klub .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpApBCQP9b33M2VXv7qcmG81I/ts
-#EXTINF:0 CUID="766" tvg-name="HU: RTL GOLD .:by prémium:." group-title="Prémium",HU: RTL GOLD .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAqpyGVOXgJj-Fx5cClo4g9g/ts
-#EXTINF:0 CUID="767" tvg-name="HU: Retro TV .:by prémium:." group-title="Prémium",HU: Retro TV .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAr51gK0ynrM43xMjYLyEj9s/ts
-#EXTINF:0 CUID="768" tvg-name="HU: Slager TV .:by prémium:." group-title="Prémium",HU: Slager TV .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAhDqJxWDCtNuI1KMYNFaiUY/ts
-#EXTINF:0 CUID="769" tvg-name="HU: Sorozat .:by prémium:." group-title="Prémium",HU: Sorozat .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAreqCKxobeC1RG992yz87X8/ts
-#EXTINF:0 CUID="770" tvg-name="HU: Spektrum HD .:by prémium:." group-title="Prémium",HU: Spektrum HD .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAm8p5W7cGhdYgwyqWQdZBsk/ts
-#EXTINF:0 CUID="771" tvg-name="HU: Spektrum Home .:by prémium:." group-title="Prémium",HU: Spektrum Home .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAvMlmVRanUA8xWKVk0Zpdow/ts
-#EXTINF:0 CUID="772" tvg-name="HU: Spiler 1 .:by prémium:." group-title="Prémium",HU: Spiler 1 .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAqXKY5LeMsiIt8MbOptt_To/ts
-#EXTINF:0 CUID="773" tvg-name="HU: Sport 2 .:by prémium:." group-title="Prémium",HU: Sport 2 .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAs8eANcGsk691RnJIZ9ld4w/ts
-#EXTINF:0 CUID="774" tvg-name="HU: Sport 1 .:by prémium:." group-title="Prémium",HU: Sport 1 .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAt-ZauQG3V7z4CQaS-X0PeY/ts
-#EXTINF:0 CUID="775" tvg-name="HU: Story 4 .:by prémium:." group-title="Prémium",HU: Story 4 .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAmQujdelQcWxi1T1WBm5hP0/ts
-#EXTINF:0 CUID="776" tvg-name="HU: TLC .:by prémium:." group-title="Prémium",HU: TLC .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAu-aC0TNSrLRmj-pitNpKvc/ts
-#EXTINF:0 CUID="777" tvg-name="HU: TV2 HD .:by prémium:." group-title="Prémium",HU: TV2 HD .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAiHuQZndBlawgppNazlwAJo/ts
-#EXTINF:0 CUID="778" tvg-name="HU: TV2 .:by prémium:." group-title="Prémium",HU: TV2 .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAgmDWPAT9PtIGNTb2dPhkyY/ts
-#EXTINF:0 CUID="779" tvg-name="HU: TV8 .:by prémium:." group-title="Prémium",HU: TV8 .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAg_k97zC4bsi5zlgolKxrjQ/ts
-#EXTINF:0 CUID="780" tvg-name="HU: TVNZ .:by prémium:." group-title="Prémium",HU: TVNZ .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAl5S0wUtYq8uDnM0U3jfkGQ/ts
-#EXTINF:0 CUID="781" tvg-name="HU: Tisza TV .:by prémium:." group-title="Prémium",HU: Tisza TV .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAhdRas_Y1yC_4GcM2SG4xko/ts
-#EXTINF:0 CUID="782" tvg-name="HU: Travel Channel .:by prémium:." group-title="Prémium",HU: Travel Channel .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAhjt9MPtd1RsX1Ufvsld8ys/ts
-#EXTINF:0 CUID="783" tvg-name="HU: Viasat 3 .:by prémium:." group-title="Prémium",HU: Viasat 3 .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAsqB6tTs8BxEgvXw5Ki1n00/ts
-#EXTINF:0 CUID="784" tvg-name="HU: Viasat History .:by prémium:." group-title="Prémium",HU: Viasat History .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAgoJaSmcCkaF26zoce0kVYQ/ts
-#EXTINF:0 CUID="785" tvg-name="HU: Spiler 2 .:by prémium:." group-title="Prémium",HU: Spiler 2 .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAkUUi8QXn4iwarctZ-KOIck/ts
-#EXTINF:0 CUID="786" tvg-name="HU: Moziverzum .:by prémium:." group-title="Prémium",HU: Moziverzum .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpApmfckDqoqy1CU57u13lsyc/ts
-#EXTINF:0 CUID="787" tvg-name="HU: AMC .:by prémium:." group-title="Prémium",HU: AMC .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAjK3JYdtvCUzPqubpD_lqKA/ts
-#EXTINF:0 CUID="788" tvg-name="HU: ATV Hungary .:by prémium:." group-title="Prémium",HU: ATV Hungary .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAid0u9eJHCQIKcAo2gbecWU/ts
-#EXTINF:0 CUID="789" tvg-name="HU: Disney Channel .:by prémium:." group-title="Prémium",HU: Disney Channel .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpApOFGbKW1tcV5Zu6uGX03lQ/ts
-#EXTINF:0 CUID="790" tvg-name="HU: Eurosport 1 .:by prémium:." group-title="Prémium",HU: Eurosport 1 .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAjQJk7Abjake3w25-UVfTBE/ts
-#EXTINF:0 CUID="791" tvg-name="HU: Eurosport 2 .:by prémium:." group-title="Prémium",HU: Eurosport 2 .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAl1qGNajpSV7GdpFylTWKdA/ts
-#EXTINF:0 CUID="792" tvg-name="HU: Hir TV .:by prémium:." group-title="Prémium",HU: Hir TV .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAjyfCWAjF29IAgKHiAz9fLM/ts
-#EXTINF:0 CUID="793" tvg-name="HU: Izaura TV .:by prémium:." group-title="Prémium",HU: Izaura TV .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAnxYaJpYct11U_j4MWjhREA/ts
-#EXTINF:0 CUID="794" tvg-name="HU: Sorozat + .:by prémium:." group-title="Prémium",HU: Sorozat + .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAh2h0ynzxxdzWmDIkraeoiI/ts
-#EXTINF:0 CUID="795" tvg-name="HU: Spektrum .:by prémium:." group-title="Prémium",HU: Spektrum .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAgoYlD4YYy31YxMTMpJTzAU/ts
-#EXTINF:0 CUID="796" tvg-name="HU: Sport 1 .:by prémium:." group-title="Prémium",HU: Sport 1 .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAgEmFXI8BS28kYlyzsZfL2s/ts
-#EXTINF:0 CUID="797" tvg-name="HU: 1 Music Channel .:by prémium:." group-title="Prémium",HU: 1 Music Channel .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAt-p7opXaZ-FtOVmYGoKE08/ts
-#EXTINF:0 CUID="798" tvg-name="HU: JOJ PLUS HD .:by prémium:." group-title="Prémium",HU: JOJ PLUS HD .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAjBEw9StDRosikMrPyCvm2E/ts
-#EXTINF:0 CUID="799" tvg-name="HU: Cartoon Network .:by prémium:." group-title="Prémium",HU: Cartoon Network .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAmZk5igO-gf5ZfQSkdVXkyc/ts
-#EXTINF:0 CUID="800" tvg-name="HU: Comedy Central .:by prémium:." group-title="Prémium",HU: Comedy Central .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAu4AAN65I37ut-mhyVvM5AQ/ts
-#EXTINF:0 CUID="801" tvg-name="HU: Comedy Central Family .:by prémium:." group-title="Prémium",HU: Comedy Central Family .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpArHOAZ78Nit33zC6qiH0I-A/ts
-#EXTINF:0 CUID="802" tvg-name="HU: Cool .:by prémium:." group-title="Prémium",HU: Cool .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpApPc_imb7VehXD3HpMYRjHs/ts
-#EXTINF:0 CUID="803" tvg-name="HU: Duna Tv .:by prémium:." group-title="Prémium",HU: Duna Tv .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAshFDjDgkdoyE-Gs_iNG-es/ts
-#EXTINF:0 CUID="804" tvg-name="HU: FEM3 Hu .:by prémium:." group-title="Prémium",HU: FEM3 Hu .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAjthF1S3bFFvYlJbvqnJdzU/ts
-#EXTINF:0 CUID="805" tvg-name="HU: M5 .:by prémium:." group-title="Prémium",HU: M5 .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAn-TIDXYHUU56FRB8ad0EPY/ts
-#EXTINF:0 CUID="806" tvg-name="HU: MTV Hungary .:by prémium:." group-title="Prémium",HU: MTV Hungary .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAmdcJ6fMet8kZdKDDLxwY4w/ts
-#EXTINF:0 CUID="807" tvg-name="HU: Nick Jr .:by prémium:." group-title="Prémium",HU: Nick Jr .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAlLrGgEtYNtkJWpkarOHjXU/ts
-#EXTINF:0 CUID="808" tvg-name="HU: Paramount Channel .:by prémium:." group-title="Prémium",HU: Paramount Channel .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAtgDaCfiD2Dvz-KiaD3OxlY/ts
-#EXTINF:0 CUID="809" tvg-name="HU: Sony Max .:by prémium:." group-title="Prémium",HU: Sony Max .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAoiUfaHuDSl5EjbiudDyqjs/ts
-#EXTINF:0 CUID="810" tvg-name="HU: Sony Movie Channel .:by prémium:." group-title="Prémium",HU: Sony Movie Channel .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAsWdfaRvS2Ht0zbvJLUk2Hk/ts
-#EXTINF:0 CUID="811" tvg-name="HU: TV JOJ .:by prémium:." group-title="Prémium",HU: TV JOJ .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAuILTjdlcLDPD3WypMyUtns/ts
-#EXTINF:0 CUID="812" tvg-name="HU: Viasat 6 .:by prémium:." group-title="Prémium",HU: Viasat 6 .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAk9hArg21sImhGnUliwcy9A/ts
-#EXTINF:0 CUID="813" tvg-name="HU: Prime .:by prémium:." group-title="Prémium",HU: Prime .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAv9ezG0ycd_llowW0Tww-yY/ts
-#EXTINF:0 CUID="814" tvg-name="HU: Film 4 .:by prémium:." group-title="Prémium",HU: Film 4 .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAjaPhRx9JDrwOEr4unC7ei0/ts
-#EXTINF:0 CUID="815" tvg-name="HU: HBO HD .:by prémium:." group-title="Prémium",HU: HBO HD .:by prémium:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAo_OrHTX8fuIrHLWY3Ff56Y/ts
-#EXTINF:0 CUID="589" tvg-name="AMC.:by prémium2:." group-title="Prémium2",AMC.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAtaixjZmOqCpj3L_AhN4e_c/ts
-#EXTINF:0 CUID="590" tvg-name="ANIMAL PLANET.:by prémium2:." group-title="Prémium2",ANIMAL PLANET.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAt6YLLjz5-DwUkeYCmZqwkY/ts
-#EXTINF:0 CUID="591" tvg-name="Apostol TV.:by prémium2:." group-title="Prémium2",Apostol TV.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAqZBx0HJilTM9RN7AVhSZj0/ts
-#EXTINF:0 CUID="592" tvg-name="Arena 4.:by prémium2:." group-title="Prémium2",Arena 4.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpArfsqynUJKgPCqhY8G9KUbI/ts
-#EXTINF:0 CUID="593" tvg-name="ATV.:by prémium2:." group-title="Prémium2",ATV.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAsufLQKxgGAVLJlo2DlvKHs/ts
-#EXTINF:0 CUID="594" tvg-name="Auto Motor Sport.:by prémium2:." group-title="Prémium2",Auto Motor Sport.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAmDsqex85GeWo38PcBI_h4M/ts
-#EXTINF:0 CUID="595" tvg-name="AXN.:by prémium2:." group-title="Prémium2",AXN.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAm_s1u5s-dl3aDYQKzSxuHE/ts
-#EXTINF:0 CUID="596" tvg-name="AXN Black.:by prémium2:." group-title="Prémium2",AXN Black.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAsCKC24ghaTCtAmUUz0FlqI/ts
-#EXTINF:0 CUID="597" tvg-name="AXN White.:by prémium2:." group-title="Prémium2",AXN White.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAnzLAwuIDZt5vn9j1B9SsW8/ts
-#EXTINF:0 CUID="598" tvg-name="Balaton Televizio.:by prémium2:." group-title="Prémium2",Balaton Televizio.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAgVpt6PxVqZaAB7uNEoKwnk/ts
-#EXTINF:0 CUID="599" tvg-name="Boomerang.:by prémium2:." group-title="Prémium2",Boomerang.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAsKG3PFVWXIIRcqvjYOTgUM/ts
-#EXTINF:0 CUID="600" tvg-name="Cartoon Network.:by prémium2:." group-title="Prémium2",Cartoon Network.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAjWbWFZhdfmBXCRb5_wYBmk/ts
-#EXTINF:0 CUID="601" tvg-name="CBS Reality.:by prémium2:." group-title="Prémium2",CBS Reality.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAu7uIOOBjPVMDTLx8flYZ-c/ts
-#EXTINF:0 CUID="602" tvg-name="Cinemax.:by prémium2:." group-title="Prémium2",Cinemax.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAkMfZjJxhaAoGP17Y9QGVNQ/ts
-#EXTINF:0 CUID="603" tvg-name="Cinemax 2.:by prémium2:." group-title="Prémium2",Cinemax 2.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAhUnPvnkzyjVVpKZC0TX_kE/ts
-#EXTINF:0 CUID="604" tvg-name="Comedy Central.:by prémium2:." group-title="Prémium2",Comedy Central.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAnko1IMi-PRXTZc8VZbZiBE/ts
-#EXTINF:0 CUID="605" tvg-name="Comedy Central Family.:by prémium2:." group-title="Prémium2",Comedy Central Family.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAtmMyMg8wQS6w3PYWqMZkPg/ts
-#EXTINF:0 CUID="606" tvg-name="Cool TV.:by prémium2:." group-title="Prémium2",Cool TV.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAvZwF4JBpgpUL3C0i6A4mqI/ts
-#EXTINF:0 CUID="607" tvg-name="Da Vinci.:by prémium2:." group-title="Prémium2",Da Vinci.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAsc3EniBGEz8YOoDCD1xF-c/ts
-#EXTINF:0 CUID="608" tvg-name="Digi World.:by prémium2:." group-title="Prémium2",Digi World.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAo05RT6VcccvyT_UZ6jgLaM/ts
-#EXTINF:0 CUID="609" tvg-name="Dikh TV.:by prémium2:." group-title="Prémium2",Dikh TV.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAmrOKIvOUuDYdxFHK_RR_BI/ts
-#EXTINF:0 CUID="610" tvg-name="Discovery Science.:by prémium2:." group-title="Prémium2",Discovery Science.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAjjYwuwwhSXvhcefOCFoBJU/ts
-#EXTINF:0 CUID="611" tvg-name="Discovery World.:by prémium2:." group-title="Prémium2",Discovery World.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAuc5c7AecHje-XpUiEYMOBo/ts
-#EXTINF:0 CUID="612" tvg-name="Disney Channel.:by prémium2:." group-title="Prémium2",Disney Channel.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAuOGc_kjZFnzuNHzTcZVyys/ts
-#EXTINF:0 CUID="613" tvg-name="Duck TV.:by prémium2:." group-title="Prémium2",Duck TV.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAviiwgmDKMi2VCrSbahZzOU/ts
-#EXTINF:0 CUID="614" tvg-name="Duna TV.:by prémium2:." group-title="Prémium2",Duna TV.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAtVuQJqwV4AveyURBXY-SWA/ts
-#EXTINF:0 CUID="615" tvg-name="Duna World.:by prémium2:." group-title="Prémium2",Duna World.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAhfkX7gnRoMPi0IihDaDRhI/ts
-#EXTINF:0 CUID="616" tvg-name="Epic Drama.:by prémium2:." group-title="Prémium2",Epic Drama.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAhr0Lvm2g6p57EQL7ezjq98/ts
-#EXTINF:0 CUID="617" tvg-name="EUROSPORT 1.:by prémium2:." group-title="Prémium2",EUROSPORT 1.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAuDuT8kYLd7v4o4mpEsOhqU/ts
-#EXTINF:0 CUID="618" tvg-name="EUROSPORT 2.:by prémium2:." group-title="Prémium2",EUROSPORT 2.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAq2tHeN6xAU9Cr41LX9K760/ts
-#EXTINF:0 CUID="619" tvg-name="EWTN.:by prémium2:." group-title="Prémium2",EWTN.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAmemmUNzgPkiRVEOYoomecw/ts
-#EXTINF:0 CUID="620" tvg-name="Fem 3.:by prémium2:." group-title="Prémium2",Fem 3.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAp7nk9ZZol2o-hNWCQq864g/ts
-#EXTINF:0 CUID="621" tvg-name="Film 4.:by prémium2:." group-title="Prémium2",Film 4.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAsBPjQlgvdoKSJtcNhIaLMU/ts
-#EXTINF:0 CUID="622" tvg-name="Film Cafe.:by prémium2:." group-title="Prémium2",Film Cafe.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAjZ5DbfQ1V8n5GeasNmUOOw/ts
-#EXTINF:0 CUID="623" tvg-name="Film Mania.:by prémium2:." group-title="Prémium2",Film Mania.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpApTg9jUqevlCrgCUwcksk0Y/ts
-#EXTINF:0 CUID="624" tvg-name="Film Now.:by prémium2:." group-title="Prémium2",Film Now.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAtyF6HHCRHune13AI-CeSZY/ts
-#EXTINF:0 CUID="625" tvg-name="Film+.:by prémium2:." group-title="Prémium2",Film+.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAjx43-7WqWgx-5nlLKyAiDw/ts
-#EXTINF:0 CUID="626" tvg-name="Filmbox Arthouse.:by prémium2:." group-title="Prémium2",Filmbox Arthouse.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpApMlM_lotebjWbUwKJCaCss/ts
-#EXTINF:0 CUID="627" tvg-name="FilmBox Premium.:by prémium2:." group-title="Prémium2",FilmBox Premium.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAgpX8eetI7y0D8EndKHabSY/ts
-#EXTINF:0 CUID="628" tvg-name="FilmBox Stars.:by prémium2:." group-title="Prémium2",FilmBox Stars.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAgkzFMYa_IF_7KjBc2QGOZA/ts
-#EXTINF:0 CUID="629" tvg-name="Galaxy 4.:by prémium2:." group-title="Prémium2",Galaxy 4.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAn-INOvfk1igKZb3v3EjFzw/ts
-#EXTINF:0 CUID="630" tvg-name="Halom TV.:by prémium2:." group-title="Prémium2",Halom TV.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAk8xNUapD4bUc2PUOyc3IPo/ts
-#EXTINF:0 CUID="631" tvg-name="Hatoscsatorna.:by prémium2:." group-title="Prémium2",Hatoscsatorna.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAjrgM7T4yGlP_mGTQjN8OTo/ts
-#EXTINF:0 CUID="632" tvg-name="HBO.:by prémium2:." group-title="Prémium2",HBO.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAl6Q9_SCWF3OVD7yTr0PidE/ts
-#EXTINF:0 CUID="633" tvg-name="HBO 2.:by prémium2:." group-title="Prémium2",HBO 2.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAm3cuQ1kU0SUKFmGoWaDYew/ts
-#EXTINF:0 CUID="634" tvg-name="HBO 3.:by prémium2:." group-title="Prémium2",HBO 3.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpArtOYlD_gZWIiYF2Kyn6ylk/ts
-#EXTINF:0 CUID="635" tvg-name="Hegyvidek TV.:by prémium2:." group-title="Prémium2",Hegyvidek TV.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAjFZ6NWKEATyjyVOm7y4PRc/ts
-#EXTINF:0 CUID="636" tvg-name="Hir TV.:by prémium2:." group-title="Prémium2",Hir TV.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpApXN4V_syKWb59Ax-StjajY/ts
-#EXTINF:0 CUID="637" tvg-name="History.:by prémium2:." group-title="Prémium2",History.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAja2tDBeK1xJrBdfkXIt9nM/ts
-#EXTINF:0 CUID="638" tvg-name="Hit Music.:by prémium2:." group-title="Prémium2",Hit Music.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAgj5E5ZCuQLcBAR0OWu7twE/ts
-#EXTINF:0 CUID="639" tvg-name="Investigation Discovery.:by prémium2:." group-title="Prémium2",Investigation Discovery.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAkwrKOrW_xXtvigPtjopx-Y/ts
-#EXTINF:0 CUID="640" tvg-name="Izaura TV.:by prémium2:." group-title="Prémium2",Izaura TV.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpArNdi5WZOw0dl_OKl6L4tCo/ts
-#EXTINF:0 CUID="641" tvg-name="JimJam.:by prémium2:." group-title="Prémium2",JimJam.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAsLk4SyYJG35xlWGYyOMa_E/ts
-#EXTINF:0 CUID="642" tvg-name="Jocky TV.:by prémium2:." group-title="Prémium2",Jocky TV.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAl9nCCkVnsRUnh577gwg7Bw/ts
-#EXTINF:0 CUID="643" tvg-name="Kecskemeti TV.:by prémium2:." group-title="Prémium2",Kecskemeti TV.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAqpiMNzRe2eQPgi6wMRH7qE/ts
-#EXTINF:0 CUID="644" tvg-name="Komlos TV.:by prémium2:." group-title="Prémium2",Komlos TV.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAgXmnBc6YSecbYhSKoOp9h4/ts
-#EXTINF:0 CUID="645" tvg-name="Life TV.:by prémium2:." group-title="Prémium2",Life TV.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAhZvI_7DNVKGqrdElpEtlZ8/ts
-#EXTINF:0 CUID="646" tvg-name="Light Channel TV.:by prémium2:." group-title="Prémium2",Light Channel TV.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpApkes3MqnHweT5UQA3I98_Y/ts
-#EXTINF:0 CUID="647" tvg-name="M1.:by prémium2:." group-title="Prémium2",M1.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpApbk2yjJ8y8Wh6mVOn06eRo/ts
-#EXTINF:0 CUID="648" tvg-name="M2.:by prémium2:." group-title="Prémium2",M2.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAsmK_ODRxqkcQ5ekngWQbJY/ts
-#EXTINF:0 CUID="649" tvg-name="M3.:by prémium2:." group-title="Prémium2",M3.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAqTUjFH8cYUFb9JMH7tdG3g/ts
-#EXTINF:0 CUID="650" tvg-name="M4 Sport.:by prémium2:." group-title="Prémium2",M4 Sport.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAra7LmV1RhFlUOaE57BY3BQ/ts
-#EXTINF:0 CUID="651" tvg-name="M5.:by prémium2:." group-title="Prémium2",M5.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAm6iJYcZX6iTxm1JaQZBXOU/ts
-#EXTINF:0 CUID="652" tvg-name="Match 4.:by prémium2:." group-title="Prémium2",Match 4.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAj_l9zAEvK_myDUiIgRwJmM/ts
-#EXTINF:0 CUID="653" tvg-name="Minimax.:by prémium2:." group-title="Prémium2",Minimax.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAiFvo3FIS6jUhG-N5YUsw50/ts
-#EXTINF:0 CUID="654" tvg-name="Mozi+.:by prémium2:." group-title="Prémium2",Mozi+.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAr96SOMF_WmovbomhzP-07s/ts
-#EXTINF:0 CUID="655" tvg-name="Moziverzum.:by prémium2:." group-title="Prémium2",Moziverzum.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAtAvlQjyJV0A_LkTWbEX7no/ts
-#EXTINF:0 CUID="656" tvg-name="Music Channel.:by prémium2:." group-title="Prémium2",Music Channel.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAlrILqcjNIDhJBn3oEuQfqg/ts
-#EXTINF:0 CUID="657" tvg-name="Music Plus.:by prémium2:." group-title="Prémium2",Music Plus.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpApK2bmu4XTs96cFnkEGUu4o/ts
-#EXTINF:0 CUID="658" tvg-name="NAT GEO.:by prémium2:." group-title="Prémium2",NAT GEO.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAu_mGn41YuvgFcRpJmvyYzU/ts
-#EXTINF:0 CUID="659" tvg-name="NAT GEO Wild.:by prémium2:." group-title="Prémium2",NAT GEO Wild.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAlrkTJ8yvj9qcjTovo-7388/ts
-#EXTINF:0 CUID="660" tvg-name="nickelodeon.:by prémium2:." group-title="Prémium2",nickelodeon.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAtVsnrE7mYqqfCEpdLBw2hQ/ts
-#EXTINF:0 CUID="661" tvg-name="Ozone TV.:by prémium2:." group-title="Prémium2",Ozone TV.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAuBUJRAh8FiDATEqVmAwEBY/ts
-#EXTINF:0 CUID="662" tvg-name="Paramount Network.:by prémium2:." group-title="Prémium2",Paramount Network.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAqxW9Ih9uhOStrSKgLNi9-Q/ts
-#EXTINF:0 CUID="663" tvg-name="PAX TV.:by prémium2:." group-title="Prémium2",PAX TV.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAhqXQm5N_I4bdCDBo7bde9w/ts
-#EXTINF:0 CUID="664" tvg-name="Prime.:by prémium2:." group-title="Prémium2",Prime.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAoxLGVgOqhFTGKDBHIc0xhc/ts
-#EXTINF:0 CUID="665" tvg-name="RTL Gold.:by prémium2:." group-title="Prémium2",RTL Gold.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpApXhvbYedyZi5Dz870Xbpaw/ts
-#EXTINF:0 CUID="666" tvg-name="RTL II.:by prémium2:." group-title="Prémium2",RTL II.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAiJXvSgbEJ5XnRYoGHzTdps/ts
-#EXTINF:0 CUID="667" tvg-name="RTL Klub.:by prémium2:." group-title="Prémium2",RTL Klub.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAm85YD4C4hNTK1XdWzKa57E/ts
-#EXTINF:0 CUID="668" tvg-name="Slager TV.:by prémium2:." group-title="Prémium2",Slager TV.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAqCEdF3_3RTYfBbg5quJ3Mk/ts
-#EXTINF:0 CUID="669" tvg-name="Sorozat+.:by prémium2:." group-title="Prémium2",Sorozat+.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpArTK8y6h6b3H0zECacasndM/ts
-#EXTINF:0 CUID="670" tvg-name="Spektrum.:by prémium2:." group-title="Prémium2",Spektrum.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAqknJLEn3s_njHvhtjMvd8s/ts
-#EXTINF:0 CUID="671" tvg-name="Spiler 1.:by prémium2:." group-title="Prémium2",Spiler 1.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAhxgtMGUhU_feVz72sNwLsA/ts
-#EXTINF:0 CUID="672" tvg-name="Spiler 2.:by prémium2:." group-title="Prémium2",Spiler 2.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAjWfHITzZEUhIF8xmIGiqlA/ts
-#EXTINF:0 CUID="673" tvg-name="Sport 1.:by prémium2:." group-title="Prémium2",Sport 1.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAkztqQXrPufoLuU2O4ZG9lo/ts
-#EXTINF:0 CUID="674" tvg-name="Sport 2.:by prémium2:." group-title="Prémium2",Sport 2.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAgnvH_iP-Xa7jR0ZvUxvPng/ts
-#EXTINF:0 CUID="675" tvg-name="Story 4.:by prémium2:." group-title="Prémium2",Story 4.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAkHdeE1y145Au6r2x5Cukyc/ts
-#EXTINF:0 CUID="676" tvg-name="Super TV 2.:by prémium2:." group-title="Prémium2",Super TV 2.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAv1TpMBEF8_6a0LbdnKawf0/ts
-#EXTINF:0 CUID="677" tvg-name="The Fishing & Hunting Channel.:by prémium2:." group-title="Prémium2",The Fishing & Hunting Channel.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAkaHyMbee7HpJyiEIqVmHHI/ts
-#EXTINF:0 CUID="678" tvg-name="Tisza TV.:by prémium2:." group-title="Prémium2",Tisza TV.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAnAgCA25UM6B9tXPu4F5Hgg/ts
-#EXTINF:0 CUID="679" tvg-name="TLC.:by prémium2:." group-title="Prémium2",TLC.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAmoqp34Axu9TjaSSqeugp7g/ts
-#EXTINF:0 CUID="680" tvg-name="Travel Channel.:by prémium2:." group-title="Prémium2",Travel Channel.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAhrium_z8h0JYpMHWSWp4zY/ts
-#EXTINF:0 CUID="681" tvg-name="TV 2.:by prémium2:." group-title="Prémium2",TV 2.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAozXairrESdA-IIRBhXxMEI/ts
-#EXTINF:0 CUID="682" tvg-name="TV 2 Comedy.:by prémium2:." group-title="Prémium2",TV 2 Comedy.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAvio_fdqjlIrR8_Mxf4tHf0/ts
-#EXTINF:0 CUID="683" tvg-name="TV 2 Kids.:by prémium2:." group-title="Prémium2",TV 2 Kids.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAvPaUVJLnsS1DCPG_mdBWrE/ts
-#EXTINF:0 CUID="684" tvg-name="TV Paprika.:by prémium2:." group-title="Prémium2",TV Paprika.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAlzWltONne0Wka3uI5UOUNU/ts
-#EXTINF:0 CUID="685" tvg-name="TV7 Bekescsaba.:by prémium2:." group-title="Prémium2",TV7 Bekescsaba.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAmoHer3idqnjvHPKaeLwhGY/ts
-#EXTINF:0 CUID="686" tvg-name="Viasat 2.:by prémium2:." group-title="Prémium2",Viasat 2.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAhrc9xxfk-zqJxF6IkP2BHA/ts
-#EXTINF:0 CUID="687" tvg-name="Viasat 3.:by prémium2:." group-title="Prémium2",Viasat 3.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAqVt1fV5_UgDDW-3CaXPzSI/ts
-#EXTINF:0 CUID="688" tvg-name="Viasat 6.:by prémium2:." group-title="Prémium2",Viasat 6.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAvGIUQ2XDIIUCKhhW8-lqLA/ts
-#EXTINF:0 CUID="689" tvg-name="Viasat Explore.:by prémium2:." group-title="Prémium2",Viasat Explore.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAvuL-zV7Mo8Jf9wzLnAJ3OE/ts
-#EXTINF:0 CUID="690" tvg-name="Viasat History.:by prémium2:." group-title="Prémium2",Viasat History.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAmtzUE9LfueQDkfbvdOc15s/ts
-#EXTINF:0 CUID="816" tvg-name="AMC.:by prémium2:." group-title="Prémium2",AMC.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAtaixjZmOqCpj3L_AhN4e_c/ts
-#EXTINF:0 CUID="817" tvg-name="ANIMAL PLANET.:by prémium2:." group-title="Prémium2",ANIMAL PLANET.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAt6YLLjz5-DwUkeYCmZqwkY/ts
-#EXTINF:0 CUID="818" tvg-name="Apostol TV.:by prémium2:." group-title="Prémium2",Apostol TV.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAqZBx0HJilTM9RN7AVhSZj0/ts
-#EXTINF:0 CUID="819" tvg-name="Arena 4.:by prémium2:." group-title="Prémium2",Arena 4.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpArfsqynUJKgPCqhY8G9KUbI/ts
-#EXTINF:0 CUID="820" tvg-name="ATV.:by prémium2:." group-title="Prémium2",ATV.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAsufLQKxgGAVLJlo2DlvKHs/ts
-#EXTINF:0 CUID="821" tvg-name="Auto Motor Sport.:by prémium2:." group-title="Prémium2",Auto Motor Sport.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAmDsqex85GeWo38PcBI_h4M/ts
-#EXTINF:0 CUID="822" tvg-name="AXN.:by prémium2:." group-title="Prémium2",AXN.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAm_s1u5s-dl3aDYQKzSxuHE/ts
-#EXTINF:0 CUID="823" tvg-name="AXN Black.:by prémium2:." group-title="Prémium2",AXN Black.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAsCKC24ghaTCtAmUUz0FlqI/ts
-#EXTINF:0 CUID="824" tvg-name="AXN White.:by prémium2:." group-title="Prémium2",AXN White.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAnzLAwuIDZt5vn9j1B9SsW8/ts
-#EXTINF:0 CUID="825" tvg-name="Balaton Televizio.:by prémium2:." group-title="Prémium2",Balaton Televizio.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAgVpt6PxVqZaAB7uNEoKwnk/ts
-#EXTINF:0 CUID="826" tvg-name="Boomerang.:by prémium2:." group-title="Prémium2",Boomerang.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAsKG3PFVWXIIRcqvjYOTgUM/ts
-#EXTINF:0 CUID="827" tvg-name="Cartoon Network.:by prémium2:." group-title="Prémium2",Cartoon Network.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAjWbWFZhdfmBXCRb5_wYBmk/ts
-#EXTINF:0 CUID="828" tvg-name="CBS Reality.:by prémium2:." group-title="Prémium2",CBS Reality.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAu7uIOOBjPVMDTLx8flYZ-c/ts
-#EXTINF:0 CUID="829" tvg-name="Cinemax.:by prémium2:." group-title="Prémium2",Cinemax.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAkMfZjJxhaAoGP17Y9QGVNQ/ts
-#EXTINF:0 CUID="830" tvg-name="Cinemax 2.:by prémium2:." group-title="Prémium2",Cinemax 2.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAhUnPvnkzyjVVpKZC0TX_kE/ts
-#EXTINF:0 CUID="831" tvg-name="Comedy Central.:by prémium2:." group-title="Prémium2",Comedy Central.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAnko1IMi-PRXTZc8VZbZiBE/ts
-#EXTINF:0 CUID="832" tvg-name="Comedy Central Family.:by prémium2:." group-title="Prémium2",Comedy Central Family.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAtmMyMg8wQS6w3PYWqMZkPg/ts
-#EXTINF:0 CUID="833" tvg-name="Cool TV.:by prémium2:." group-title="Prémium2",Cool TV.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAvZwF4JBpgpUL3C0i6A4mqI/ts
-#EXTINF:0 CUID="834" tvg-name="Da Vinci.:by prémium2:." group-title="Prémium2",Da Vinci.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAsc3EniBGEz8YOoDCD1xF-c/ts
-#EXTINF:0 CUID="835" tvg-name="Digi World.:by prémium2:." group-title="Prémium2",Digi World.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAo05RT6VcccvyT_UZ6jgLaM/ts
-#EXTINF:0 CUID="836" tvg-name="Dikh TV.:by prémium2:." group-title="Prémium2",Dikh TV.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAmrOKIvOUuDYdxFHK_RR_BI/ts
-#EXTINF:0 CUID="837" tvg-name="Discovery Science.:by prémium2:." group-title="Prémium2",Discovery Science.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAjjYwuwwhSXvhcefOCFoBJU/ts
-#EXTINF:0 CUID="838" tvg-name="Discovery World.:by prémium2:." group-title="Prémium2",Discovery World.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAuc5c7AecHje-XpUiEYMOBo/ts
-#EXTINF:0 CUID="839" tvg-name="Disney Channel.:by prémium2:." group-title="Prémium2",Disney Channel.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAuOGc_kjZFnzuNHzTcZVyys/ts
-#EXTINF:0 CUID="840" tvg-name="Duck TV.:by prémium2:." group-title="Prémium2",Duck TV.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAviiwgmDKMi2VCrSbahZzOU/ts
-#EXTINF:0 CUID="841" tvg-name="Duna TV.:by prémium2:." group-title="Prémium2",Duna TV.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAtVuQJqwV4AveyURBXY-SWA/ts
-#EXTINF:0 CUID="842" tvg-name="Duna World.:by prémium2:." group-title="Prémium2",Duna World.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAhfkX7gnRoMPi0IihDaDRhI/ts
-#EXTINF:0 CUID="843" tvg-name="Epic Drama.:by prémium2:." group-title="Prémium2",Epic Drama.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAhr0Lvm2g6p57EQL7ezjq98/ts
-#EXTINF:0 CUID="844" tvg-name="EUROSPORT 1.:by prémium2:." group-title="Prémium2",EUROSPORT 1.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAuDuT8kYLd7v4o4mpEsOhqU/ts
-#EXTINF:0 CUID="845" tvg-name="EUROSPORT 2.:by prémium2:." group-title="Prémium2",EUROSPORT 2.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAq2tHeN6xAU9Cr41LX9K760/ts
-#EXTINF:0 CUID="846" tvg-name="EWTN.:by prémium2:." group-title="Prémium2",EWTN.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAmemmUNzgPkiRVEOYoomecw/ts
-#EXTINF:0 CUID="847" tvg-name="Fem 3.:by prémium2:." group-title="Prémium2",Fem 3.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAp7nk9ZZol2o-hNWCQq864g/ts
-#EXTINF:0 CUID="848" tvg-name="Film 4.:by prémium2:." group-title="Prémium2",Film 4.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAsBPjQlgvdoKSJtcNhIaLMU/ts
-#EXTINF:0 CUID="849" tvg-name="Film Cafe.:by prémium2:." group-title="Prémium2",Film Cafe.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAjZ5DbfQ1V8n5GeasNmUOOw/ts
-#EXTINF:0 CUID="850" tvg-name="Film Mania.:by prémium2:." group-title="Prémium2",Film Mania.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpApTg9jUqevlCrgCUwcksk0Y/ts
-#EXTINF:0 CUID="851" tvg-name="Film Now.:by prémium2:." group-title="Prémium2",Film Now.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAtyF6HHCRHune13AI-CeSZY/ts
-#EXTINF:0 CUID="852" tvg-name="Film+.:by prémium2:." group-title="Prémium2",Film+.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAjx43-7WqWgx-5nlLKyAiDw/ts
-#EXTINF:0 CUID="853" tvg-name="Filmbox Arthouse.:by prémium2:." group-title="Prémium2",Filmbox Arthouse.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpApMlM_lotebjWbUwKJCaCss/ts
-#EXTINF:0 CUID="854" tvg-name="FilmBox Premium.:by prémium2:." group-title="Prémium2",FilmBox Premium.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAgpX8eetI7y0D8EndKHabSY/ts
-#EXTINF:0 CUID="855" tvg-name="FilmBox Stars.:by prémium2:." group-title="Prémium2",FilmBox Stars.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAgkzFMYa_IF_7KjBc2QGOZA/ts
-#EXTINF:0 CUID="856" tvg-name="Galaxy 4.:by prémium2:." group-title="Prémium2",Galaxy 4.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAn-INOvfk1igKZb3v3EjFzw/ts
-#EXTINF:0 CUID="857" tvg-name="Halom TV.:by prémium2:." group-title="Prémium2",Halom TV.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAk8xNUapD4bUc2PUOyc3IPo/ts
-#EXTINF:0 CUID="858" tvg-name="Hatoscsatorna.:by prémium2:." group-title="Prémium2",Hatoscsatorna.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAjrgM7T4yGlP_mGTQjN8OTo/ts
-#EXTINF:0 CUID="859" tvg-name="HBO.:by prémium2:." group-title="Prémium2",HBO.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAl6Q9_SCWF3OVD7yTr0PidE/ts
-#EXTINF:0 CUID="860" tvg-name="HBO 2.:by prémium2:." group-title="Prémium2",HBO 2.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAm3cuQ1kU0SUKFmGoWaDYew/ts
-#EXTINF:0 CUID="861" tvg-name="HBO 3.:by prémium2:." group-title="Prémium2",HBO 3.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpArtOYlD_gZWIiYF2Kyn6ylk/ts
-#EXTINF:0 CUID="862" tvg-name="Hegyvidek TV.:by prémium2:." group-title="Prémium2",Hegyvidek TV.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAjFZ6NWKEATyjyVOm7y4PRc/ts
-#EXTINF:0 CUID="863" tvg-name="Hir TV.:by prémium2:." group-title="Prémium2",Hir TV.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpApXN4V_syKWb59Ax-StjajY/ts
-#EXTINF:0 CUID="864" tvg-name="History.:by prémium2:." group-title="Prémium2",History.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAja2tDBeK1xJrBdfkXIt9nM/ts
-#EXTINF:0 CUID="865" tvg-name="Hit Music.:by prémium2:." group-title="Prémium2",Hit Music.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAgj5E5ZCuQLcBAR0OWu7twE/ts
-#EXTINF:0 CUID="866" tvg-name="Investigation Discovery.:by prémium2:." group-title="Prémium2",Investigation Discovery.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAkwrKOrW_xXtvigPtjopx-Y/ts
-#EXTINF:0 CUID="867" tvg-name="Izaura TV.:by prémium2:." group-title="Prémium2",Izaura TV.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpArNdi5WZOw0dl_OKl6L4tCo/ts
-#EXTINF:0 CUID="868" tvg-name="JimJam.:by prémium2:." group-title="Prémium2",JimJam.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAsLk4SyYJG35xlWGYyOMa_E/ts
-#EXTINF:0 CUID="869" tvg-name="Jocky TV.:by prémium2:." group-title="Prémium2",Jocky TV.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAl9nCCkVnsRUnh577gwg7Bw/ts
-#EXTINF:0 CUID="870" tvg-name="Kecskemeti TV.:by prémium2:." group-title="Prémium2",Kecskemeti TV.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAqpiMNzRe2eQPgi6wMRH7qE/ts
-#EXTINF:0 CUID="871" tvg-name="Komlos TV.:by prémium2:." group-title="Prémium2",Komlos TV.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAgXmnBc6YSecbYhSKoOp9h4/ts
-#EXTINF:0 CUID="872" tvg-name="Life TV.:by prémium2:." group-title="Prémium2",Life TV.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAhZvI_7DNVKGqrdElpEtlZ8/ts
-#EXTINF:0 CUID="873" tvg-name="Light Channel TV.:by prémium2:." group-title="Prémium2",Light Channel TV.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpApkes3MqnHweT5UQA3I98_Y/ts
-#EXTINF:0 CUID="874" tvg-name="M1.:by prémium2:." group-title="Prémium2",M1.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpApbk2yjJ8y8Wh6mVOn06eRo/ts
-#EXTINF:0 CUID="875" tvg-name="M2.:by prémium2:." group-title="Prémium2",M2.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAsmK_ODRxqkcQ5ekngWQbJY/ts
-#EXTINF:0 CUID="876" tvg-name="M3.:by prémium2:." group-title="Prémium2",M3.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAqTUjFH8cYUFb9JMH7tdG3g/ts
-#EXTINF:0 CUID="877" tvg-name="M4 Sport.:by prémium2:." group-title="Prémium2",M4 Sport.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAra7LmV1RhFlUOaE57BY3BQ/ts
-#EXTINF:0 CUID="878" tvg-name="M5.:by prémium2:." group-title="Prémium2",M5.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAm6iJYcZX6iTxm1JaQZBXOU/ts
-#EXTINF:0 CUID="879" tvg-name="Match 4.:by prémium2:." group-title="Prémium2",Match 4.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAj_l9zAEvK_myDUiIgRwJmM/ts
-#EXTINF:0 CUID="880" tvg-name="Minimax.:by prémium2:." group-title="Prémium2",Minimax.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAiFvo3FIS6jUhG-N5YUsw50/ts
-#EXTINF:0 CUID="881" tvg-name="Mozi+.:by prémium2:." group-title="Prémium2",Mozi+.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAr96SOMF_WmovbomhzP-07s/ts
-#EXTINF:0 CUID="882" tvg-name="Moziverzum.:by prémium2:." group-title="Prémium2",Moziverzum.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAtAvlQjyJV0A_LkTWbEX7no/ts
-#EXTINF:0 CUID="883" tvg-name="Music Channel.:by prémium2:." group-title="Prémium2",Music Channel.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAlrILqcjNIDhJBn3oEuQfqg/ts
-#EXTINF:0 CUID="884" tvg-name="Music Plus.:by prémium2:." group-title="Prémium2",Music Plus.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpApK2bmu4XTs96cFnkEGUu4o/ts
-#EXTINF:0 CUID="885" tvg-name="NAT GEO.:by prémium2:." group-title="Prémium2",NAT GEO.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAu_mGn41YuvgFcRpJmvyYzU/ts
-#EXTINF:0 CUID="886" tvg-name="NAT GEO Wild.:by prémium2:." group-title="Prémium2",NAT GEO Wild.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAlrkTJ8yvj9qcjTovo-7388/ts
-#EXTINF:0 CUID="887" tvg-name="nickelodeon.:by prémium2:." group-title="Prémium2",nickelodeon.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAtVsnrE7mYqqfCEpdLBw2hQ/ts
-#EXTINF:0 CUID="888" tvg-name="Ozone TV.:by prémium2:." group-title="Prémium2",Ozone TV.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAuBUJRAh8FiDATEqVmAwEBY/ts
-#EXTINF:0 CUID="889" tvg-name="Paramount Network.:by prémium2:." group-title="Prémium2",Paramount Network.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAqxW9Ih9uhOStrSKgLNi9-Q/ts
-#EXTINF:0 CUID="890" tvg-name="PAX TV.:by prémium2:." group-title="Prémium2",PAX TV.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAhqXQm5N_I4bdCDBo7bde9w/ts
-#EXTINF:0 CUID="891" tvg-name="Prime.:by prémium2:." group-title="Prémium2",Prime.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAoxLGVgOqhFTGKDBHIc0xhc/ts
-#EXTINF:0 CUID="892" tvg-name="RTL Gold.:by prémium2:." group-title="Prémium2",RTL Gold.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpApXhvbYedyZi5Dz870Xbpaw/ts
-#EXTINF:0 CUID="893" tvg-name="RTL II.:by prémium2:." group-title="Prémium2",RTL II.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAiJXvSgbEJ5XnRYoGHzTdps/ts
-#EXTINF:0 CUID="894" tvg-name="RTL Klub.:by prémium2:." group-title="Prémium2",RTL Klub.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAm85YD4C4hNTK1XdWzKa57E/ts
-#EXTINF:0 CUID="895" tvg-name="Slager TV.:by prémium2:." group-title="Prémium2",Slager TV.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAqCEdF3_3RTYfBbg5quJ3Mk/ts
-#EXTINF:0 CUID="896" tvg-name="Sorozat+.:by prémium2:." group-title="Prémium2",Sorozat+.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpArTK8y6h6b3H0zECacasndM/ts
-#EXTINF:0 CUID="897" tvg-name="Spektrum.:by prémium2:." group-title="Prémium2",Spektrum.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAqknJLEn3s_njHvhtjMvd8s/ts
-#EXTINF:0 CUID="898" tvg-name="Spiler 1.:by prémium2:." group-title="Prémium2",Spiler 1.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAhxgtMGUhU_feVz72sNwLsA/ts
-#EXTINF:0 CUID="899" tvg-name="Spiler 2.:by prémium2:." group-title="Prémium2",Spiler 2.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAjWfHITzZEUhIF8xmIGiqlA/ts
-#EXTINF:0 CUID="900" tvg-name="Sport 1.:by prémium2:." group-title="Prémium2",Sport 1.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAkztqQXrPufoLuU2O4ZG9lo/ts
-#EXTINF:0 CUID="901" tvg-name="Sport 2.:by prémium2:." group-title="Prémium2",Sport 2.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAgnvH_iP-Xa7jR0ZvUxvPng/ts
-#EXTINF:0 CUID="902" tvg-name="Story 4.:by prémium2:." group-title="Prémium2",Story 4.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAkHdeE1y145Au6r2x5Cukyc/ts
-#EXTINF:0 CUID="903" tvg-name="Super TV 2.:by prémium2:." group-title="Prémium2",Super TV 2.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAv1TpMBEF8_6a0LbdnKawf0/ts
-#EXTINF:0 CUID="904" tvg-name="The Fishing & Hunting Channel.:by prémium2:." group-title="Prémium2",The Fishing & Hunting Channel.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAkaHyMbee7HpJyiEIqVmHHI/ts
-#EXTINF:0 CUID="905" tvg-name="Tisza TV.:by prémium2:." group-title="Prémium2",Tisza TV.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAnAgCA25UM6B9tXPu4F5Hgg/ts
-#EXTINF:0 CUID="906" tvg-name="TLC.:by prémium2:." group-title="Prémium2",TLC.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAmoqp34Axu9TjaSSqeugp7g/ts
-#EXTINF:0 CUID="907" tvg-name="Travel Channel.:by prémium2:." group-title="Prémium2",Travel Channel.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAhrium_z8h0JYpMHWSWp4zY/ts
-#EXTINF:0 CUID="908" tvg-name="TV 2.:by prémium2:." group-title="Prémium2",TV 2.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAozXairrESdA-IIRBhXxMEI/ts
-#EXTINF:0 CUID="909" tvg-name="TV 2 Comedy.:by prémium2:." group-title="Prémium2",TV 2 Comedy.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAvio_fdqjlIrR8_Mxf4tHf0/ts
-#EXTINF:0 CUID="910" tvg-name="TV 2 Kids.:by prémium2:." group-title="Prémium2",TV 2 Kids.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAvPaUVJLnsS1DCPG_mdBWrE/ts
-#EXTINF:0 CUID="911" tvg-name="TV Paprika.:by prémium2:." group-title="Prémium2",TV Paprika.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAlzWltONne0Wka3uI5UOUNU/ts
-#EXTINF:0 CUID="912" tvg-name="TV7 Bekescsaba.:by prémium2:." group-title="Prémium2",TV7 Bekescsaba.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAmoHer3idqnjvHPKaeLwhGY/ts
-#EXTINF:0 CUID="913" tvg-name="Viasat 2.:by prémium2:." group-title="Prémium2",Viasat 2.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAhrc9xxfk-zqJxF6IkP2BHA/ts
-#EXTINF:0 CUID="914" tvg-name="Viasat 3.:by prémium2:." group-title="Prémium2",Viasat 3.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAqVt1fV5_UgDDW-3CaXPzSI/ts
-#EXTINF:0 CUID="915" tvg-name="Viasat 6.:by prémium2:." group-title="Prémium2",Viasat 6.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAvGIUQ2XDIIUCKhhW8-lqLA/ts
-#EXTINF:0 CUID="916" tvg-name="Viasat Explore.:by prémium2:." group-title="Prémium2",Viasat Explore.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAvuL-zV7Mo8Jf9wzLnAJ3OE/ts
-#EXTINF:0 CUID="917" tvg-name="Viasat History.:by prémium2:." group-title="Prémium2",Viasat History.:by prémium2:.
-http://app.halitv.hu/play/eC4EjgEognKPDU9u-2cpAmtzUE9LfueQDkfbvdOc15s/ts
-#EXTINF:0 CUID="710" tvg-name="Leo Grande (2022)" tvg-logo="http://app.halitv.hu:80/images/26787c316e7adc1d019f4c63bd10e534.jpg" group-title="SD-HU",Leo Grande (2022)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSS_p11NcAEe6fwTMddCyBo8
-#EXTINF:0 CUID="711" tvg-name="Knight nyomozó - Az öntörvényű (2022)" tvg-logo="http://app.halitv.hu:80/images/d1a56ea66a22df27fdfe32c996e77d3e.jpg" group-title="SD-HU",Knight nyomozó - Az öntörvényű (2022)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSZ2-Znijh7uHP3DX44UKmJ8
-#EXTINF:0 CUID="712" tvg-name="Beugró a Paradicsomba (2022)" tvg-logo="http://app.halitv.hu:80/images/d9b265d4da5053cf5b544e773aba57d6.jpg" group-title="SD-HU",Beugró a Paradicsomba (2022)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSbknH0X3tEHPzbrLwXVvu48
-#EXTINF:0 CUID="713" tvg-name="Semmi (2022)" tvg-logo="http://app.halitv.hu:80/images/ac12026e4f73ce8a198ba04e7cf86123.jpg" group-title="SD-HU",Semmi (2022)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSQk8JrF2y-kVJrPn-rO7l2c
-#EXTINF:0 CUID="714" tvg-name="After.Chernobyl" tvg-logo="https://api.imageservecdn.com/img_store/2023/02/09/b/bc83a1da0b8c0a34a5a865cf928b3fb8_421_600.jpg" group-title="SD-HU",After.Chernobyl
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSWvoMEOSlI9pMTwMRIhJ7nY
-#EXTINF:0 CUID="715" tvg-name="Kifürkészhetetlen utak (2021)" tvg-logo="http://app.halitv.hu:80/images/7a86363d71c4ffd5710031d7d9b23fdb.jpg" group-title="SD-HU",Kifürkészhetetlen utak (2021)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSVAm9MEJGYJV7QZwCrChIMo
-#EXTINF:0 CUID="716" tvg-name="Kifürkészhetetlen utak 2 (2023)" tvg-logo="http://app.halitv.hu:80/images/c3dad4be167f5563936f43265c7f3e55.jpg" group-title="SD-HU",Kifürkészhetetlen utak 2 (2023)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSTHEHEGjVMepDxn2EvCpF7c
-#EXTINF:0 CUID="717" tvg-name="Nálad vagy nálam? (2023)" tvg-logo="http://app.halitv.hu:80/images/a7b0034471fd30dd101d41a1662bb1fa.jpg" group-title="SD-HU",Nálad vagy nálam? (2023)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSYoWXytTH8ksGP3TQ8uQKng
-#EXTINF:0 CUID="718" tvg-name="Tetőpont: A Pornhub története (2023)" tvg-logo="http://app.halitv.hu:80/images/78a1061b3bf15be5f944af859446a2be.jpg" group-title="SD-HU",Tetőpont: A Pornhub története (2023)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGST_Cs47XhkckO5qm0xEc8oc
-#EXTINF:0 CUID="719" tvg-name="A szomorúság háromszöge (2022)" tvg-logo="http://app.halitv.hu:80/images/e77916d57a0e53dd10a1bb6182c0ef23.jpg" group-title="SD-HU",A szomorúság háromszöge (2022)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSRxvrrpd6t4-K2EVZitesjo
-#EXTINF:0 CUID="720" tvg-name="a kandúr: Az utolsó kívánság (2022)" tvg-logo="http://app.halitv.hu:80/images/e02a002c806356bd6277bb9a7b5e1835.jpg" group-title="SD-HU",a kandúr: Az utolsó kívánság (2022)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSUsYmdyLOxWnMvYAVPvcbc0
-#EXTINF:0 CUID="721" tvg-name="Harc az ismeretlennel (2022)" tvg-logo="http://app.halitv.hu:80/images/d7cce698f1cb9685399a115cf9f18b54.jpg" group-title="SD-HU",Harc az ismeretlennel (2022)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSYB_w0a3vehcYKsWd8zveQ0
-#EXTINF:0 CUID="722" tvg-name="Knight nyomozó 3: Függetlenség (2023)" tvg-logo="http://app.halitv.hu:80/images/171848b1456bd718d146569cb7f13dac.jpg" group-title="SD-HU",Knight nyomozó 3: Függetlenség (2023)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSQgQsKwmtJcfLLczEA255XM
-#EXTINF:0 CUID="723" tvg-name="Babylon (2022)" tvg-logo="http://app.halitv.hu:80/images/933a983f2762ec248f69a1459de2a221.jpg" group-title="SD-HU",Babylon (2022)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSWM35B3NTXpa5EVD9PFOxTw
-#EXTINF:0 CUID="724" tvg-name="Magic Mike utolsó tánca (2023)" tvg-logo="http://app.halitv.hu:80/images/914d0eecf57f1a1b0016bc90b774d90a.jpg" group-title="SD-HU",Magic Mike utolsó tánca (2023)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSSoz1c581upFb-xNU3DBAF8
-#EXTINF:0 CUID="725" tvg-name="Az utolsó utazás (2022)" tvg-logo="http://app.halitv.hu:80/images/c02eccc62caafaa4fab6cefbb45fd97f.jpg" group-title="SD-HU",Az utolsó utazás (2022)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSRgfm3TQGghUkIUoRku6H9g
-#EXTINF:0 CUID="726" tvg-name="Luther: A lemenő nap (2023)" tvg-logo="http://app.halitv.hu:80/images/61720d3d5e7652bb18b4cb3ae2dd84a0.jpg" group-title="SD-HU",Luther: A lemenő nap (2023)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSRHrheOfCCxKkoTHU4a1x18
-#EXTINF:0 CUID="727" tvg-name="Minyonok: Gru színre lép (2022)" tvg-logo="http://app.halitv.hu:80/images/25eaf67d1d87d010e9cf7cb854577fac.jpg" group-title="SD-HU",Minyonok: Gru színre lép (2022)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSSEoIgOGuxGwzbrfvZ4oKdY
-#EXTINF:0 CUID="728" tvg-name="Nyolc ezüstért (2021)" tvg-logo="http://app.halitv.hu:80/images/71d7d5800b4315e0276b6554dbe9c338.jpg" group-title="SD-HU",Nyolc ezüstért (2021)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSQ0Ah2kO1giiFgw6QdDyx_Y
-#EXTINF:0 CUID="729" tvg-name="Esküvő végrendeletre (2023)" tvg-logo="http://app.halitv.hu:80/images/85f425de72065f264cd862b6ee111d76.jpg" group-title="SD-HU",Esküvő végrendeletre (2023)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSZH8lHmXLJ3neZDj6wnMDJI
-#EXTINF:0 CUID="730" tvg-name="Végtelen vihar (2022)" tvg-logo="http://app.halitv.hu:80/images/95143a45c53b903ec79dbcc5e41d6fee.jpg" group-title="SD-HU",Végtelen vihar (2022)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSSsNEnhjoHCQwGrw6Sxqg1Y
-#EXTINF:0 CUID="731" tvg-name="A teszt (2021)" tvg-logo="http://app.halitv.hu:80/images/80db9768fa223cfc0513d7c70a242d80.jpg" group-title="SD-HU",A teszt (2021)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSRnYalVmTHnHDKHXmoTdNyw
-#EXTINF:0 CUID="732" tvg-name="Johnny (2022)" tvg-logo="http://app.halitv.hu:80/images/c52beb85cc67b9ba1681ba9f30a78bc5.jpg" group-title="SD-HU",Johnny (2022)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSfBh2Lp7DzvKiK8TaRlhLdU
-#EXTINF:0 CUID="733" tvg-name="Nyugaton a helyzet változatlan (2022)" tvg-logo="http://app.halitv.hu:80/images/49a33498be9a333f61e73e7522b3d02e.jpg" group-title="SD-HU",Nyugaton a helyzet változatlan (2022)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSb39pUa0gqF83OwKL3DO0WM
-#EXTINF:0 CUID="734" tvg-name="Thor: Szerelem és mennydörgés (2022)" tvg-logo="http://app.halitv.hu:80/images/5e90013bf9c055ccd58a23c58ddf834b.jpg" group-title="SD-HU",Thor: Szerelem és mennydörgés (2022)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSSsTsKte5wVb3dg1XjB5qi8
-#EXTINF:0 CUID="735" tvg-name="Isten lánya (2016)" tvg-logo="http://app.halitv.hu:80/images/cbb77cc573689c6ef1a02abe57de510c.jpg" group-title="SD-HU",Isten lánya (2016)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSaUwcSOJxL32j4QPbSzWaMY
-#EXTINF:0 CUID="736" tvg-name="Hongkongi hajsza (2012)" tvg-logo="http://app.halitv.hu:80/images/477a5814066242d251d2e7e9e9be9016.jpg" group-title="SD-HU",Hongkongi hajsza (2012)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSVEr68mBQ0PGWfu0sAfNGFo
-#EXTINF:0 CUID="737" tvg-name="Csodák az áfonyafarmon (2016)" tvg-logo="http://app.halitv.hu:80/images/33a2fbd005686224e7145f31569693e9.jpg" group-title="SD-HU",Csodák az áfonyafarmon (2016)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGST84oy8SPhGKD5BZUWBN89U
-#EXTINF:0 CUID="738" tvg-name="Rohammentő (2022)" tvg-logo="http://app.halitv.hu:80/images/63a6d9efc437d5ef52b836f446bd235f.jpg" group-title="SD-HU",Rohammentő (2022)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSYTZ98zAU-fPzcI26-OubtA
-#EXTINF:0 CUID="739" tvg-name="Ők (2022)" tvg-logo="http://app.halitv.hu:80/images/a1b8cb442f27629b21ee209374d13ad6.jpg" group-title="SD-HU",Ők (2022)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSYjcG-shvw0bcdzmHtJne0k
-#EXTINF:0 CUID="740" tvg-name="Halványkék szemek (2022)" tvg-logo="http://app.halitv.hu:80/images/cdf4c2a426d168603de011985f894a29.jpg" group-title="SD-HU",Halványkék szemek (2022)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSZw3smqwdDgJdtF3x2Pg5UY
-#EXTINF:0 CUID="741" tvg-name="Kóborlók (2023)" tvg-logo="http://app.halitv.hu:80/images/c63849924a0a334a71d7403d3c3252f4.jpg" group-title="SD-HU",Kóborlók (2023)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSRHF9nTuWtNBpzqUsXG6l70
-#EXTINF:0 CUID="742" tvg-name="Spencer (2021)" tvg-logo="http://app.halitv.hu:80/images/16f863c579513ab4168ff47a2d713b95.jpg" group-title="SD-HU",Spencer (2021)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSV-42KW284AW5FOSYYpq6Vo
-#EXTINF:0 CUID="743" tvg-name="Vérapó (2022)" tvg-logo="http://app.halitv.hu:80/images/80fe7a415f60447fb38fb1eb730aa650.jpg" group-title="SD-HU",Vérapó (2022)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSdIcA8ulUmN5OTdU1brVz3w
-#EXTINF:0 CUID="744" tvg-name="a szerelmem (2022)" tvg-logo="http://app.halitv.hu:80/images/8cf4264b0e04724bba525f6e03ccd7a0.jpg" group-title="SD-HU",a szerelmem (2022)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSfRMQrcGho37f1D5VX9Dh7s
-#EXTINF:0 CUID="745" tvg-name="Váratlan szerelem (2023)" tvg-logo="http://app.halitv.hu:80/images/8e5ab2d77d9426cd3680fe156e6273e1.jpg" group-title="SD-HU",Váratlan szerelem (2023)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSa3_crZ0QW-ooMXqh_OG-Ow
-#EXTINF:0 CUID="746" tvg-name="Leszel a feleségem? (2022)" tvg-logo="http://app.halitv.hu:80/images/235bd66b6a35ae9be084b316d4a8b44a.jpg" group-title="SD-HU",Leszel a feleségem? (2022)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSaivCAg5OhjVadxRyoYGR9Y
-#EXTINF:0 CUID="747" tvg-name="Big Mäck: Az ártatlan bűnöző (2023)" tvg-logo="http://app.halitv.hu:80/images/0254822ef61ee82fdc047e8b5e3461bc.jpg" group-title="SD-HU",Big Mäck: Az ártatlan bűnöző (2023)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSaAOA2gCaRXMYeJwAFKMNhE
-#EXTINF:0 CUID="748" tvg-name="Nyolclábú felügyelő és a rejtélyek rejtélye (2022)" tvg-logo="http://app.halitv.hu:80/images/ea86bd3411f1b448691d525ff500e1b9.jpg" group-title="SD-HU",Nyolclábú felügyelő és a rejtélyek rejtélye (2022)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSY-VyXNobQBRpo4KmHlhT5c
-#EXTINF:0 CUID="749" tvg-name="Miss Fisher és a könnyek kriptája (2020)" tvg-logo="http://app.halitv.hu:80/images/e178780f2fce418d6285d6c657a93cbf.jpg" group-title="SD-HU",Miss Fisher és a könnyek kriptája (2020)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSeU7ZNm1kRBqAtGIpC8HNwI
-#EXTINF:0 CUID="750" tvg-name="Hétfő (2020)" tvg-logo="http://app.halitv.hu:80/images/c7cc3ae4ad8f41daea8daaff416b814a.jpg" group-title="SD-HU",Hétfő (2020)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSZ4EkZgxBbqnacRmU8O-smM
-#EXTINF:0 CUID="751" tvg-name="Az unoka (2022)" tvg-logo="http://app.halitv.hu:80/images/24c7a3f7af458ee16575f21f60d86ee3.jpg" group-title="SD-HU",Az unoka (2022)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSdySmFgOl85NFhVLriTbUrs
-#EXTINF:0 CUID="923" tvg-name="Minden jót, Leo Grande (2022)" tvg-logo="http://app.halitv.hu:80/images/26787c316e7adc1d019f4c63bd10e534.jpg" group-title="SD-HU",Minden jót, Leo Grande (2022)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSS_p11NcAEe6fwTMddCyBo8
-#EXTINF:0 CUID="925" tvg-name="Knight nyomozó - Az öntörvényű (2022)" tvg-logo="http://app.halitv.hu:80/images/d1a56ea66a22df27fdfe32c996e77d3e.jpg" group-title="SD-HU",Knight nyomozó - Az öntörvényű (2022)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSZ2-Znijh7uHP3DX44UKmJ8
-#EXTINF:0 CUID="926" tvg-name="Beugró a Paradicsomba (2022)" tvg-logo="http://app.halitv.hu:80/images/d9b265d4da5053cf5b544e773aba57d6.jpg" group-title="SD-HU",Beugró a Paradicsomba (2022)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSbknH0X3tEHPzbrLwXVvu48
-#EXTINF:0 CUID="927" tvg-name="Semmi (2022)" tvg-logo="http://app.halitv.hu:80/images/ac12026e4f73ce8a198ba04e7cf86123.jpg" group-title="SD-HU",Semmi (2022)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSQk8JrF2y-kVJrPn-rO7l2c
-#EXTINF:0 CUID="928" tvg-name="After.Chernobyl" tvg-logo="https://api.imageservecdn.com/img_store/2023/02/09/b/bc83a1da0b8c0a34a5a865cf928b3fb8_421_600.jpg" group-title="SD-HU",After.Chernobyl
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSWvoMEOSlI9pMTwMRIhJ7nY
-#EXTINF:0 CUID="929" tvg-name="Kifürkészhetetlen utak (2021)" tvg-logo="http://app.halitv.hu:80/images/7a86363d71c4ffd5710031d7d9b23fdb.jpg" group-title="SD-HU",Kifürkészhetetlen utak (2021)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSVAm9MEJGYJV7QZwCrChIMo
-#EXTINF:0 CUID="930" tvg-name="Kifürkészhetetlen utak 2 (2023)" tvg-logo="http://app.halitv.hu:80/images/c3dad4be167f5563936f43265c7f3e55.jpg" group-title="SD-HU",Kifürkészhetetlen utak 2 (2023)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSTHEHEGjVMepDxn2EvCpF7c
-#EXTINF:0 CUID="932" tvg-name="Nálad vagy nálam? (2023)" tvg-logo="http://app.halitv.hu:80/images/a7b0034471fd30dd101d41a1662bb1fa.jpg" group-title="SD-HU",Nálad vagy nálam? (2023)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSYoWXytTH8ksGP3TQ8uQKng
-#EXTINF:0 CUID="940" tvg-name="Tetőpont: A Pornhub története (2023)" tvg-logo="http://app.halitv.hu:80/images/78a1061b3bf15be5f944af859446a2be.jpg" group-title="SD-HU",Tetőpont: A Pornhub története (2023)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGST_Cs47XhkckO5qm0xEc8oc
-#EXTINF:0 CUID="941" tvg-name="A szomorúság háromszöge (2022)" tvg-logo="http://app.halitv.hu:80/images/e77916d57a0e53dd10a1bb6182c0ef23.jpg" group-title="SD-HU",A szomorúság háromszöge (2022)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSRxvrrpd6t4-K2EVZitesjo
-#EXTINF:0 CUID="942" tvg-name="Csizmás, a kandúr: Az utolsó kívánság (2022)" tvg-logo="http://app.halitv.hu:80/images/e02a002c806356bd6277bb9a7b5e1835.jpg" group-title="SD-HU",Csizmás, a kandúr: Az utolsó kívánság (2022)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSUsYmdyLOxWnMvYAVPvcbc0
-#EXTINF:0 CUID="949" tvg-name="Harc az ismeretlennel (2022)" tvg-logo="http://app.halitv.hu:80/images/d7cce698f1cb9685399a115cf9f18b54.jpg" group-title="SD-HU",Harc az ismeretlennel (2022)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSYB_w0a3vehcYKsWd8zveQ0
-#EXTINF:0 CUID="950" tvg-name="Knight nyomozó 3: Függetlenség (2023)" tvg-logo="http://app.halitv.hu:80/images/171848b1456bd718d146569cb7f13dac.jpg" group-title="SD-HU",Knight nyomozó 3: Függetlenség (2023)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSQgQsKwmtJcfLLczEA255XM
-#EXTINF:0 CUID="951" tvg-name="Babylon (2022)" tvg-logo="http://app.halitv.hu:80/images/933a983f2762ec248f69a1459de2a221.jpg" group-title="SD-HU",Babylon (2022)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSWM35B3NTXpa5EVD9PFOxTw
-#EXTINF:0 CUID="952" tvg-name="Magic Mike utolsó tánca (2023)" tvg-logo="http://app.halitv.hu:80/images/914d0eecf57f1a1b0016bc90b774d90a.jpg" group-title="SD-HU",Magic Mike utolsó tánca (2023)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSSoz1c581upFb-xNU3DBAF8
-#EXTINF:0 CUID="953" tvg-name="Az utolsó utazás (2022)" tvg-logo="http://app.halitv.hu:80/images/c02eccc62caafaa4fab6cefbb45fd97f.jpg" group-title="SD-HU",Az utolsó utazás (2022)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSRgfm3TQGghUkIUoRku6H9g
-#EXTINF:0 CUID="954" tvg-name="Luther: A lemenő nap (2023)" tvg-logo="http://app.halitv.hu:80/images/61720d3d5e7652bb18b4cb3ae2dd84a0.jpg" group-title="SD-HU",Luther: A lemenő nap (2023)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSRHrheOfCCxKkoTHU4a1x18
-#EXTINF:0 CUID="955" tvg-name="Minyonok: Gru színre lép (2022)" tvg-logo="http://app.halitv.hu:80/images/25eaf67d1d87d010e9cf7cb854577fac.jpg" group-title="SD-HU",Minyonok: Gru színre lép (2022)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSSEoIgOGuxGwzbrfvZ4oKdY
-#EXTINF:0 CUID="956" tvg-name="Nyolc ezüstért (2021)" tvg-logo="http://app.halitv.hu:80/images/71d7d5800b4315e0276b6554dbe9c338.jpg" group-title="SD-HU",Nyolc ezüstért (2021)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSQ0Ah2kO1giiFgw6QdDyx_Y
-#EXTINF:0 CUID="957" tvg-name="Esküvő végrendeletre (2023)" tvg-logo="http://app.halitv.hu:80/images/85f425de72065f264cd862b6ee111d76.jpg" group-title="SD-HU",Esküvő végrendeletre (2023)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSZH8lHmXLJ3neZDj6wnMDJI
-#EXTINF:0 CUID="958" tvg-name="Végtelen vihar (2022)" tvg-logo="http://app.halitv.hu:80/images/95143a45c53b903ec79dbcc5e41d6fee.jpg" group-title="SD-HU",Végtelen vihar (2022)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSSsNEnhjoHCQwGrw6Sxqg1Y
-#EXTINF:0 CUID="959" tvg-name="A teszt (2021)" tvg-logo="http://app.halitv.hu:80/images/80db9768fa223cfc0513d7c70a242d80.jpg" group-title="SD-HU",A teszt (2021)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSRnYalVmTHnHDKHXmoTdNyw
-#EXTINF:0 CUID="960" tvg-name="Johnny (2022)" tvg-logo="http://app.halitv.hu:80/images/c52beb85cc67b9ba1681ba9f30a78bc5.jpg" group-title="SD-HU",Johnny (2022)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSfBh2Lp7DzvKiK8TaRlhLdU
-#EXTINF:0 CUID="961" tvg-name="Nyugaton a helyzet változatlan (2022)" tvg-logo="http://app.halitv.hu:80/images/49a33498be9a333f61e73e7522b3d02e.jpg" group-title="SD-HU",Nyugaton a helyzet változatlan (2022)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSb39pUa0gqF83OwKL3DO0WM
-#EXTINF:0 CUID="962" tvg-name="Thor: Szerelem és mennydörgés (2022)" tvg-logo="http://app.halitv.hu:80/images/5e90013bf9c055ccd58a23c58ddf834b.jpg" group-title="SD-HU",Thor: Szerelem és mennydörgés (2022)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSSsTsKte5wVb3dg1XjB5qi8
-#EXTINF:0 CUID="965" tvg-name="Isten lánya (2016)" tvg-logo="http://app.halitv.hu:80/images/cbb77cc573689c6ef1a02abe57de510c.jpg" group-title="SD-HU",Isten lánya (2016)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSaUwcSOJxL32j4QPbSzWaMY
-#EXTINF:0 CUID="966" tvg-name="Hongkongi hajsza (2012)" tvg-logo="http://app.halitv.hu:80/images/477a5814066242d251d2e7e9e9be9016.jpg" group-title="SD-HU",Hongkongi hajsza (2012)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSVEr68mBQ0PGWfu0sAfNGFo
-#EXTINF:0 CUID="967" tvg-name="Csodák az áfonyafarmon (2016)" tvg-logo="http://app.halitv.hu:80/images/33a2fbd005686224e7145f31569693e9.jpg" group-title="SD-HU",Csodák az áfonyafarmon (2016)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGST84oy8SPhGKD5BZUWBN89U
-#EXTINF:0 CUID="968" tvg-name="Rohammentő (2022)" tvg-logo="http://app.halitv.hu:80/images/63a6d9efc437d5ef52b836f446bd235f.jpg" group-title="SD-HU",Rohammentő (2022)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSYTZ98zAU-fPzcI26-OubtA
-#EXTINF:0 CUID="969" tvg-name="Ők (2022)" tvg-logo="http://app.halitv.hu:80/images/a1b8cb442f27629b21ee209374d13ad6.jpg" group-title="SD-HU",Ők (2022)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSYjcG-shvw0bcdzmHtJne0k
-#EXTINF:0 CUID="970" tvg-name="Halványkék szemek (2022)" tvg-logo="http://app.halitv.hu:80/images/cdf4c2a426d168603de011985f894a29.jpg" group-title="SD-HU",Halványkék szemek (2022)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSZw3smqwdDgJdtF3x2Pg5UY
-#EXTINF:0 CUID="971" tvg-name="Kóborlók (2023)" tvg-logo="http://app.halitv.hu:80/images/c63849924a0a334a71d7403d3c3252f4.jpg" group-title="SD-HU",Kóborlók (2023)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSRHF9nTuWtNBpzqUsXG6l70
-#EXTINF:0 CUID="972" tvg-name="Spencer (2021)" tvg-logo="http://app.halitv.hu:80/images/16f863c579513ab4168ff47a2d713b95.jpg" group-title="SD-HU",Spencer (2021)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSV-42KW284AW5FOSYYpq6Vo
-#EXTINF:0 CUID="973" tvg-name="Vérapó (2022)" tvg-logo="http://app.halitv.hu:80/images/80fe7a415f60447fb38fb1eb730aa650.jpg" group-title="SD-HU",Vérapó (2022)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSdIcA8ulUmN5OTdU1brVz3w
-#EXTINF:0 CUID="974" tvg-name="Az áruló, a szerelmem (2022)" tvg-logo="http://app.halitv.hu:80/images/8cf4264b0e04724bba525f6e03ccd7a0.jpg" group-title="SD-HU",Az áruló, a szerelmem (2022)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSfRMQrcGho37f1D5VX9Dh7s
-#EXTINF:0 CUID="975" tvg-name="Váratlan szerelem (2023)" tvg-logo="http://app.halitv.hu:80/images/8e5ab2d77d9426cd3680fe156e6273e1.jpg" group-title="SD-HU",Váratlan szerelem (2023)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSa3_crZ0QW-ooMXqh_OG-Ow
-#EXTINF:0 CUID="976" tvg-name="Leszel a feleségem? (2022)" tvg-logo="http://app.halitv.hu:80/images/235bd66b6a35ae9be084b316d4a8b44a.jpg" group-title="SD-HU",Leszel a feleségem? (2022)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSaivCAg5OhjVadxRyoYGR9Y
-#EXTINF:0 CUID="977" tvg-name="Big Mäck: Az ártatlan bűnöző (2023)" tvg-logo="http://app.halitv.hu:80/images/0254822ef61ee82fdc047e8b5e3461bc.jpg" group-title="SD-HU",Big Mäck: Az ártatlan bűnöző (2023)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSaAOA2gCaRXMYeJwAFKMNhE
-#EXTINF:0 CUID="979" tvg-name="Nyolclábú felügyelő és a rejtélyek rejtélye (2022)" tvg-logo="http://app.halitv.hu:80/images/ea86bd3411f1b448691d525ff500e1b9.jpg" group-title="SD-HU",Nyolclábú felügyelő és a rejtélyek rejtélye (2022)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSY-VyXNobQBRpo4KmHlhT5c
-#EXTINF:0 CUID="980" tvg-name="Miss Fisher és a könnyek kriptája (2020)" tvg-logo="http://app.halitv.hu:80/images/e178780f2fce418d6285d6c657a93cbf.jpg" group-title="SD-HU",Miss Fisher és a könnyek kriptája (2020)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSeU7ZNm1kRBqAtGIpC8HNwI
-#EXTINF:0 CUID="981" tvg-name="Hétfő (2020)" tvg-logo="http://app.halitv.hu:80/images/c7cc3ae4ad8f41daea8daaff416b814a.jpg" group-title="SD-HU",Hétfő (2020)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSZ4EkZgxBbqnacRmU8O-smM
-#EXTINF:0 CUID="985" tvg-name="Az unoka (2022)" tvg-logo="http://app.halitv.hu:80/images/24c7a3f7af458ee16575f21f60d86ee3.jpg" group-title="SD-HU",Az unoka (2022)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSdySmFgOl85NFhVLriTbUrs
-#EXTINF:0 CUID="752" tvg-name="Az Északi (2022)" tvg-logo="http://app.halitv.hu:80/images/a6963a2afa93c114c6d49122932797f2.jpg" group-title="HD-HU",Az Északi (2022)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSRAgeeQ6CZSoydSJKAL9ghg
-#EXTINF:0 CUID="753" tvg-name="A konyhafőnök (2022)" tvg-logo="http://app.halitv.hu:80/images/7fde19225736d6c73aa2ae8a659d43be.jpg" group-title="HD-HU",A konyhafőnök (2022)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSaROUhdn2_6-bS3mbdj-528
-#EXTINF:0 CUID="754" tvg-name="Avatar: A víz útja (2022)" tvg-logo="http://app.halitv.hu:80/images/96a96359a6edad79053fc15074785342.jpg" group-title="HD-HU",Avatar: A víz útja (2022)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSdXOM_A97PGF8GlT0t1b0tM
-#EXTINF:0 CUID="755" tvg-name="Gyagyás Gyilkosság 2. (2023)" tvg-logo="http://app.halitv.hu:80/images/5cbf952c660241e2540c14320ac8fb5f.jpg" group-title="HD-HU",Gyagyás Gyilkosság 2. (2023)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSaYX6V7v8eOKBma6vdVmVGU
-#EXTINF:0 CUID="756" tvg-name="Az új játék (2022)" tvg-logo="http://app.halitv.hu:80/images/2cbfca695debaeefb5ab20ea22e011a1.jpg" group-title="HD-HU",Az új játék (2022)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSaTjrs-xrlnvas48w-jJGBE
-#EXTINF:0 CUID="757" tvg-name="Álnév (2021)" tvg-logo="http://app.halitv.hu:80/images/468f33c917c0bad49b8320ed87297fa8.jpg" group-title="HD-HU",Álnév (2021)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSaUpl2kFN-ryToY6jXTV6zQ
-#EXTINF:0 CUID="758" tvg-name="Boksoon kettős élete (2023)" tvg-logo="http://app.halitv.hu:80/images/9ed4d8f532f0f27bcb234c5ede4ca630.jpg" group-title="HD-HU",Boksoon kettős élete (2023)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSXskzcx1HjhMN0lNU70MOH8
-#EXTINF:0 CUID="759" tvg-name="Szelfi Egyetem (2023)" tvg-logo="http://app.halitv.hu:80/images/74dd4544add9b90332a6aa2645278941.jpg" group-title="HD-HU",Szelfi Egyetem (2023)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSYiFmLwsmKujxiAeymCNhI0
-#EXTINF:0 CUID="939" tvg-name="Az Északi (2022)" tvg-logo="http://app.halitv.hu:80/images/a6963a2afa93c114c6d49122932797f2.jpg" group-title="HD-HU",Az Északi (2022)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSRAgeeQ6CZSoydSJKAL9ghg
-#EXTINF:0 CUID="963" tvg-name="A konyhafőnök (2022)" tvg-logo="http://app.halitv.hu:80/images/7fde19225736d6c73aa2ae8a659d43be.jpg" group-title="HD-HU",A konyhafőnök (2022)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSaROUhdn2_6-bS3mbdj-528
-#EXTINF:0 CUID="964" tvg-name="Avatar: A víz útja (2022)" tvg-logo="http://app.halitv.hu:80/images/96a96359a6edad79053fc15074785342.jpg" group-title="HD-HU",Avatar: A víz útja (2022)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSdXOM_A97PGF8GlT0t1b0tM
-#EXTINF:0 CUID="983" tvg-name="Gyagyás Gyilkosság 2. (2023)" tvg-logo="http://app.halitv.hu:80/images/5cbf952c660241e2540c14320ac8fb5f.jpg" group-title="HD-HU",Gyagyás Gyilkosság 2. (2023)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSaYX6V7v8eOKBma6vdVmVGU
-#EXTINF:0 CUID="984" tvg-name="Az új játék (2022)" tvg-logo="http://app.halitv.hu:80/images/2cbfca695debaeefb5ab20ea22e011a1.jpg" group-title="HD-HU",Az új játék (2022)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSaTjrs-xrlnvas48w-jJGBE
-#EXTINF:0 CUID="986" tvg-name="Álnév (2021)" tvg-logo="http://app.halitv.hu:80/images/468f33c917c0bad49b8320ed87297fa8.jpg" group-title="HD-HU",Álnév (2021)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSaUpl2kFN-ryToY6jXTV6zQ
-#EXTINF:0 CUID="987" tvg-name="Boksoon kettős élete (2023)" tvg-logo="http://app.halitv.hu:80/images/9ed4d8f532f0f27bcb234c5ede4ca630.jpg" group-title="HD-HU",Boksoon kettős élete (2023)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSXskzcx1HjhMN0lNU70MOH8
-#EXTINF:0 CUID="988" tvg-name="Szelfi Egyetem (2023)" tvg-logo="http://app.halitv.hu:80/images/74dd4544add9b90332a6aa2645278941.jpg" group-title="HD-HU",Szelfi Egyetem (2023)
-http://app.halitv.hu/play/oRn-X6TxLVZWZXZWpMTGSYiFmLwsmKujxiAeymCNhI0
-#EXTINF:0 CUID="2" tvg-name="Házasság S1E1 " tvg-logo="http://app.halitv.hu:80/images/4b7f41c4c305ac6545b90de5ba959d8f.jpg" group-title="Sorozat/Hun",Házasság S1E1 
-http://app.halitv.hu/play/AqOSxIk9Wz3pd2uk9u0_y6fnRjT8WFKoymhyrbzd8-s
-#EXTINF:0 CUID="3" tvg-name="Házasság S1E2 " tvg-logo="http://app.halitv.hu:80/images/4b7f41c4c305ac6545b90de5ba959d8f.jpg" group-title="Sorozat/Hun",Házasság S1E2 
-http://app.halitv.hu/play/AqOSxIk9Wz3pd2uk9u0_y6BC7Mc_FeBSUYazbsi_Ulo
-#EXTINF:0 CUID="4" tvg-name="Házasság S1E3 " tvg-logo="http://app.halitv.hu:80/images/4b7f41c4c305ac6545b90de5ba959d8f.jpg" group-title="Sorozat/Hun",Házasság S1E3 
-http://app.halitv.hu/play/AqOSxIk9Wz3pd2uk9u0_y4xrH9Gjj_F93ntIOUU5-XM
-#EXTINF:0 CUID="5" tvg-name="Házasság S1E4 " tvg-logo="http://app.halitv.hu:80/images/4b7f41c4c305ac6545b90de5ba959d8f.jpg" group-title="Sorozat/Hun",Házasság S1E4 
-http://app.halitv.hu/play/AqOSxIk9Wz3pd2uk9u0_y64Onw8KBG-MUpDsl6Xnel8
-#EXTINF:0 CUID="6" tvg-name="Lidia ügyvédnő S1E1 " tvg-logo="http://app.halitv.hu:80/images/157963c356072b9199edfd12845c8c61.jpg" group-title="Sorozat/Hun",Lidia ügyvédnő S1E1 
-http://app.halitv.hu/play/AqOSxIk9Wz3pd2uk9u0_y0nbOUr7r6zosnRo9hXAOAc
-#EXTINF:0 CUID="7" tvg-name="Lidia ügyvédnő S1E2 " tvg-logo="http://app.halitv.hu:80/images/157963c356072b9199edfd12845c8c61.jpg" group-title="Sorozat/Hun",Lidia ügyvédnő S1E2 
-http://app.halitv.hu/play/AqOSxIk9Wz3pd2uk9u0_y9fnYjYNHQmprzIEdf4BOcY
-#EXTINF:0 CUID="8" tvg-name="Lidia ügyvédnő S1E3 " tvg-logo="http://app.halitv.hu:80/images/157963c356072b9199edfd12845c8c61.jpg" group-title="Sorozat/Hun",Lidia ügyvédnő S1E3 
-http://app.halitv.hu/play/AqOSxIk9Wz3pd2uk9u0_y9ojZyOoPSq-QE1uCdxFb64
-#EXTINF:0 CUID="9" tvg-name="Lidia ügyvédnő S1E4 " tvg-logo="http://app.halitv.hu:80/images/157963c356072b9199edfd12845c8c61.jpg" group-title="Sorozat/Hun",Lidia ügyvédnő S1E4 
-http://app.halitv.hu/play/AqOSxIk9Wz3pd2uk9u0_y6fsxgZTGjek5NhcF13uW0A
-#EXTINF:0 CUID="10" tvg-name="Lidia ügyvédnő S1E5 " tvg-logo="http://app.halitv.hu:80/images/157963c356072b9199edfd12845c8c61.jpg" group-title="Sorozat/Hun",Lidia ügyvédnő S1E5 
-http://app.halitv.hu/play/AqOSxIk9Wz3pd2uk9u0_yyu1gbGSZb-UPMMnE9Vj_kA
-#EXTINF:0 CUID="11" tvg-name="Lidia ügyvédnő S1E6 " tvg-logo="http://app.halitv.hu:80/images/157963c356072b9199edfd12845c8c61.jpg" group-title="Sorozat/Hun",Lidia ügyvédnő S1E6 
-http://app.halitv.hu/play/AqOSxIk9Wz3pd2uk9u0_y4GEkjEQSI5I-nn-DFtxy9Q
-#EXTINF:0 CUID="12" tvg-name="A Gyűrűk Ura: A hatalom gyűrűi S1E1 " tvg-logo="http://app.halitv.hu:80/images/1b8d10ee556bfb7deeea478076e1e91a.jpg" group-title="Sorozat/Hun",A Gyűrűk Ura: A hatalom gyűrűi S1E1 
-http://app.halitv.hu/play/AqOSxIk9Wz3pd2uk9u0_y6HsaNaHxCGiD_9EFQFb_Go
-#EXTINF:0 CUID="13" tvg-name="A Gyűrűk Ura: A hatalom gyűrűi S1E2 " tvg-logo="http://app.halitv.hu:80/images/1b8d10ee556bfb7deeea478076e1e91a.jpg" group-title="Sorozat/Hun",A Gyűrűk Ura: A hatalom gyűrűi S1E2 
-http://app.halitv.hu/play/AqOSxIk9Wz3pd2uk9u0_y81jx92j5is4r4okzwNTUXQ
-#EXTINF:0 CUID="14" tvg-name="A Gyűrűk Ura: A hatalom gyűrűi S1E3 " tvg-logo="http://app.halitv.hu:80/images/1b8d10ee556bfb7deeea478076e1e91a.jpg" group-title="Sorozat/Hun",A Gyűrűk Ura: A hatalom gyűrűi S1E3 
-http://app.halitv.hu/play/AqOSxIk9Wz3pd2uk9u0_y5CYza3-5_GcHJxOtri6dcE
-#EXTINF:0 CUID="15" tvg-name="A Gyűrűk Ura: A hatalom gyűrűi S1E4 " tvg-logo="http://app.halitv.hu:80/images/1b8d10ee556bfb7deeea478076e1e91a.jpg" group-title="Sorozat/Hun",A Gyűrűk Ura: A hatalom gyűrűi S1E4 
-http://app.halitv.hu/play/AqOSxIk9Wz3pd2uk9u0_y3VaRDmAkfGNIg00CH9r2Po
-#EXTINF:0 CUID="16" tvg-name="A Gyűrűk Ura: A hatalom gyűrűi S1E5 " tvg-logo="http://app.halitv.hu:80/images/1b8d10ee556bfb7deeea478076e1e91a.jpg" group-title="Sorozat/Hun",A Gyűrűk Ura: A hatalom gyűrűi S1E5 
-http://app.halitv.hu/play/AqOSxIk9Wz3pd2uk9u0_y9vzgIij24jiZPpwt4T_OWk
-#EXTINF:0 CUID="17" tvg-name="A Gyűrűk Ura: A hatalom gyűrűi S1E6 " tvg-logo="http://app.halitv.hu:80/images/1b8d10ee556bfb7deeea478076e1e91a.jpg" group-title="Sorozat/Hun",A Gyűrűk Ura: A hatalom gyűrűi S1E6 
-http://app.halitv.hu/play/AqOSxIk9Wz3pd2uk9u0_y1Fsdu6S7QEUvZnQ9RrGFQA
-#EXTINF:0 CUID="18" tvg-name="A Gyűrűk Ura: A hatalom gyűrűi S1E7 " tvg-logo="http://app.halitv.hu:80/images/1b8d10ee556bfb7deeea478076e1e91a.jpg" group-title="Sorozat/Hun",A Gyűrűk Ura: A hatalom gyűrűi S1E7 
-http://app.halitv.hu/play/AqOSxIk9Wz3pd2uk9u0_y1KL1fF3rYu9sdD-uheIF2A
-#EXTINF:0 CUID="19" tvg-name="A Gyűrűk Ura: A hatalom gyűrűi S1E8 " tvg-logo="http://app.halitv.hu:80/images/1b8d10ee556bfb7deeea478076e1e91a.jpg" group-title="Sorozat/Hun",A Gyűrűk Ura: A hatalom gyűrűi S1E8 
-http://app.halitv.hu/play/AqOSxIk9Wz3pd2uk9u0_yz-xOEtFKxscOGcCGvvWL0o",HU: Ozone Network .:by prémium:.
+#EXTINF:-1,1 Music Channel www.achoAPPS.com
+http://stream.1music.hu/stream/1music.m3u8
+#EXTINF:-1,1 Армения www.achoAPPS.com
+http://amtv1.livestreamingcdn.com/am2abr/tracks-v2a1/index.m3u8
+#EXTINF:-1,1-й Республиканский
+http://dprtv.phoenix-dnr.ru/first-republic-tv
+#EXTINF:-1,100% News www.achoAPPS.com
+http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
+#EXTINF:-1,11 канал Израиль
+https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/playlist.m3u8
+#EXTINF:-1,112 Украина HD www.achoAPPS.com
+http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
+#EXTINF:-1,112 Україна
+http://api.tv.ipnet.ua/api/v1/manifest/1442908080.m3u8
+#EXTINF:-1,24 канал HD www.achoAPPS.com
+http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist_b1328800.m3u8
+#EXTINF:-1,2x2 www.achoAPPS.com
+http://46.32.64.42/s/live/23/86.169.51.136/1/0.m3u8
+#EXTINF:-1,2×2 www.achoAPPS.com
+http://78.29.1.71/live/2x2tv/copy/playlist.m3u8
+#EXTINF:-1,34 www.achoAPPS.com
+http://api.tv.ipnet.ua/api/v1/manifest/2118742463.m3u8
+#EXTINF:-1,360 www.achoAPPS.com
+http://182.73.122.74:10005/bysid/404
+#EXTINF:-1,4 канал
+http://api.tv.ipnet.ua/api/v1/manifest/2118742331.m3u8
+#EXTINF:-1,4 канал Украина
+http://cdn.vsnw.net:8081/interradio/720i.m3u8
+#EXTINF:-1,43 HD www.achoAPPS.com
+http://sochi-strk.ru:1936/strk/43Kanal.stream/playlist.m3u8
+#EXTINF:-1,47 канал Ленинград
+http://194.190.88.34:1935/videowhisper/47channel_live_broadcast.stream/playlist.m3u8
+#EXTINF:-1,4FAN TV www.achoAPPS.com
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+#EXTINF:-1,5 канал
+http://api.tv.ipnet.ua/api/v1/manifest/1293299450.m3u8
+#EXTINF:-1,7 канал
+http://77.245.98.22:8000/play/39/index.m3u8
+#EXTINF:-1,8 Канал
+http://80.65.18.213/perviy_molodeginyi_3100kb.m3u8
+#EXTINF:-1,A HBO www.achoAPPS.com
+http://ott-cdn.ucom.am/s64/index.m3u8
+#EXTINF:-1,a1 www.achoAPPS.com
+http://ott-cdn.ucom.am/s45/index.m3u8
+#EXTINF:-1,A2 www.achoAPPS.com
+http://sc.id-tv.kz/A2_36_37.m3u8
+#EXTINF:-1,A2 www.achoAPPS.com
+http://ott-cdn.ucom.am/s33/index.m3u8
+#EXTINF:-1,ACB TV www.achoAPPS.com
+http://acbtv.vintera.tv:8081/acbtv/acbtv_stream/playlist.m3u8
+#EXTINF:-1,AD Sports 1 HD www.achoAPPS.com
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:-1,AD Sports 2 HD www.achoAPPS.com
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=smartlabs
+https://hls.goodgame.ru/hls/5346.m3u8
+#EXTINF:-1,Al Jazeera Arabic www.achoAPPS.com
+http://ott-cdn.ucom.am/s69/index.m3u8
+#EXTINF:-1,Al Jazeera English www.achoAPPS.com
+http://ott-cdn.ucom.am/s23/index.m3u8
+#EXTINF:-1,Arirang
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1,Armenia Comedy
+http://ott-cdn.ucom.am/s32/index.m3u8
+#EXTINF:-1,Atameken Business Channel
+http://77.245.98.22:8000/play/67/index.m3u8
+#EXTINF:-1,ATR
+http://api.tv.ipnet.ua/api/v1/manifest/2007308341.m3u8
+#EXTINF:-1,Balapan
+http://77.245.98.22:8000/play/34/index.m3u8
+#EXTINF:-1,Bambarbia TV HD
+http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/bbb/bbbtv-720p/playlist.m3u8
+#EXTINF:-1,Bazmoc
+http://ott-cdn.ucom.am/s74/index.m3u8
+#EXTINF:-1,BBC www.achoAPPS.com
+http://ott-cdn.ucom.am/s24/index.m3u8
+#EXTINF:-1,BeBlack Africa
+http://ec.playmedia.fr/beblack/africa/playlist.m3u8
+#EXTINF:-1,BeBlack Caribbean
+http://ec.playmedia.fr/beblack/caribbean/playlist.m3u8
+#EXTINF:-1,BeBlack Classik
+http://ec.playmedia.fr/beblack/classik/playlist.m3u8
+#EXTINF:-1,BigBuckBunny HD www.achoAPPS.com
+http://live.mdcgate.com:8080/hls/bigbuckbunny.m3u8
+#EXTINF:-1,Boutique TV
+http://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0038_nd)/index.m3u8
+#EXTINF:-1,Brain TV HD www.achoAPPS.com
+http://jabber.divan.tv:8002/tv.m3u8
+#EXTINF:-1,1 Music Channel www.achoAPPS.com
+http://stream.1music.hu/stream/1music.m3u8
+#EXTINF:-1,1 Армения
+http://amtv1.livestreamingcdn.com/am2abr/tracks-v2a1/index.m3u8
+#EXTINF:-1,1-й Республиканский
+http://dprtv.phoenix-dnr.ru/first-republic-tv
+#EXTINF:-1,100% News
+http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
+#EXTINF:-1,11 канал Израиль
+https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/playlist.m3u8
+#EXTINF:-1,112 Украина HD
+http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
+#EXTINF:-1,112 Україна
+http://api.tv.ipnet.ua/api/v1/manifest/1442908080.m3u8
+#EXTINF:-1,24 канал HD www.achoAPPS.com
+http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist_b1328800.m3u8
+#EXTINF:-1,2x2
+http://46.32.64.42/s/live/23/86.169.51.136/1/0.m3u8
+#EXTINF:-1,2×2
+http://78.29.1.71/live/2x2tv/copy/playlist.m3u8
+#EXTINF:-1,34
+http://api.tv.ipnet.ua/api/v1/manifest/2118742463.m3u8
+#EXTINF:-1,360
+http://182.73.122.74:10005/bysid/404
+#EXTINF:-1,4 канал
+http://api.tv.ipnet.ua/api/v1/manifest/2118742331.m3u8
+#EXTINF:-1,4 канал Украина
+http://cdn.vsnw.net:8081/interradio/720i.m3u8
+#EXTINF:-1,43 HD www.achoAPPS.com
+http://sochi-strk.ru:1936/strk/43Kanal.stream/playlist.m3u8
+#EXTINF:-1,47 канал Ленинград
+http://194.190.88.34:1935/videowhisper/47channel_live_broadcast.stream/playlist.m3u8
+#EXTINF:-1,4FAN TV www.achoAPPS.com
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+#EXTINF:-1,5 канал
+http://api.tv.ipnet.ua/api/v1/manifest/1293299450.m3u8
+#EXTINF:-1,7 канал
+http://77.245.98.22:8000/play/39/index.m3u8
+#EXTINF:-1,8 Канал
+http://80.65.18.213/perviy_molodeginyi_3100kb.m3u8
+#EXTINF:-1,A HBO www.achoAPPS.com
+http://ott-cdn.ucom.am/s64/index.m3u8
+#EXTINF:-1,a1
+http://ott-cdn.ucom.am/s45/index.m3u8
+#EXTINF:-1,A2
+http://sc.id-tv.kz/A2_36_37.m3u8
+#EXTINF:-1,A2
+http://ott-cdn.ucom.am/s33/index.m3u8
+#EXTINF:-1,ACB TV
+http://acbtv.vintera.tv:8081/acbtv/acbtv_stream/playlist.m3u8
+#EXTINF:-1,AD Sports 1 HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:-1,AD Sports 2 HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:-1,Agro TV Moldova
+http://web.sats.gstv.tech/cpl11/540d63d5-8910-4a20-ac15-a7bfcca9dbd3/agrotvweb.m3u8
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=smartlabs
+https://hls.goodgame.ru/hls/5346.m3u8
+#EXTINF:-1,Al Jazeera Arabic
+http://ott-cdn.ucom.am/s69/index.m3u8
+#EXTINF:-1,Al Jazeera English
+http://ott-cdn.ucom.am/s23/index.m3u8
+#EXTINF:-1,Arirang
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1,Armenia Comedy
+http://ott-cdn.ucom.am/s32/index.m3u8
+#EXTINF:-1,Atameken Business Channel
+http://77.245.98.22:8000/play/67/index.m3u8
+#EXTINF:-1,ATR
+http://api.tv.ipnet.ua/api/v1/manifest/2007308341.m3u8
+#EXTINF:-1,Balapan
+http://77.245.98.22:8000/play/34/index.m3u8
+#EXTINF:-1,Bambarbia TV HD
+http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/bbb/bbbtv-720p/playlist.m3u8
+#EXTINF:-1,Bazmoc
+http://ott-cdn.ucom.am/s74/index.m3u8
+#EXTINF:-1,BBC www.achoAPPS.com
+http://ott-cdn.ucom.am/s24/index.m3u8
+#EXTINF:-1,BeBlack Africa www.achoAPPS.com
+http://ec.playmedia.fr/beblack/africa/playlist.m3u8
+#EXTINF:-1,BeBlack Caribbean
+http://ec.playmedia.fr/beblack/caribbean/playlist.m3u8
+#EXTINF:-1,BeBlack Classik
+http://ec.playmedia.fr/beblack/classik/playlist.m3u8
+#EXTINF:-1,BigBuckBunny HD
+http://live.mdcgate.com:8080/hls/bigbuckbunny.m3u8
+#EXTINF:-1,Boutique TV
+http://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0038_nd)/index.m3u8
+#EXTINF:-1,Brain TV HD
+http://jabber.divan.tv:8002/tv.m3u8
+#EXTINF:-1,1 Music Channel
+http://stream.1music.hu/stream/1music.m3u8
+#EXTINF:-1,1 Армения
+http://amtv1.livestreamingcdn.com/am2abr/tracks-v2a1/index.m3u8
+#EXTINF:-1,1-й Республиканский
+http://dprtv.phoenix-dnr.ru/first-republic-tv
+#EXTINF:-1,100% News
+http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
+#EXTINF:-1,11 канал Израиль
+https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/playlist.m3u8
+#EXTINF:-1,112 Украина HD
+http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
+#EXTINF:-1,112 Україна
+http://api.tv.ipnet.ua/api/v1/manifest/1442908080.m3u8
+#EXTINF:-1,24 канал HD
+http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist_b1328800.m3u8
+#EXTINF:-1,2x2
+http://46.32.64.42/s/live/23/86.169.51.136/1/0.m3u8
+#EXTINF:-1,2×2
+http://78.29.1.71/live/2x2tv/copy/playlist.m3u8
+#EXTINF:-1,34
+http://api.tv.ipnet.ua/api/v1/manifest/2118742463.m3u8
+#EXTINF:-1,360
+http://182.73.122.74:10005/bysid/404
+#EXTINF:-1,4 канал
+http://api.tv.ipnet.ua/api/v1/manifest/2118742331.m3u8
+#EXTINF:-1,4 канал Украина
+http://cdn.vsnw.net:8081/interradio/720i.m3u8
+#EXTINF:-1,43 HD
+http://sochi-strk.ru:1936/strk/43Kanal.stream/playlist.m3u8
+#EXTINF:-1,47 канал Ленинград
+http://194.190.88.34:1935/videowhisper/47channel_live_broadcast.stream/playlist.m3u8
+#EXTINF:-1,4FAN TV
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+#EXTINF:-1,5 канал
+http://api.tv.ipnet.ua/api/v1/manifest/1293299450.m3u8
+#EXTINF:-1,7 канал
+http://77.245.98.22:8000/play/39/index.m3u8
+#EXTINF:-1,8 Канал
+http://80.65.18.213/perviy_molodeginyi_3100kb.m3u8
+#EXTINF:-1,A HBO www.achoAPPS.com
+http://ott-cdn.ucom.am/s64/index.m3u8
+#EXTINF:-1,a1 www.achoAPPS.com
+http://ott-cdn.ucom.am/s45/index.m3u8
+#EXTINF:-1,A2 www.achoAPPS.com
+http://sc.id-tv.kz/A2_36_37.m3u8
+#EXTINF:-1,A2 www.achoAPPS.com
+http://ott-cdn.ucom.am/s33/index.m3u8
+#EXTINF:-1,ACB TV www.achoAPPS.com
+http://acbtv.vintera.tv:8081/acbtv/acbtv_stream/playlist.m3u8
+#EXTINF:-1,AD Sports 1 HD www.achoAPPS.com
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:-1,AD Sports 2 HD www.achoAPPS.com
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=smartlabs
+https://hls.goodgame.ru/hls/5346.m3u8
+#EXTINF:-1,Al Jazeera Arabic www.achoAPPS.com
+http://ott-cdn.ucom.am/s69/index.m3u8
+#EXTINF:-1,Al Jazeera English
+http://ott-cdn.ucom.am/s23/index.m3u8
+#EXTINF:-1,Arirang
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1,Armenia Comedy
+http://ott-cdn.ucom.am/s32/index.m3u8
+#EXTINF:-1,Atameken Business Channel
+http://77.245.98.22:8000/play/67/index.m3u8
+#EXTINF:-1,ATR
+http://api.tv.ipnet.ua/api/v1/manifest/2007308341.m3u8
+#EXTINF:-1,Balapan
+http://77.245.98.22:8000/play/34/index.m3u8
+#EXTINF:-1,Bambarbia TV HD
+http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/bbb/bbbtv-720p/playlist.m3u8
+#EXTINF:-1,Bazmoc
+http://ott-cdn.ucom.am/s74/index.m3u8
+#EXTINF:-1,BBC
+http://ott-cdn.ucom.am/s24/index.m3u8
+#EXTINF:-1,BeBlack Africa
+http://ec.playmedia.fr/beblack/africa/playlist.m3u8
+#EXTINF:-1,BeBlack Caribbean
+http://ec.playmedia.fr/beblack/caribbean/playlist.m3u8
+#EXTINF:-1,BeBlack Classik
+http://ec.playmedia.fr/beblack/classik/playlist.m3u8
+#EXTINF:-1,BigBuckBunny HD
+http://live.mdcgate.com:8080/hls/bigbuckbunny.m3u8
+#EXTINF:-1,Boutique TV
+http://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0038_nd)/index.m3u8
+#EXTINF:-1,Brain TV HD
+http://jabber.divan.tv:8002/tv.m3u8
+#EXTINF:-1,1 Music Channel
+http://stream.1music.hu/stream/1music.m3u8
+#EXTINF:-1,1 Армения
+http://amtv1.livestreamingcdn.com/am2abr/tracks-v2a1/index.m3u8
+#EXTINF:-1,1-й Республиканский
+http://dprtv.phoenix-dnr.ru/first-republic-tv
+#EXTINF:-1,100% News
+http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
+#EXTINF:-1,11 канал Израиль
+https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/playlist.m3u8
+#EXTINF:-1,112 Украина HD
+http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
+#EXTINF:-1,112 Україна
+http://api.tv.ipnet.ua/api/v1/manifest/1442908080.m3u8
+#EXTINF:-1,24 канал HD
+http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist_b1328800.m3u8
+#EXTINF:-1,2x2 www.achoAPPS.com
+http://46.32.64.42/s/live/23/86.169.51.136/1/0.m3u8
+#EXTINF:-1,2×2
+http://78.29.1.71/live/2x2tv/copy/playlist.m3u8
+#EXTINF:-1,34
+http://api.tv.ipnet.ua/api/v1/manifest/2118742463.m3u8
+#EXTINF:-1,360
+http://182.73.122.74:10005/bysid/404
+#EXTINF:-1,4 канал
+http://api.tv.ipnet.ua/api/v1/manifest/2118742331.m3u8
+#EXTINF:-1,4 канал Украина
+http://cdn.vsnw.net:8081/interradio/720i.m3u8
+#EXTINF:-1,43 HD www.achoAPPS.com
+http://sochi-strk.ru:1936/strk/43Kanal.stream/playlist.m3u8
+#EXTINF:-1,47 канал Ленинград
+http://194.190.88.34:1935/videowhisper/47channel_live_broadcast.stream/playlist.m3u8
+#EXTINF:-1,4FAN TV www.achoAPPS.com
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+#EXTINF:-1,5 канал
+http://api.tv.ipnet.ua/api/v1/manifest/1293299450.m3u8
+#EXTINF:-1,7 канал
+http://77.245.98.22:8000/play/39/index.m3u8
+#EXTINF:-1,8 Канал
+http://80.65.18.213/perviy_molodeginyi_3100kb.m3u8
+#EXTINF:-1,A HBO www.achoAPPS.com
+http://ott-cdn.ucom.am/s64/index.m3u8
+#EXTINF:-1,a1 www.achoAPPS.com
+http://ott-cdn.ucom.am/s45/index.m3u8
+#EXTINF:-1,A2
+http://sc.id-tv.kz/A2_36_37.m3u8
+#EXTINF:-1,A2 www.achoAPPS.com
+http://ott-cdn.ucom.am/s33/index.m3u8
+#EXTINF:-1,ACB TV www.achoAPPS.com
+http://acbtv.vintera.tv:8081/acbtv/acbtv_stream/playlist.m3u8
+#EXTINF:-1,AD Sports 1 HD www.achoAPPS.com
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:-1,AD Sports 2 HD www.achoAPPS.com
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=smartlabs
+https://hls.goodgame.ru/hls/5346.m3u8
+#EXTINF:-1,Al Jazeera Arabic
+http://ott-cdn.ucom.am/s69/index.m3u8
+#EXTINF:-1,Al Jazeera English
+http://ott-cdn.ucom.am/s23/index.m3u8
+#EXTINF:-1,Arirang
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1,Armenia Comedy
+http://ott-cdn.ucom.am/s32/index.m3u8
+#EXTINF:-1,Atameken Business Channel
+http://77.245.98.22:8000/play/67/index.m3u8
+#EXTINF:-1,ATR
+http://api.tv.ipnet.ua/api/v1/manifest/2007308341.m3u8
+#EXTINF:-1,Balapan
+http://77.245.98.22:8000/play/34/index.m3u8
+#EXTINF:-1,Bambarbia TV HD
+http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/bbb/bbbtv-720p/playlist.m3u8
+#EXTINF:-1,Bazmoc
+http://ott-cdn.ucom.am/s74/index.m3u8
+#EXTINF:-1,BBC
+http://ott-cdn.ucom.am/s24/index.m3u8
+#EXTINF:-1,BeBlack Africa
+http://ec.playmedia.fr/beblack/africa/playlist.m3u8
+#EXTINF:-1,BeBlack Caribbean
+http://ec.playmedia.fr/beblack/caribbean/playlist.m3u8
+#EXTINF:-1,BeBlack Classik
+http://ec.playmedia.fr/beblack/classik/playlist.m3u8
+#EXTINF:-1,BigBuckBunny HD
+http://live.mdcgate.com:8080/hls/bigbuckbunny.m3u8
+#EXTINF:-1,Boutique TV
+http://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0038_nd)/index.m3u8
+#EXTINF:-1,Brain TV HD
+http://jabber.divan.tv:8002/tv.m3u8
+#EXTINF:-1,1 Music Channel
+http://stream.1music.hu/stream/1music.m3u8
+#EXTINF:-1,1 Армения
+http://amtv1.livestreamingcdn.com/am2abr/tracks-v2a1/index.m3u8
+#EXTINF:-1,1-й Республиканский
+http://dprtv.phoenix-dnr.ru/first-republic-tv
+#EXTINF:-1,100% News
+http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
+#EXTINF:-1,11 канал Израиль
+https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/playlist.m3u8
+#EXTINF:-1,112 Украина HD
+http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
+#EXTINF:-1,112 Україна
+http://api.tv.ipnet.ua/api/v1/manifest/1442908080.m3u8
+#EXTINF:-1,24 канал HD
+http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist_b1328800.m3u8
+#EXTINF:-1,2x2
+http://46.32.64.42/s/live/23/86.169.51.136/1/0.m3u8
+#EXTINF:-1,2×2
+http://78.29.1.71/live/2x2tv/copy/playlist.m3u8
+#EXTINF:-1,34
+http://api.tv.ipnet.ua/api/v1/manifest/2118742463.m3u8
+#EXTINF:-1,360
+http://182.73.122.74:10005/bysid/404
+#EXTINF:-1,4 канал
+http://api.tv.ipnet.ua/api/v1/manifest/2118742331.m3u8
+#EXTINF:-1,4 канал Украина
+http://cdn.vsnw.net:8081/interradio/720i.m3u8
+#EXTINF:-1,43 HD
+http://sochi-strk.ru:1936/strk/43Kanal.stream/playlist.m3u8
+#EXTINF:-1,47 канал Ленинград
+http://194.190.88.34:1935/videowhisper/47channel_live_broadcast.stream/playlist.m3u8
+#EXTINF:-1,4FAN TV
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+#EXTINF:-1,5 канал
+http://api.tv.ipnet.ua/api/v1/manifest/1293299450.m3u8
+#EXTINF:-1,7 канал
+http://77.245.98.22:8000/play/39/index.m3u8
+#EXTINF:-1,8 Канал
+http://80.65.18.213/perviy_molodeginyi_3100kb.m3u8
+#EXTINF:-1,A HBO
+http://ott-cdn.ucom.am/s64/index.m3u8
+#EXTINF:-1,a1
+http://ott-cdn.ucom.am/s45/index.m3u8
+#EXTINF:-1,A2
+http://sc.id-tv.kz/A2_36_37.m3u8
+#EXTINF:-1,A2
+http://ott-cdn.ucom.am/s33/index.m3u8
+#EXTINF:-1,ACB TV
+http://acbtv.vintera.tv:8081/acbtv/acbtv_stream/playlist.m3u8
+#EXTINF:-1,AD Sports 1 HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:-1,AD Sports 2 HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=smartlabs
+https://hls.goodgame.ru/hls/5346.m3u8
+#EXTINF:-1,Al Jazeera Arabic
+http://ott-cdn.ucom.am/s69/index.m3u8
+#EXTINF:-1,Al Jazeera English
+http://ott-cdn.ucom.am/s23/index.m3u8
+#EXTINF:-1,Arirang
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1,Armenia Comedy
+http://ott-cdn.ucom.am/s32/index.m3u8
+#EXTINF:-1,Atameken Business Channel
+http://77.245.98.22:8000/play/67/index.m3u8
+#EXTINF:-1,ATR
+http://api.tv.ipnet.ua/api/v1/manifest/2007308341.m3u8
+#EXTINF:-1,Balapan
+http://77.245.98.22:8000/play/34/index.m3u8
+#EXTINF:-1,Bambarbia TV HD
+http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/bbb/bbbtv-720p/playlist.m3u8
+#EXTINF:-1,Bazmoc
+http://ott-cdn.ucom.am/s74/index.m3u8
+#EXTINF:-1,BBC
+http://ott-cdn.ucom.am/s24/index.m3u8
+#EXTINF:-1,BeBlack Africa
+http://ec.playmedia.fr/beblack/africa/playlist.m3u8
+#EXTINF:-1,BeBlack Caribbean
+http://ec.playmedia.fr/beblack/caribbean/playlist.m3u8
+#EXTINF:-1,BeBlack Classik
+http://ec.playmedia.fr/beblack/classik/playlist.m3u8
+#EXTINF:-1,BigBuckBunny HD
+http://live.mdcgate.com:8080/hls/bigbuckbunny.m3u8
+#EXTINF:-1,Boutique TV
+http://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0038_nd)/index.m3u8
+#EXTINF:-1,Brain TV HD
+http://jabber.divan.tv:8002/tv.m3u8
