@@ -1,3 +1,108 @@
 #EXTM3U
-#EXTINF:-1 Caracol TV (720p) [Geo-blocked]
+#EXTINF:-1 group-title="Variado", Caracol TV (720p) [Geo-blocked]
 https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
+
+#EXTINF:-1 group-title="Variado", Caracol HD (CO)
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/304245
+
+#EXTINF:-1 group-title="Variado", Caracol FHD (CO)
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/304243
+
+#EXTINF:-1 group-title="Variado", Caracol Internacional FHD (CO)
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/304247
+
+#EXTINF:-1 group-title="Variado", RCN Más (1080p)
+https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Variado", Señal Colombia (1080p)
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Variado", ATV (Colombia) (🇨🇴)
+https://movil.ejeserver.com/live/verteve.m3u8
+
+#EXTINF:-1 group-title="Variado", Telecaribe (Puerto Colombia | Atlántico) (720p)
+https://tkx.mp.lura.live/rest/v2/mcp/video/adstB64MXYxqLZwy?anvack=4gXmVVoVIp3YeECJWm6af3j0mlHwl6vO&eud=SKjoH1L/9Enwo5zQBiBTRfTSNGfENMNO6udm4CQNVvix/L9XX8kucBOvzWalIghNrL5GllGH8ou17ICYGv29Rg==
+
+#EXTINF:-1 group-title="Variado", TDI Colombia (720p) [Not 24/7]
+https://play.amelbasoluciones.co:3971/live/tdicolombiatvlive.m3u8
+
+#EXTINF:-1 group-title="Variado", Cable Noticias FHD (CO) "opc1"
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/304219
+
+#EXTINF:-1 group-title="Variado", Cable Noticias FHD (CO) "opc2"
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/304220
+
+#EXTINF:-1 group-title="Variado", Cable Noticias SD (CO)
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/304221
+
+#EXTINF:-1 group-title="Variado", Canal 1 FHD (CO)
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58
+
+#EXTINF:-1 group-title="Variado", Canal 1 SD (CO)
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/304225
+
+#EXTINF:-1 group-title="Variado", Canal 1 HD (CO)
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/304224
+
+#EXTINF:-1 group-title="Variado", Canal Trece HD (CO)
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/304234
+
+#EXTINF:-1 group-title="Variado", Canal Trece FHD (CO)
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/304235
+
+#EXTINF:-1 group-title="Variado", NTN24 SD (CO)
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/304255
+
+#EXTINF:-1 group-title="Variado", RCN FHD (CO)
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/304257
+
+#EXTINF:-1 group-title="Variado", RCN SD (CO)
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/304258
+
+#EXTINF:-1 group-title="Variado", RCN HD (CO)
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/304259
+
+#EXTINF:-1 group-title="Variado", RCN Telenovelas SD (CO)
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/304262
+
+#EXTINF:-1 group-title="Variado", Tvagro FHD (CO)
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/304285
+
+#EXTINF:-1 group-title="Variado", RCN Nuestra Tele Int. SD (CO)
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/313029
+
+#EXTINF:-1 group-title="Variado", RCN Internacional FHD (CO)
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/313031
+
+#EXTINF:-1 group-title="Variado", City TV SD (CO)
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/304249
+
+#EXTINF:-1 group-title="Variado", Cable Noticias FHD (CO)
+http://hplay.xyz:80/yvxirwzy/5cc0IH0nr0/304219
+
+#EXTINF:-1 group-title="Variado", Cable Noticias SD (CO)
+http://hplay.xyz:80/yvxirwzy/5cc0IH0nr0/304221
+
+#EXTINF:-1 group-title="Variado", Comedy Central
+http://bptv.club:8080/hector93/7985/12015
+
+#EXTINF:-1 group-title="Variado", Comedy Central HD
+http://bptv.club:8080/hector93/7985/15
+
+#EXTINF:-1 group-title="Variado", Distrito Comedia
+http://bptv.club:8080/hector93/7985/6511
+
+#EXTINF:-1 group-title="Variado", DW HD
+http://bptv.club:8080/hector93/7985/63
+
+#EXTINF:-1 group-title="Variado", Telemundo
+http://bptv.club:8080/hector93/7985/7193
+
+#EXTINF:-1 group-title="Variado", Telemundo HD
+http://bptv.club:8080/hector93/7985/7498
+
+#EXTINF:-1 group-title="Variado", Telemundo Int HD
+http://bptv.club:8080/hector93/7985/7
+
+#EXTINF:-1 group-title="Variado", TNT Novelas HD
+http://bptv.club:8080/hector93/7985/44712
