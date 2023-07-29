@@ -296,6 +296,12 @@ http://gotv.vip:8880/Jaime/Jaime123/20
 #EXTINF:-1 group-title="Peliculas", FX
 http://gotv.vip:8880/Jaime/Jaime123/80
 
+#EXTINF:-1 group-title="Peliculas", CO: Cinecanal
+http://aanax.com:8080/GenIptvLast/cGW7qTY5txZ3DOfz/290335
+
+#EXTINF:-1 group-title="Peliculas", SD:SPACE
+http://castlempire.site:8080/victor/Pf9Uz1SD6d/190248
+
 #EXTINF:-1 group-title="Infantiles", Disney Live HD
 http://bptv.club:8080/hector93/7985/6322
 
@@ -335,10 +341,29 @@ http://bptv.club:8080/hector93/7985/141
 #EXTINF:-1 group-title="24/7", Los Picapiedra
 http://bptv.club:8080/hector93/7985/135
 
-#EXTINF:-1 group-title="24/7", Candy Candy 24/7
+#EXTINF:-1 group-title="24/7", Candy Candy 
 https://v3.playerlatino.live/stream/m3u8/808
 
-deportes
+#EXTINF:-1 group-title="24/7", El Chapulin Colorado (e)(SD)
+http://castlempire.site:8080/victor/Pf9Uz1SD6d/196843
+
+#EXTINF:-1 group-title="24/7", El Chavo del 8 HQ (e)(SD)
+http://castlempire.site:8080/victor/Pf9Uz1SD6d/196844
+
+#EXTINF:-1 group-title="24/7", El nuevo show del P\'e1jaro Loco (e)
+http://castlempire.site:8080/victor/Pf9Uz1SD6d/196848
+
+#EXTINF:-1 group-title="24/7", Futurama (e)(720)
+http://castlempire.site:8080/victor/Pf9Uz1SD6d/196867
+
+#EXTINF:-1 group-title="24/7", Los Simpsons S01 a S20 (e)(720)
+http://castlempire.site:8080/victor/Pf9Uz1SD6d/196925
+
+#EXTINF:-1 group-title="24/7", Los Simpsons S20 a S30  (e)(720)
+http://castlempire.site:8080/victor/Pf9Uz1SD6d/196926
+
+#EXTINF:-1 group-title="24/7", La Pantera Rosa (e)(720)
+http://castlempire.site:8080/victor/Pf9Uz1SD6d/196899
 
 #EXTINF:-1 group-title="Deporte", CO: DirecTV Sports
 http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298363
@@ -367,6 +392,27 @@ http://gotv.vip:8880/Jaime/Jaime123/688
 #EXTINF:-1 group-title="Deporte", ESTADIO TNT SPORTS CHILE
 http://gotv.vip:8880/Jaime/Jaime123/25205
 
+#EXTINF:-1 group-title="Deporte", CO: ESPN
+http://aanax.com:8080/GenIptvLast/cGW7qTY5txZ3DOfz/295642
+
+#EXTINF:-1 group-title="Deporte", CO: ESPN 2
+http://aanax.com:8080/GenIptvLast/cGW7qTY5txZ3DOfz/273212
+
+#EXTINF:-1 group-title="Deporte", CO: ESPN 3
+http://aanax.com:8080/GenIptvLast/cGW7qTY5txZ3DOfz/295641
+
+#EXTINF:-1 group-title="Deporte", CO: ESPN 4
+http://aanax.com:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298683
+
+#EXTINF:-1 group-title="Deporte", CO: FOX Sports 1
+http://aanax.com:8080/GenIptvLast/cGW7qTY5txZ3DOfz/65949
+
+#EXTINF:-1 group-title="Deporte", CO: Fox Sports 2
+http://aanax.com:8080/GenIptvLast/cGW7qTY5txZ3DOfz/198470
+
+#EXTINF:-1 group-title="Deporte", CO: FOX Sports 3
+http://aanax.com:8080/GenIptvLast/cGW7qTY5txZ3DOfz/189906
+
 #EXTINF:-1 group-title="Cultura", A&E
 http://bptv.club:8080/hector93/7985/12043
 
@@ -375,3 +421,30 @@ http://bptv.club:8080/hector93/7985/24
 
 #EXTINF:-1 group-title="Cultura", DISCOVERY TURBO
 http://gotv.vip:8880/Jaime/Jaime123/52
+
+#EXTINF:-1 group-title="Cultura", CO: Discovery Home & Health
+http://aanax.com:8080/GenIptvLast/cGW7qTY5txZ3DOfz/172589
+
+#EXTINF:-1 group-title="Cultura", CO: NAT GEO Wild
+http://aanax.com:8080/GenIptvLast/cGW7qTY5txZ3DOfz/172601
+
+#EXTINF:-1 group-title="Cultura", SD:DISCOVERY CHANNEL
+http://castlempire.site:8080/victor/Pf9Uz1SD6d/190083
+
+#EXTINF:-1 group-title="Cultura", SD:DISCOVERY CHANNEL "OPC2"
+http://castlempire.site:8080/victor/Pf9Uz1SD6d/190084
+
+#EXTINF:-1 group-title="Cultura", SD:DISCOVERY H&H
+http://castlempire.site:8080/victor/Pf9Uz1SD6d/190087
+
+#EXTINF:-1 group-title="Cultura", SD:HISTORY CHANNEL
+http://castlempire.site:8080/UserTest3Octubre_00w/FskXxRJQ3Ys7/190237
+
+#EXTINF:-1 group-title="Cultura", SD:H2
+http://castlempire.site:8080/victor/Pf9Uz1SD6d/190131
+
+#EXTINF:-1 group-title="Cultura", SD:ID
+http://castlempire.site:8080/victor/Pf9Uz1SD6d/190149
+
+#EXTINF:-1 group-title="Cultura", SD:NAT GEO
+http://castlempire.site:8080/victor/Pf9Uz1SD6d/190159
